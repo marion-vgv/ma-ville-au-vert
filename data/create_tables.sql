@@ -47,7 +47,7 @@ CREATE TABLE IF NOT EXISTS "populations" (
 );
 
 CREATE TABLE IF NOT EXISTS "education_places" (
-    "id" INTEGER PRIMARY KEY NOT NULL,
+    "id" SERIAL PRIMARY KEY,
     "id_uai" VARCHAR NOT NULL,
     "id_type" INTEGER NOT NULL REFERENCES "education_type" ("id"),
     "name_place" VARCHAR NOT NULL,
