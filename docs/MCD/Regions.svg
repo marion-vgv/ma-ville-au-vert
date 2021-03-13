@@ -1,0 +1,167 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="623" height="346" view_box="0 0 623 346"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Tue, 09 Mar 2021 21:18:35</desc>
+
+<rect id="frame" x="0" y="0" width="623" height="346" fill="#ffffbf" stroke="none" stroke-width="0"/>
+
+<!-- Association FAIT PARTIE DE -->
+<line x1="419" y1="68" x2="558" y2="68" stroke="#f46d43" stroke-width="2"/>
+<text x="475" y="85.0" fill="#4575b4" font-family="Verdana" font-size="12">1,1</text>
+<line x1="558" y1="177" x2="558" y2="68" stroke="#f46d43" stroke-width="2"/>
+<text x="563.0" y="135" fill="#4575b4" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-FAIT PARTIE DE">
+	<path d="M 600 43 a 14 14 90 0 1 14 14 V 68 h -112 V 57 a 14 14 90 0 1 14 -14" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+	<path d="M 614 68.0 v 11 a 14 14 90 0 1 -14 14 H 516 a 14 14 90 0 1 -14 -14 V 68.0 H 112" fill="#fee090" stroke="#fee090" stroke-width="0"/>
+	<rect x="502" y="43" width="112" height="50" fill="none" rx="14" stroke="#f46d43" stroke-width="2"/>
+	<line x1="502" y1="68" x2="614" y2="68" stroke="#f46d43" stroke-width="1"/>
+	<text x="509" y="60.7" fill="#000000" font-family="Verdana" font-size="12">FAIT PARTIE DE</text>
+</g>
+
+<!-- Association EST DANS -->
+<line x1="419" y1="68" x2="419" y2="177" stroke="#f46d43" stroke-width="2"/>
+<text x="424.0" y="119" fill="#4575b4" font-family="Verdana" font-size="12">1,1</text>
+<line x1="252" y1="177" x2="419" y2="177" stroke="#f46d43" stroke-width="2"/>
+<text x="299" y="194.0" fill="#4575b4" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-EST DANS">
+	<path d="M 444 152 a 14 14 90 0 1 14 14 V 177 h -78 V 166 a 14 14 90 0 1 14 -14" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+	<path d="M 458 177.0 v 11 a 14 14 90 0 1 -14 14 H 394 a 14 14 90 0 1 -14 -14 V 177.0 H 78" fill="#fee090" stroke="#fee090" stroke-width="0"/>
+	<rect x="380" y="152" width="78" height="50" fill="none" rx="14" stroke="#f46d43" stroke-width="2"/>
+	<line x1="380" y1="177" x2="458" y2="177" stroke="#f46d43" stroke-width="1"/>
+	<text x="387" y="169.7" fill="#000000" font-family="Verdana" font-size="12">EST DANS</text>
+</g>
+
+<!-- Association COMPTE X HABITANTS -->
+<line x1="252" y1="177" x2="252" y2="286" stroke="#f46d43" stroke-width="2"/>
+<text x="257.0" y="253" fill="#4575b4" font-family="Verdana" font-size="12">1,1</text>
+<line x1="419" y1="286" x2="252" y2="286" stroke="#f46d43" stroke-width="2"/>
+<text x="335" y="303.0" fill="#4575b4" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-COMPTE X HABITANTS">
+	<path d="M 315 261 a 14 14 90 0 1 14 14 V 286 h -154 V 275 a 14 14 90 0 1 14 -14" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+	<path d="M 329 286.0 v 11 a 14 14 90 0 1 -14 14 H 189 a 14 14 90 0 1 -14 -14 V 286.0 H 154" fill="#fee090" stroke="#fee090" stroke-width="0"/>
+	<rect x="175" y="261" width="154" height="50" fill="none" rx="14" stroke="#f46d43" stroke-width="2"/>
+	<line x1="175" y1="286" x2="329" y2="286" stroke="#f46d43" stroke-width="1"/>
+	<text x="182" y="278.7" fill="#000000" font-family="Verdana" font-size="12">COMPTE X HABITANTS</text>
+</g>
+
+<!-- Association PEUT APPARTENIR A -->
+<line x1="252" y1="177" x2="79" y2="177" stroke="#f46d43" stroke-width="2"/>
+<text x="184" y="194.0" fill="#4575b4" font-family="Verdana" font-size="12">0,1</text>
+<line x1="79" y1="286" x2="79" y2="177" stroke="#f46d43" stroke-width="2"/>
+<text x="84.0" y="227" fill="#4575b4" font-family="Verdana" font-size="12">1,N</text>
+<g id="association-PEUT APPARTENIR A">
+	<path d="M 135 152 a 14 14 90 0 1 14 14 V 177 h -140 V 166 a 14 14 90 0 1 14 -14" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+	<path d="M 149 177.0 v 11 a 14 14 90 0 1 -14 14 H 23 a 14 14 90 0 1 -14 -14 V 177.0 H 140" fill="#fee090" stroke="#fee090" stroke-width="0"/>
+	<rect x="9" y="152" width="140" height="50" fill="none" rx="14" stroke="#f46d43" stroke-width="2"/>
+	<line x1="9" y1="177" x2="149" y2="177" stroke="#f46d43" stroke-width="1"/>
+	<text x="16" y="169.7" fill="#000000" font-family="Verdana" font-size="12">PEUT APPARTENIR A</text>
+</g>
+
+<!-- Association COMPTE X ECOLES -->
+<line x1="79" y1="68" x2="252" y2="68" stroke="#f46d43" stroke-width="2"/>
+<text x="136" y="85.0" fill="#4575b4" font-family="Verdana" font-size="12">0,N</text>
+<line x1="252" y1="177" x2="252" y2="68" stroke="#f46d43" stroke-width="2"/>
+<text x="257.0" y="110" fill="#4575b4" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-COMPTE X ECOLES">
+	<path d="M 303 43 a 14 14 90 0 1 14 14 V 68 h -130 V 57 a 14 14 90 0 1 14 -14" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+	<path d="M 317 68.0 v 11 a 14 14 90 0 1 -14 14 H 201 a 14 14 90 0 1 -14 -14 V 68.0 H 130" fill="#fee090" stroke="#fee090" stroke-width="0"/>
+	<rect x="187" y="43" width="130" height="50" fill="none" rx="14" stroke="#f46d43" stroke-width="2"/>
+	<line x1="187" y1="68" x2="317" y2="68" stroke="#f46d43" stroke-width="1"/>
+	<text x="194" y="60.7" fill="#000000" font-family="Verdana" font-size="12">COMPTE X ECOLES</text>
+</g>
+
+<!-- Entity DEPARTEMENT -->
+<g id="entity-DEPARTEMENT">
+	<g id="frame-DEPARTEMENT">
+		<rect x="368" y="34" width="102" height="25" fill="#abd9e9" stroke="#abd9e9" stroke-width="0"/>
+		<rect x="368" y="59.0" width="102" height="43" fill="#e0f3f8" stroke="#e0f3f8" stroke-width="0"/>
+		<rect x="368" y="34" width="102" height="68" fill="none" stroke="#74add1" stroke-width="2"/>
+		<line x1="368" y1="59" x2="470" y2="59" stroke="#74add1" stroke-width="1"/>
+	</g>
+	<text x="373" y="51.7" fill="#000000" font-family="Verdana" font-size="12">DEPARTEMENT</text>
+	<text x="373" y="76.8" fill="#000000" font-family="Verdana" font-size="12">id_dpt</text>
+	<line x1="373" y1="79" x2="412" y2="79" stroke="#000000" stroke-width="1"/>
+	<text x="373" y="93.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+</g>
+
+<!-- Entity UNITES_URBAINES -->
+<g id="entity-UNITES_URBAINES">
+	<g id="frame-UNITES_URBAINES">
+		<rect x="15" y="235" width="128" height="25" fill="#abd9e9" stroke="#abd9e9" stroke-width="0"/>
+		<rect x="15" y="260.0" width="128" height="77" fill="#e0f3f8" stroke="#e0f3f8" stroke-width="0"/>
+		<rect x="15" y="235" width="128" height="102" fill="none" stroke="#74add1" stroke-width="2"/>
+		<line x1="15" y1="260" x2="143" y2="260" stroke="#74add1" stroke-width="1"/>
+	</g>
+	<text x="20" y="252.7" fill="#000000" font-family="Verdana" font-size="12">UNITES_URBAINES</text>
+	<text x="20" y="277.7" fill="#000000" font-family="Verdana" font-size="12">id_uu</text>
+	<line x1="20" y1="280" x2="55" y2="280" stroke="#000000" stroke-width="1"/>
+	<text x="20" y="294.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="20" y="311.8" fill="#000000" font-family="Verdana" font-size="12">tranche_uu</text>
+	<text x="20" y="328.8" fill="#000000" font-family="Verdana" font-size="12">tranche_detaillee</text>
+</g>
+
+<!-- Entity COMMUNES -->
+<g id="entity-COMMUNES">
+	<g id="frame-COMMUNES">
+		<rect x="210" y="118" width="84" height="25" fill="#abd9e9" stroke="#abd9e9" stroke-width="0"/>
+		<rect x="210" y="143.0" width="84" height="93" fill="#e0f3f8" stroke="#e0f3f8" stroke-width="0"/>
+		<rect x="210" y="118" width="84" height="118" fill="none" stroke="#74add1" stroke-width="2"/>
+		<line x1="210" y1="143" x2="294" y2="143" stroke="#74add1" stroke-width="1"/>
+	</g>
+	<text x="215" y="135.7" fill="#000000" font-family="Verdana" font-size="12">COMMUNES</text>
+	<text x="215" y="160.7" fill="#000000" font-family="Verdana" font-size="12">id_insee</text>
+	<line x1="215" y1="163" x2="266" y2="163" stroke="#000000" stroke-width="1"/>
+	<text x="215" y="177.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+	<text x="215" y="194.8" fill="#000000" font-family="Verdana" font-size="12">id_uu</text>
+	<text x="215" y="211.8" fill="#000000" font-family="Verdana" font-size="12">id_dpt</text>
+	<text x="215" y="228.8" fill="#000000" font-family="Verdana" font-size="12">id_region</text>
+</g>
+
+<!-- Entity REGION -->
+<g id="entity-REGION">
+	<g id="frame-REGION">
+		<rect x="524" y="143" width="68" height="25" fill="#abd9e9" stroke="#abd9e9" stroke-width="0"/>
+		<rect x="524" y="168.0" width="68" height="43" fill="#e0f3f8" stroke="#e0f3f8" stroke-width="0"/>
+		<rect x="524" y="143" width="68" height="68" fill="none" stroke="#74add1" stroke-width="2"/>
+		<line x1="524" y1="168" x2="592" y2="168" stroke="#74add1" stroke-width="1"/>
+	</g>
+	<text x="533" y="160.7" fill="#000000" font-family="Verdana" font-size="12">REGION</text>
+	<text x="529" y="185.8" fill="#000000" font-family="Verdana" font-size="12">id_region</text>
+	<line x1="529" y1="188" x2="586" y2="188" stroke="#000000" stroke-width="1"/>
+	<text x="529" y="202.8" fill="#000000" font-family="Verdana" font-size="12">nom</text>
+</g>
+
+<!-- Entity EDUCATION -->
+<g id="entity-EDUCATION">
+	<g id="frame-EDUCATION">
+		<rect x="27" y="9" width="104" height="25" fill="#abd9e9" stroke="#abd9e9" stroke-width="0"/>
+		<rect x="27" y="34.0" width="104" height="93" fill="#e0f3f8" stroke="#e0f3f8" stroke-width="0"/>
+		<rect x="27" y="9" width="104" height="118" fill="none" stroke="#74add1" stroke-width="2"/>
+		<line x1="27" y1="34" x2="131" y2="34" stroke="#74add1" stroke-width="1"/>
+	</g>
+	<text x="42" y="26.7" fill="#000000" font-family="Verdana" font-size="12">EDUCATION</text>
+	<text x="32" y="51.7" fill="#000000" font-family="Verdana" font-size="12">id_ecole</text>
+	<line x1="32" y1="54" x2="83" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="32" y="68.8" fill="#000000" font-family="Verdana" font-size="12">type</text>
+	<text x="32" y="85.8" fill="#000000" font-family="Verdana" font-size="12">patronyme</text>
+	<text x="32" y="102.8" fill="#000000" font-family="Verdana" font-size="12">code_academie</text>
+	<text x="32" y="119.8" fill="#000000" font-family="Verdana" font-size="12">id_insee</text>
+</g>
+
+<!-- Entity POPULATION -->
+<g id="entity-POPULATION">
+	<g id="frame-POPULATION">
+		<rect x="361" y="252" width="116" height="25" fill="#abd9e9" stroke="#abd9e9" stroke-width="0"/>
+		<rect x="361" y="277.0" width="116" height="43" fill="#e0f3f8" stroke="#e0f3f8" stroke-width="0"/>
+		<rect x="361" y="252" width="116" height="68" fill="none" stroke="#74add1" stroke-width="2"/>
+		<line x1="361" y1="277" x2="477" y2="277" stroke="#74add1" stroke-width="1"/>
+	</g>
+	<text x="379" y="269.7" fill="#000000" font-family="Verdana" font-size="12">POPULATION</text>
+	<text x="366" y="294.8" fill="#000000" font-family="Verdana" font-size="12">id_insee</text>
+	<line x1="366" y1="297" x2="417" y2="297" stroke="#000000" stroke-width="1"/>
+	<text x="366" y="311.8" fill="#000000" font-family="Verdana" font-size="12">population_totale</text>
+</g>
+</svg>

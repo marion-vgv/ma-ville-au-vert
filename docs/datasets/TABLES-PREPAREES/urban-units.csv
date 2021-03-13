@@ -1,0 +1,2566 @@
+﻿id,name_uu,tranche_uu,tranche_detailled
+00151,Lécluse,1,11
+00152,Olonzac,1,11
+00153,Cussey-sur-l'Ognon,1,11
+00154,Aumale,1,11
+00155,Gouy-sous-Bellonne,1,11
+00156,Bessé-sur-Braye,1,12
+00157,Incheville,1,13
+00158,Gamaches,1,13
+00159,Entre-deux-Guiers,1,13
+00160,Sablons,1,13
+00161,Arleux,1,13
+00162,Blangy-sur-Bresle,1,13
+00163,Vayrac,1,14
+00164,Saint-Georges-sur-Cher,1,14
+00165,Seyssel,1,14
+00166,Saint-Ouen-de-Thouberville,1,14
+00167,Châtenois-les-Forges,1,14
+00251,Pontacq,2,21
+00252,Plestin-les-Grèves,2,21
+00253,Ivry-la-Bataille,2,21
+00254,Montréjeau,2,21
+00255,Descartes,2,21
+00256,Chazelles-sur-Lyon,2,21
+00257,Chauffailles,2,21
+00258,Chagny,2,21
+00259,Castillon-la-Bataille,2,21
+00260,Aire-sur-l'Adour,2,22
+00261,Terrasson-Lavilledieu,2,22
+00262,Raon-l'Étape,2,22
+00263,Condé-en-Normandie,2,22
+00264,Beaucourt,2,22
+00265,Le Malesherbois,2,22
+00266,Souppes-sur-Loing,2,22
+00267,Carhaix-Plouguer,2,22
+00268,Saint-Rambert-d'Albon,2,22
+00269,Pontcharra,2,22
+00270,Digoin,2,22
+00351,Brassac-les-Mines,3,31
+00352,Montpon-Ménestérol,3,31
+00353,Saint-Vallier,3,31
+00354,Épernon,3,31
+00355,Ézy-sur-Eure,3,31
+00356,Saint-Lubin-des-Joncherets-Nonancourt,3,31
+00357,Gisors,3,31
+00358,Allevard,3,31
+00359,Eu,3,32
+00360,Valserhône,3,32
+00361,Le Grau-du-Roi,3,32
+00362,Clisson,3,32
+00451,Belleville-en-Beaujolais,4,41
+00452,Esch-sur-Alzette (LUX)-Villerupt (partie française),4,41
+00453,Le Pont-de-Beauvoisin,4,41
+00454,Honfleur,4,41
+00455,Jœuf,4,41
+00456,Redon,4,41
+00457,Saint-Laurent-de-la-Salanque,4,41
+00458,Marmande,4,42
+00459,Tournon-sur-Rhône,4,43
+00460,Saint-Dizier,4,43
+00461,Beaucaire,4,43
+00462,Dinard,4,43
+00463,Persan-Beaumont-sur-Oise,4,43
+00464,Alençon,4,44
+00465,Sallanches,4,44
+00551,Lunel,5,51
+00552,Arles,5,51
+00553,Montélimar,5,51
+00554,Mâcon,5,51
+00555,Bergerac,5,51
+00556,Saint-Omer,5,52
+00557,Brive-la-Gaillarde,5,52
+00558,Belfort,5,52
+00559,Vienne,5,52
+00651,Montbéliard,6,61
+00652,Valence,6,61
+00653,Genève (SUI)-Annemasse (partie française),6,61
+00751,Bayonne (partie française),7,71
+00752,Béthune,7,72
+00753,Saint-Étienne,7,72
+00754,Avignon,7,72
+00755,Rouen,7,72
+00756,Douai-Lens,7,73
+00757,Toulon,7,73
+00758,Toulouse,7,73
+00759,Marseille-Aix-en-Provence,7,73
+00760,Lyon,7,73
+00851,Paris,8,80
+01101,Saint-Martin-du-Frêne,1,11
+01102,Échenevex,1,11
+01103,Versonnex,1,11
+01104,Châtillon-la-Palud,1,11
+01105,Chalamont,1,11
+01106,Polliat,1,12
+01107,Saint-Maurice-de-Gourdans,1,12
+01108,Buellas,1,12
+01109,Vonnas,1,12
+01110,Pont-d'Ain,1,12
+01111,Culoz,1,13
+01112,Loyettes,1,13
+01113,Attignat,1,13
+01114,Feillens,1,13
+01115,Saint-André-de-Corcy,1,13
+01116,Montagnat,1,13
+01117,Villieu-Loyes-Mollon,1,13
+01118,Péron,1,13
+01119,Montrevel-en-Bresse,1,13
+01120,Replonges,1,13
+01121,Jujurieux,1,13
+01122,Crozet,1,13
+01123,Ceyzériat,1,14
+01124,Nantua,1,14
+01125,Pont-de-Vaux,1,14
+01126,Crottet-Pont-de-Veyle,1,14
+01127,Saint-Didier-sur-Chalaronne-Thoissey,1,14
+01128,Villars-les-Dombes,1,14
+01129,Plateau d'Hauteville,1,14
+01130,Châtillon-sur-Chalaronne,1,14
+01201,Bâgé-Dommartin,2,21
+01202,Béligneux,2,21
+01203,Montréal-la-Cluse,2,22
+01204,Lagnieu,2,22
+01205,Divonne-les-Bains (partie française),2,22
+01301,Belley,3,31
+01302,Meximieux,3,31
+01303,Ambérieu-en-Bugey,3,32
+01401,Gex,4,41
+01402,Oyonnax,4,43
+01501,Bourg-en-Bresse,5,51
+02101,Vailly-sur-Aisne,1,11
+02102,Sissonne,1,11
+02103,La Ferté-Milon,1,11
+02104,Braine,1,11
+02105,Nesles-la-Montagne,1,11
+02106,Marle,1,11
+02107,Saint-Gobain,1,11
+02108,Venizel,1,12
+02109,Le Nouvion-en-Thiérache,1,12
+02110,Villeneuve-sur-Aisne,1,12
+02111,Montescourt-Lizerolles,1,12
+02112,Fresnoy-le-Grand,1,12
+02113,Fère-en-Tardenois,1,13
+02114,Origny-Sainte-Benoite,1,13
+02115,Étreux,1,13
+02116,Saint-Michel,1,13
+02117,Vervins,1,13
+02118,Pinon,1,14
+02119,Guise,1,14
+02201,Bohain-en-Vermandois,2,21
+02202,Charly-sur-Marne,2,22
+02203,Hirson,2,22
+02301,Villers-Cotterêts,3,31
+02302,Chauny,3,32
+02401,Château-Thierry,4,41
+02402,Tergnier,4,41
+02403,Laon,4,42
+02404,Soissons,4,44
+02501,Saint-Quentin,5,51
+03101,Néris-les-Bains,1,12
+03102,Bourbon-l'Archambault,1,12
+03103,Dompierre-sur-Besbre,1,13
+03104,Varennes-sur-Allier,1,13
+03105,Lapalisse,1,13
+03106,Saint-Germain-des-Fossés,1,14
+03201,Saint-Pourçain-sur-Sioule,2,21
+03202,Gannat,2,21
+03203,Commentry,2,22
+03401,Moulins,4,43
+03501,Montluçon,5,51
+03502,Vichy,5,51
+04101,Aiglun,1,11
+04102,Gréoux-les-Bains,1,12
+04103,Peyruis,1,12
+04104,Volx,1,13
+04105,Valensole,1,13
+04106,Barcelonnette,1,13
+04107,Les Mées,1,13
+04108,Villeneuve,1,14
+04201,Forcalquier,2,21
+04202,Oraison,2,22
+04203,Château-Arnoux-Saint-Auban,2,22
+04204,Sisteron,2,22
+04301,Digne-les-Bains,3,32
+04401,Manosque,4,43
+05101,L'Argentière-la-Bessée,1,11
+05102,Tallard,1,11
+05103,Chorges,1,12
+05104,Guillestre,1,13
+05105,Veynes,1,13
+05106,Laragne-Montéglin,1,13
+05201,Embrun,2,22
+05301,Briançon,3,32
+05401,Gap,4,44
+06101,Breil-sur-Roya,1,11
+06102,L'Escarène,1,12
+06103,Saint-Martin-du-Var,1,13
+06104,Roquebillière,1,13
+06105,Saint-Vallier-de-Thiey,1,13
+06106,Sospel,1,13
+06107,Saint-Cézaire-sur-Siagne,1,13
+06108,Levens,1,14
+06501,Menton-Monaco (partie française),5,51
+06701,Nice,7,73
+07101,Lavilledieu,1,11
+07102,Lamastre,1,11
+07103,Lalevade-d'Ardèche,1,11
+07104,Villeneuve-de-Berg,1,12
+07105,Cruas,1,13
+07106,Vallon-Pont-d'Arc,1,13
+07107,Le Cheylard,1,13
+07108,Viviers,1,13
+07109,Chomérac,1,13
+07110,Peaugres,1,13
+07111,Saint-Julien-en-Saint-Alban,1,13
+07112,Le Pouzin,1,14
+07113,Les Vans,1,14
+07114,Ruoms,1,14
+07201,Bourg-Saint-Andéol,2,22
+07202,La Voulte-sur-Rhône,2,22
+07203,Charmes-sur-Rhône,2,22
+07301,Privas,3,31
+07401,Annonay,4,42
+07402,Aubenas,4,44
+08101,Donchery,1,11
+08102,Monthermé,1,11
+08103,Rocroi,1,12
+08104,Vireux-Wallerand,1,13
+08105,Carignan,1,14
+08106,Vouziers,1,14
+08201,Nouvion-sur-Meuse,2,21
+08202,Fumay,2,21
+08203,Bogny-sur-Meuse,2,21
+08204,Revin,2,21
+08205,Vrigne aux Bois,2,21
+08206,Nouzonville,2,21
+08207,Givet,2,22
+08208,Rethel,2,22
+08401,Sedan,4,42
+08501,Charleville-Mézières,5,51
+09101,Laroque-d'Olmes,1,11
+09102,Montgaillard,1,12
+09103,Mirepoix,1,13
+09104,La Tour-du-Crieu,1,13
+09105,Mazères,1,13
+09106,Saverdun,1,14
+09201,Tarascon-sur-Ariège,2,21
+09202,Lavelanet,2,22
+09203,Saint-Girons,2,22
+09301,Foix,3,31
+09401,Pamiers,4,42
+10101,Marigny-le-Châtel,1,11
+10102,Lusigny-sur-Barse,1,11
+10103,Vendeuvre-sur-Barse,1,11
+10104,Villenauxe-la-Grande,1,12
+10105,Saint-Lyé,1,12
+10106,Bar-sur-Seine,1,13
+10107,Brienne-le-Château,1,13
+10108,Arcis-sur-Aube,1,13
+10109,Aix-Villemaur-Pâlis,1,13
+10201,Bar-sur-Aube,2,21
+10202,Nogent-sur-Seine,2,21
+10301,Romilly-sur-Seine,3,32
+10601,Troyes,6,61
+11101,Argeliers,1,11
+11102,Canet,1,11
+11103,Palaja,1,11
+11104,Ouveillan,1,11
+11105,Pennautier,1,12
+11106,Vinassan,1,12
+11107,Sallèles-d'Aude,1,12
+11108,Rieux-Minervois,1,13
+11109,Bram,1,13
+11110,Conques-sur-Orbiel,1,13
+11111,Quillan,1,13
+11112,Cuxac-d'Aude,1,14
+11113,Saint-Nazaire-d'Aude,1,14
+11114,Espéraza,1,14
+11201,Gruissan,2,21
+11202,Sigean,2,21
+11203,Port-la-Nouvelle,2,21
+11204,Trèbes,2,21
+11205,Coursan,2,21
+11206,Villemoustaussou,2,21
+11207,Fleury,2,22
+11301,Lézignan-Corbières,3,31
+11302,Limoux,3,31
+11303,Castelnaudary,3,31
+11401,Carcassonne,4,44
+11501,Narbonne,5,51
+12101,Laissac-Sévérac l'Église,1,11
+12102,Valady,1,12
+12103,Baraqueville,1,13
+12104,Sébazac-Concourès,1,13
+12105,Sévérac d'Aveyron,1,14
+12106,Capdenac-Gare,1,14
+12201,Espalion,2,21
+12202,Saint-Affrique,2,22
+12301,Villefranche-de-Rouergue,3,31
+12302,Decazeville,3,31
+12401,Millau,4,41
+12402,Rodez,4,44
+13101,Saintes-Maries-de-la-Mer,1,11
+13102,Orgon,1,12
+13103,Mouriès,1,13
+13104,Fontvieille,1,13
+13105,Coudoux,1,13
+13106,Meyrargues,1,13
+13107,Maussane-les-Alpilles,1,14
+13108,Rognes,1,14
+13201,Cuges-les-Pins,2,21
+13202,Le Rove,2,21
+13203,La Roque-d'Anthéron,2,21
+13204,Ensuès-la-Redonne,2,21
+13205,Saint-Cannat,2,21
+13206,Le Puy-Sainte-Réparade,2,21
+13207,Carnoux-en-Provence,2,21
+13208,Sénas,2,21
+13209,Eyguières,2,22
+13210,Port-Saint-Louis-du-Rhône,2,22
+13211,La Fare-les-Oliviers,2,22
+13212,Lançon-Provence,2,22
+13213,Peyrolles-en-Provence,2,22
+13214,Lambesc,2,22
+13301,Cassis,3,31
+13302,Saint-Rémy-de-Provence,3,31
+13303,Mallemort,3,31
+13304,Saint-Martin-de-Crau,3,31
+13305,Sausset-les-Pins-Carry-le-Rouet,3,31
+13501,Salon-de-Provence,5,51
+14101,Potigny,1,11
+14102,Mathieu,1,11
+14103,Cairon,1,12
+14104,Dozulé,1,12
+14105,Louvigny,1,12
+14106,Orbec,1,13
+14107,Le Molay-Littry,1,13
+14108,Évrecy,1,13
+14109,Colleville-Montgomery,1,13
+14110,Le Hom,1,13
+14111,Villers-Bocage,1,13
+14112,Troarn,2,21
+14113,Frénouville,1,13
+14114,Ranville,1,13
+14115,Courseulles-sur-Mer,1,14
+14116,Les Monts d'Aunay,1,14
+14201,Douvres-la-Délivrande-Luc-sur-Mer,2,21
+14202,Pont-l'Évêque,2,21
+14203,Hermanville-sur-Mer,2,21
+14204,Thue et Mue,2,21
+14205,Livarot-Pays-d'Auge,2,21
+14206,Saint-Martin-de-Fontenay,2,21
+14207,Saint-Pierre-en-Auge,2,22
+14208,Blainville-sur-Orne,2,22
+14209,Falaise,2,22
+14210,Argences,2,22
+14211,Ouistreham,2,22
+14212,Luc-sur-Mer,2,22
+14213,Mézidon Vallée d'Auge,2,22
+14301,Vire Normandie,3,32
+14302,Bayeux,3,32
+14401,Lisieux,4,43
+14402,Dives-sur-Mer,4,43
+14701,Caen,7,71
+15101,Riom-ès-Montagnes,1,12
+15102,Ydes,1,12
+15103,Maurs,1,12
+15104,Mauriac,1,13
+15201,Saint-Flour,2,21
+15401,Aurillac,4,43
+16101,Mansle,1,11
+16102,Confolens,1,12
+16103,Chasseneuil-sur-Bonnieure,1,13
+16104,Châteauneuf-sur-Charente,1,13
+16105,Ruffec,1,13
+16106,La Rochefoucauld-en-Angoumois,1,13
+16107,Barbezieux-Saint-Hilaire,1,14
+16108,Jarnac,1,14
+16401,Cognac,4,42
+16601,Angoulême,6,61
+17101,Saint-Denis-d'Oléron,1,11
+17102,Esnandes,1,11
+17103,Saint-Laurent-de-la-Prée,1,11
+17104,Matha,1,11
+17105,Saint-Rogatien,1,11
+17106,Villedoux,1,11
+17107,Le Bois-Plage-en-Ré,1,11
+17108,Rivedoux-Plage,1,11
+17109,Saint-Trojan-les-Bains,1,11
+17110,La Jarne,1,11
+17111,Saint-Agnant,1,12
+17112,Médis,1,12
+17113,Breuillet,1,12
+17114,Port-des-Barques,1,12
+17115,Soubise,1,12
+17116,Marsilly,1,13
+17117,Dolus-d'Oléron,1,13
+17118,La Jarrie,1,13
+17119,Sainte-Marie-de-Ré,1,13
+17120,Montendre,1,13
+17121,Saint-Georges-d'Oléron,1,13
+17122,Fouras,1,14
+17123,Aigrefeuille-d'Aunis,1,14
+17124,Pons,1,14
+17125,Le Château-d'Oléron,1,14
+17126,Ars-en-Ré,1,14
+17127,Marans,1,14
+17128,Sainte-Soulle,1,14
+17129,Saint-Xandre,1,14
+17130,La Flotte,1,14
+17201,Jonzac,2,21
+17202,Saint-Pierre-d'Oléron,2,21
+17203,Surgères,2,21
+17204,Saujon,2,22
+17205,Saint-Jean-d'Angély,2,22
+17206,Marennes-Hiers-Brouage,2,22
+17301,La Tremblade,3,31
+17401,Saintes,4,43
+17402,Rochefort,4,43
+17403,Royan,4,43
+17601,La Rochelle,6,61
+18101,Sancerre,1,12
+18102,Léré,1,12
+18103,Sancoins,1,13
+18104,La Guerche-sur-l'Aubois,1,13
+18105,Avord,1,13
+18106,Dun-sur-Auron,1,13
+18107,Trouy,1,13
+18201,Aubigny-sur-Nère,2,21
+18202,Saint-Florent-sur-Cher,2,21
+18203,Mehun-sur-Yèvre,2,21
+18301,Saint-Amand-Montrond,3,31
+18401,Vierzon,4,42
+18501,Bourges,5,52
+19101,Donzenac,1,12
+19102,Bort-les-Orgues,1,12
+19103,Uzerche,1,12
+19104,Argentat-sur-Dordogne,1,13
+19105,Égletons,1,14
+19106,Objat,1,14
+19201,Allassac,2,21
+19202,Ussel,2,22
+19401,Tulle,4,41
+21101,Brazey-en-Plaine,1,11
+21102,Selongey,1,11
+21103,Saulieu,1,11
+21104,Arc-sur-Tille,1,12
+21105,Seurre,1,12
+21106,Saint-Jean-de-Losne,1,13
+21107,Venarey-les-Laumes,1,13
+21108,Semur-en-Auxois,1,14
+21109,Saint-Julien,1,14
+21110,Gevrey-Chambertin,1,14
+21201,Genlis,2,21
+21202,Châtillon-sur-Seine,2,21
+21203,Montbard,2,21
+21204,Nuits-Saint-Georges,2,21
+21205,Is-sur-Tille,2,21
+21206,Auxonne,2,22
+21401,Beaune,4,41
+21701,Dijon,7,71
+22101,Quintin,1,12
+22102,Broons,1,12
+22103,Merdrignac,1,12
+22104,Rostrenen,1,13
+22105,Plouézec,1,13
+22106,Saint-Cast-le-Guildo,1,13
+22107,Plouaret,1,13
+22108,Plouër-sur-Rance,1,13
+22109,Trébeurden,1,13
+22110,Plémet,1,13
+22111,Lanvollon,1,13
+22112,La Roche-Jaudy,1,13
+22113,Pommeret,1,13
+22114,Châtelaudren-Plouagat,1,13
+22115,Erquy,1,13
+22116,Plœuc-L'Hermitage,1,14
+22117,Pléneuf-Val-André,1,14
+22118,Plouha,1,14
+22119,Bégard,1,14
+22201,Plancoët,2,21
+22202,Plaintel,2,21
+22203,Tréguier,2,21
+22204,Plédran,2,21
+22205,Pordic,2,22
+22206,Loudéac,2,22
+22301,Binic-Étables-sur-Mer,3,31
+22302,Lamballe-Armor,3,32
+22303,Paimpol,3,32
+22401,Guingamp,4,41
+22402,Dinan,4,42
+22403,Lannion,4,44
+22501,Saint-Brieuc,5,52
+23101,Bourganeuf,1,12
+23102,Aubusson,1,13
+23201,La Souterraine,2,21
+23301,Guéret,3,31
+24101,Excideuil,1,11
+24102,Montcaret,1,12
+24103,Le Bugue,1,12
+24104,Eymet,1,12
+24105,Montignac,1,12
+24106,Le Lardin-Saint-Lazare,1,13
+24107,Neuvic,1,13
+24108,Razac-sur-l'Isle,1,13
+24109,Nontron,1,13
+24110,Thiviers,1,13
+24111,Ribérac,1,14
+24112,Lalinde,1,14
+24201,Saint-Astier,2,21
+24202,Mussidan,2,22
+24203,Sarlat-la-Canéda,2,22
+24501,Périgueux,5,51
+25101,Colombier-Fontaine,1,11
+25102,Goux-les-Usiers,1,11
+25103,Arcey,1,11
+25104,Le Russey,1,11
+25105,Montferrand-le-Château,1,12
+25106,Les Auxons,1,12
+25107,Charquemont,1,12
+25108,L'Isle-sur-le-Doubs,1,13
+25109,Saône,1,13
+25110,Ornans,1,14
+25111,Roche-lez-Beaupré,1,14
+25112,Maîche,1,14
+25113,Saint-Vit,1,14
+25114,Villers-le-Lac,1,14
+25201,Baume-les-Dames,2,21
+25202,Valdahon,2,21
+25203,Pont-de-Roide-Vermondans,2,21
+25204,Pouilley-les-Vignes,2,21
+25301,Morteau,3,31
+25401,Pontarlier,4,41
+25601,Besançon,6,61
+26101,Suze-la-Rousse,1,11
+26102,Buis-les-Baronnies,1,11
+26103,Allex,1,12
+26104,Saint-Jean-en-Royans,1,13
+26105,Anneyron,1,13
+26106,Dieulefit,1,14
+26107,Montélier,1,14
+26108,Saint-Donat-sur-l'Herbasse,1,14
+26109,Die,1,14
+26110,Châteauneuf-du-Rhône,1,14
+26201,Donzère,2,21
+26202,Nyons,2,21
+26203,Chabeuil,2,21
+26204,Beaumont-lès-Valence,2,22
+26301,Saint-Paul-Trois-Châteaux,3,31
+26302,Pierrelatte,3,31
+26303,Crest,3,31
+26304,Livron-sur-Drôme,3,32
+26501,Romans-sur-Isère,5,51
+27101,La Couture-Boussey,1,11
+27102,La Bonneville-sur-Iton,1,12
+27103,Rugles,1,12
+27104,Routot,1,13
+27105,La Saussaye,1,13
+27106,La Haye-Malherbe,1,13
+27107,Le Thuit de l'Oison,1,13
+27108,Gasny,1,13
+27109,Étrépagny,1,13
+27110,Pîtres,1,13
+27111,Bourg-Achard,1,13
+27112,Saint-André-de-l'Eure,1,13
+27113,Breteuil,1,14
+27114,Fleury-sur-Andelle,1,14
+27115,Le Neubourg,1,14
+27116,Romilly-sur-Andelle,1,14
+27117,Brionne,1,14
+27201,Pont-de-l'Arche,2,21
+27202,Beaumont-le-Roger,2,21
+27203,Mesnils-sur-Iton,2,21
+27204,Conches-en-Ouche,2,21
+27205,Pacy-sur-Eure,2,22
+27206,Verneuil d'Avre et d'Iton,2,22
+27207,Les Andelys,2,22
+27301,Bernay,3,31
+27302,Pont-Audemer,3,32
+27303,Gaillon,3,32
+27401,Vernon,4,43
+27402,Louviers,4,43
+27501,Évreux,5,51
+28101,Abondant,1,11
+28102,Toury,1,12
+28103,Châteauneuf-en-Thymerais,1,12
+28104,Saint-Georges-sur-Eure,1,12
+28105,Courville-sur-Eure,1,12
+28106,Senonches,1,13
+28107,Illiers-Combray,1,13
+28108,La Loupe,1,13
+28109,Les Villages Vovéens,1,13
+28110,Jouy,1,13
+28201,Brou,2,21
+28202,Bonneval,2,21
+28203,Cloyes-les-Trois-Rivières,2,21
+28204,Gallardon,2,21
+28205,Auneau-Bleury-Saint-Symphorien,2,21
+28206,Maintenon,2,22
+28207,Nogent-le-Roi,2,22
+28208,Nogent-le-Rotrou,2,22
+28301,Châteaudun,3,32
+28401,Dreux,4,44
+28501,Chartres,5,52
+29101,Saint-Pabu,1,11
+29102,Lampaul-Plouarzel,1,11
+29103,Kerlouan,1,11
+29104,Hôpital-Camfrout,1,11
+29105,Plonéis,1,11
+29106,Camaret-sur-Mer,1,12
+29107,Névez,1,12
+29108,Le Conquet,1,12
+29109,Pont-Aven,1,12
+29110,Plouvorn,1,12
+29111,Plozévet,1,12
+29112,Saint-Thégonnec Loc-Eguiner,1,13
+29113,Pleyber-Christ,1,13
+29114,Lanmeur,1,13
+29115,Saint-Thonan,1,13
+29116,Plougasnou,1,13
+29117,Plouescat,1,13
+29118,Saint-Évarzec,1,13
+29119,Bourg-Blanc,1,13
+29120,Landéda,1,13
+29121,Pleyben,1,13
+29122,Châteauneuf-du-Faou,1,13
+29123,Loperhet,1,13
+29124,Plouvien,1,13
+29125,Cléder,1,13
+29126,Pont-de-Buis-lès-Quimerch,1,13
+29127,Plomelin,1,14
+29128,Plougonvelin,1,14
+29129,Riec-sur-Bélon,1,14
+29130,Milizac-Guipronvel,1,14
+29131,Carantec,1,14
+29201,Locmaria-Plouzané,2,21
+29202,Plouigneau,2,21
+29203,Porspoder,2,21
+29204,Scaër,2,21
+29205,Châteaulin,2,21
+29206,Bannalec,2,21
+29207,Plonéour-Lanvern,2,21
+29208,Ploudalmézeau,2,21
+29209,Crozon,2,22
+29210,Plouhinec-Audierne,2,22
+29211,Rosporden,2,22
+29212,Briec,2,22
+29213,Guilers,2,22
+29214,Saint-Renan,2,22
+29215,Plabennec,2,22
+29301,Moëlan-sur-Mer,3,31
+29302,Landivisiau,3,31
+29303,Plouguerneau-Lannilis,3,31
+29304,Saint-Pol-de-Léon,3,31
+29305,Lesneven,3,31
+29306,Douarnenez,3,31
+29307,Quimperlé,3,31
+29308,Pont-l'Abbé,3,31
+29309,Landerneau,3,32
+29401,Penmarch,4,41
+29402,Fouesnant,4,41
+29403,Morlaix,4,42
+29404,Concarneau,4,42
+29501,Quimper,5,52
+29701,Brest,7,71
+2A101,Bonifacio,1,13
+2A102,Grosseto-Prugna,1,13
+2A103,Sartène,1,13
+2A104,Albitreccia,1,13
+2A105,Bastelicaccia,1,13
+2A106,Propriano,1,14
+2A301,Porto-Vecchio,3,31
+2A501,Ajaccio,5,52
+2B101,Prunelli-di-Fiumorbo,1,13
+2B102,Ghisonaccia,1,14
+2B103,L'Île-Rousse,1,14
+2B201,Calvi,2,21
+2B202,Corte,2,22
+2B203,Penta-di-Casinca,2,22
+2B401,Borgo,4,41
+2B501,Bastia,5,51
+30101,Saint-Victor-la-Coste,1,11
+30102,Fons,1,11
+30103,La Calmette,1,11
+30104,Aubord,1,11
+30105,Le Cailar,1,11
+30106,Saint-Jean-du-Gard,1,11
+30107,Connaux,1,12
+30108,Saint-Quentin-la-Poterie,1,13
+30109,Saint-Laurent-d'Aigouze,1,13
+30110,Quissac,1,13
+30111,Saint-Geniès-de-Malgoirès,1,13
+30112,Jonquières-Saint-Vincent,1,13
+30113,Poulx,1,13
+30114,Saint-Hippolyte-du-Fort,1,13
+30115,Générac,1,14
+30116,Aramon,1,14
+30117,Clarensac,1,14
+30118,Bessèges,1,14
+30119,Beauvoisin,1,14
+30120,Garons,1,14
+30121,Langlade,1,14
+30201,Saint-Laurent-des-Arbres,2,21
+30202,Roquemaure,2,21
+30203,Aimargues,2,21
+30204,Calvisson,2,21
+30205,Bezouce,2,21
+30206,Pujaut,2,21
+30207,Bouillargues,2,21
+30208,Le Vigan,2,22
+30209,Bellegarde,2,22
+30210,Rochefort-du-Gard,2,22
+30211,Sommières,2,22
+30212,Aigues-Mortes,2,22
+30213,Vergèze,2,22
+30214,La Grand-Combe,2,22
+30301,Manduel,3,31
+30302,Vauvert,3,31
+30303,Uzès,3,31
+30304,Montfrin,3,31
+30305,Saint-Gilles,3,31
+30306,Pont-Saint-Esprit,3,31
+30401,Bagnols-sur-Cèze,4,42
+30501,Alès,5,52
+30601,Nîmes,6,61
+31101,Le Fauga,1,11
+31102,Lévignac,1,11
+31103,Boussens,1,11
+31104,Saint-Sulpice-sur-Lèze,1,11
+31105,Montgiscard,1,11
+31106,Caraman,1,12
+31107,Labastidette,1,12
+31108,Rieux,1,12
+31109,Martres-Tolosane,1,12
+31110,Ayguesvives,1,12
+31111,Salies-du-Salat,1,12
+31112,Buzet-sur-Tarn,1,12
+31113,Bérat,1,13
+31114,Montesquieu-Volvestre,1,13
+31115,Lavernose-Lacasse,1,13
+31116,Lauzerville,1,13
+31117,Baziège,1,13
+31118,Rieumes,1,13
+31119,Verfeil,1,13
+31120,Lherm,1,13
+31121,Nailloux,1,13
+31122,Bagnères-de-Luchon,1,13
+31123,Bessières,1,14
+31201,Villefranche-de-Lauragais,2,21
+31202,Montastruc-la-Conseillère,2,21
+31203,Merville,2,21
+31204,Villemur-sur-Tarn,2,21
+31205,Fronton,2,21
+31206,Cazères,2,21
+31207,Longages,2,21
+31208,Carbonne,2,21
+31209,Grenade,2,22
+31210,Venerque,2,22
+31211,Saint-Lys,2,22
+31212,Revel,2,22
+31213,Auterive,2,22
+31301,Saint-Gaudens,3,32
+32101,Samatan,1,11
+32102,Gimont,1,13
+32103,Lectoure,1,13
+32104,Vic-Fezensac,1,13
+32105,Eauze,1,13
+32106,Mirande,1,13
+32201,Fleurance,2,21
+32202,Condom,2,21
+32203,L'Isle-Jourdain,2,22
+32401,Auch,4,42
+33101,Cérons,1,11
+33102,Preignac,1,11
+33103,Saint-Louis-de-Montferrand,1,11
+33104,Cussac-Fort-Médoc,1,11
+33105,Branne,1,11
+33106,Saint-Vivien-de-Médoc,1,12
+33107,Sainte-Hélène,1,12
+33108,Baron,1,12
+33109,Soulac-sur-Mer,1,12
+33110,Avensan,1,12
+33111,Saint-Ciers-sur-Gironde,1,13
+33112,Galgon,1,13
+33113,Saucats,1,13
+33114,Ambès,1,13
+33115,Le Porge,1,13
+33116,Hourtin,1,13
+33117,Arsac,1,13
+33118,Macau,1,14
+33119,La Brède,1,14
+33120,Soussans,1,14
+33121,Saint-Laurent-Médoc,1,14
+33122,Créon,1,14
+33123,Marcheprime,1,14
+33124,Ludon-Médoc,1,14
+33125,Castelnau-de-Médoc,1,14
+33126,Pauillac,1,14
+33127,Lacanau,1,14
+33201,Bazas,2,21
+33202,Cadillac,2,21
+33203,Bourg,2,21
+33204,Le Barp,2,21
+33205,Belin-Béliet,2,21
+33206,Podensac,2,21
+33207,Saint-Savin-Saint-Yzan-de-Soudiac,2,21
+33208,Saint-Seurin-sur-l'Isle,2,21
+33209,La Lande-de-Fronsac,2,21
+33210,Arès,2,21
+33211,La Réole,2,21
+33212,Salles,2,22
+33213,Lesparre-Médoc,2,22
+33214,Lège-Cap-Ferret,2,22
+33215,Portets,2,22
+33216,Saint-Macaire,2,22
+33217,Mios,2,22
+33301,Cézac,3,31
+33302,Blaye,3,31
+33303,Coutras,3,31
+33304,Langon,3,31
+33305,Andernos-les-Bains,3,32
+33306,Biganos,3,32
+33401,Libourne,4,43
+33501,La Teste-de-Buch-Arcachon,5,51
+33701,Bordeaux,7,73
+34101,Les Matelles,1,11
+34102,Le Pouget,1,11
+34103,Valergues,1,11
+34104,Maureilhan,1,11
+34105,Bassan,1,11
+34106,Roujan,1,11
+34107,Loupian,1,11
+34108,Saint-Bauzille-de-Putois,1,11
+34109,Saint-Pargoire,1,11
+34110,Cessenon-sur-Orb,1,11
+34111,Pomérols,1,11
+34112,Olargues,1,11
+34113,Colombiers,1,11
+34114,Saint-Drézéry,1,12
+34115,Vailhauquès,1,12
+34116,Caux,1,12
+34117,Cers,1,12
+34118,Mudaison,1,12
+34119,Saint-Martin-de-Londres,1,12
+34120,Montblanc,1,12
+34121,Puisserguier,1,12
+34122,Aniane,1,12
+34123,Thézan-lès-Béziers,1,12
+34124,Murviel-lès-Béziers,1,13
+34125,Lansargues,1,13
+34126,Portiragnes,1,13
+34127,Capestang,1,13
+34128,Lespignan,1,13
+34129,Saint-Aunès,1,13
+34130,Canet,1,13
+34131,Montarnaud,1,13
+34132,Villeveyrac,1,13
+34133,Beaulieu,1,13
+34134,Montady,1,13
+34135,Paulhan,1,13
+34136,Nissan-lez-Enserune,1,13
+34137,Montagnac,1,14
+34138,Sussargues,1,14
+34139,Magalas,1,14
+34140,Saint-Mathieu-de-Tréviers,1,14
+34141,Servian,1,14
+34142,Cazouls-lès-Béziers,1,14
+34201,Florensac,2,21
+34202,Saint-Georges-d'Orques,2,21
+34203,Vias,2,21
+34204,Saint-André-de-Sangonis,2,21
+34205,Palavas-les-Flots,2,21
+34206,Castries,2,21
+34207,Gignac,2,21
+34208,Mireval,2,21
+34209,Pignan,2,22
+34210,Bessan,2,22
+34211,Marseillan,2,22
+34212,Ganges,2,22
+34213,Pézenas,2,22
+34214,Cournonterral,2,22
+34215,Lodève,2,22
+34301,Clermont-l'Hérault,3,31
+34302,Baillargues,3,31
+34303,Mèze,3,31
+34304,Bédarieux,3,31
+34305,Sérignan,3,32
+34306,Mauguio,3,32
+34401,Agde,4,42
+34501,Sète,5,52
+34502,Béziers,5,52
+34701,Montpellier,7,72
+35101,Chevaigné,1,11
+35102,Montreuil-sur-Ille,1,11
+35103,La Fresnais,1,12
+35104,Saint-Jouan-des-Guérets,1,12
+35105,Plerguer,1,12
+35106,Crevin,1,12
+35107,Saint-Erblon,1,13
+35108,Nouvoitou,1,13
+35109,Bourg-des-Comptes,1,13
+35110,Corps-Nuds,1,13
+35111,Louvigné-du-Désert,1,13
+35112,Breteil,1,13
+35113,Tinténiac,1,13
+35114,Servon-sur-Vilaine,1,13
+35115,Pipriac,1,13
+35116,Saint-Aubin-d'Aubigné,1,13
+35117,Saint-Aubin-du-Cormier,1,13
+35118,Romillé,1,13
+35119,Romagné,1,13
+35120,Miniac-Morvan,1,13
+35121,Plélan-le-Grand,1,13
+35122,Chavagne,1,14
+35123,Saint-Méloir-des-Ondes,1,14
+35124,Bourgbarré,1,14
+35125,Goven,1,14
+35126,Argentré-du-Plessis,1,14
+35127,La Bouëxière,1,14
+35128,Iffendic,1,14
+35129,Orgères,1,14
+35130,Maen Roch,1,14
+35131,La Mézière,1,14
+35132,Saint-Gilles,1,14
+35201,Laillé,2,21
+35202,Cancale,2,21
+35203,Gévezé,2,21
+35204,La Guerche-de-Bretagne,2,21
+35205,Dol-de-Bretagne,2,21
+35206,Saint-Méen-le-Grand,2,21
+35207,Montauban-de-Bretagne,2,21
+35208,Combourg,2,21
+35209,Noyal-sur-Vilaine,2,21
+35210,Retiers,2,21
+35211,Bréal-sous-Montfort,2,21
+35212,Montfort-sur-Meu,2,21
+35213,Acigné,2,21
+35214,Guipry-Messac,2,21
+35215,Bain-de-Bretagne,2,22
+35216,Mordelles,2,22
+35217,Liffré,2,22
+35218,Bédée,2,22
+35219,Vern-sur-Seiche,2,22
+35220,Janzé,2,22
+35221,Guichen,2,22
+35222,Châteaubourg,2,22
+35301,Châteaugiron,3,31
+35302,Le Rheu,3,32
+35303,Vitré,3,32
+35401,Fougères,4,42
+35402,Saint-Malo,4,44
+35701,Rennes,7,72
+36101,Valençay,1,11
+36102,Châtillon-sur-Indre,1,12
+36103,Vatan,1,12
+36104,Villedieu-sur-Indre,1,12
+36105,Saint-Gaultier,1,12
+36106,Chabris,1,12
+36107,Levroux,1,12
+36108,Ardentes,1,13
+36109,Buzançais,1,14
+36201,Le Blanc,2,21
+36202,La Châtre,2,22
+36203,Argenton-sur-Creuse,2,22
+36301,Issoudun,3,31
+36501,Châteauroux,5,51
+37101,Richelieu,1,11
+37102,Saint-Paterne-Racan,1,12
+37103,Chanceaux-sur-Choisille,1,13
+37104,Truyes,1,14
+37105,Sainte-Maure-de-Touraine,1,14
+37106,Monnaie,1,14
+37107,Beaumont-en-Véron,1,14
+37108,Langeais,1,14
+37201,Cinq-Mars-la-Pile,2,21
+37202,Azay-le-Rideau,2,21
+37203,Esvres,2,21
+37204,Bourgueil,2,21
+37205,Château-Renault,2,22
+37206,Véretz,2,22
+37301,Chinon,3,31
+37302,Loches,3,31
+37303,Monts,3,31
+37701,Tours,7,72
+38101,Frontonas,1,11
+38102,Izeaux,1,11
+38103,Saint-Paul-de-Varces,1,11
+38104,Faramans,1,11
+38105,Saint-Georges-de-Commiers,1,11
+38106,Goncelin,1,11
+38107,Auberives-sur-Varèze,1,12
+38108,Le Cheylas,1,12
+38109,Lans-en-Vercors,1,12
+38110,Diémoz,1,12
+38111,Saint-Siméon-de-Bressieux,1,12
+38112,Theys,1,12
+38113,Chapareillan,1,13
+38114,Sonnay,1,13
+38115,Le Bourg-d'Oisans,1,13
+38116,Saint-Romain-de-Jalionas,1,13
+38117,Saint-Georges-d'Espéranche,1,13
+38118,Estrablin,1,13
+38119,Saint-André-le-Gaz,1,13
+38120,Saint-Étienne-de-Saint-Geoirs,1,13
+38121,Brié-et-Angonnes,1,13
+38122,Saint-Savin,1,14
+38123,Villard-de-Lans,1,14
+38124,Saint-Laurent-du-Pont,1,14
+38125,Saint-Jean-de-Bournay,1,14
+38126,La Terrasse,1,14
+38127,Heyrieux,1,14
+38128,Villette-d'Anthon,1,14
+38201,Crémieu,2,21
+38202,Montalieu-Vercieu,2,21
+38203,Le Touvet,2,21
+38204,Saint-Just-Chaleyssin,2,21
+38205,La Côte-Saint-André,2,21
+38206,Beaurepaire,2,21
+38207,La Mure,2,21
+38208,Les Avenières Veyrins-Thuellin,2,22
+38209,Tullins,2,22
+38301,Apprieu-Le Grand-Lemps,3,31
+38302,Vif,3,31
+38303,Les Abrets en Dauphiné,3,31
+38304,Crolles,3,31
+38401,Vizille,4,41
+38402,Saint-Marcellin,4,41
+38403,Charvieu-Chavagneux,4,42
+38404,Villefontaine,4,43
+38405,La Tour-du-Pin,4,43
+38501,Bourgoin-Jallieu,5,51
+38502,Voiron,5,51
+38701,Grenoble,7,72
+39101,Moirans-en-Montagne,1,11
+39102,Chaussin,1,11
+39103,Fraisans,1,11
+39104,Salins-les-Bains,1,12
+39105,Saint-Amour,1,13
+39106,Les Rousses,1,13
+39107,Arbois,1,13
+39108,Poligny,1,14
+39109,Coteaux du Lizon,1,14
+39201,Tavaux,2,22
+39202,Hauts de Bienne,2,22
+39203,Saint-Claude,2,22
+39204,Champagnole,2,22
+39401,Lons-le-Saunier,4,42
+39402,Dole,4,43
+40101,Angresse,1,11
+40102,Ychoux,1,11
+40103,Villeneuve-de-Marsan,1,11
+40104,Saint-Jean-de-Marsacq,1,11
+40105,Saint-Geours-de-Maremne,1,12
+40106,Labouheyre,1,12
+40107,Pontonx-sur-l'Adour,1,12
+40108,Rion-des-Landes,1,12
+40109,Roquefort,1,13
+40110,Grenade-sur-l'Adour,1,13
+40111,Bénesse-Maremne,1,13
+40112,Tartas,1,13
+40113,Sanguinet,1,14
+40114,Saint-Sever,1,14
+40201,Morcenx-la-Nouvelle,2,21
+40202,Ondres,2,21
+40203,Hagetmau,2,21
+40204,Pouillon,2,21
+40205,Parentis-en-Born,2,21
+40206,Labenne,2,21
+40207,Mimizan,2,22
+40208,Peyrehorade,2,22
+40209,Soustons,2,22
+40301,Capbreton,3,31
+40302,Biscarrosse,3,31
+40303,Saint-Vincent-de-Tyrosse,3,32
+40401,Mont-de-Marsan,4,43
+40501,Dax,5,51
+41101,Nouan-le-Fuzelier,1,11
+41102,Muides-sur-Loire,1,11
+41103,Villefranche-sur-Cher,1,12
+41104,Chailles,1,12
+41105,Les Montils,1,12
+41106,Cour-Cheverny,1,12
+41107,Mont-près-Chambord,1,13
+41108,Montoire-sur-le-Loir,1,14
+41109,Saint-Laurent-Nouan,1,14
+41110,Selles-sur-Cher,1,14
+41111,Lamotte-Beuvron,1,14
+41201,Salbris,2,21
+41202,Mer,2,21
+41203,Veuzain-sur-Loire,2,22
+41204,Montrichard Val de Cher,2,22
+41205,Saint-Aignan,2,22
+41206,Le Controis-en-Sologne,2,22
+41301,Romorantin-Lanthenay,3,32
+41401,Vendôme,4,41
+41501,Blois,5,51
+42101,Marcilly-le-Châtel,1,11
+42102,Bourg-Argental,1,12
+42103,Panissières,1,12
+42104,Balbigny,1,12
+42105,Saint-Héand,1,13
+42106,Lentigny,1,13
+42107,Saint-Marcellin-en-Forez,1,14
+42201,Saint-Romain-le-Puy,2,21
+42202,Boën-sur-Lignon,2,22
+42203,Pélussin,2,22
+42204,Montrond-les-Bains,2,22
+42205,Charlieu,2,22
+42206,Feurs,2,22
+42401,Montbrison,4,41
+42501,Saint-Just-Saint-Rambert,5,51
+42502,Roanne,5,52
+43101,Dunières,1,12
+43102,Tence,1,13
+43103,Langeac,1,14
+43104,Saint-Just-Malmont,1,14
+43105,Saint-Didier-en-Velay,1,14
+43201,Yssingeaux,2,22
+43202,Brioude,2,22
+43203,Sainte-Sigolène,2,22
+43301,Monistrol-sur-Loire,3,31
+43401,Le Puy-en-Velay,4,43
+44101,Boussay,1,12
+44102,Sainte-Anne-sur-Brivet,1,12
+44103,Paimbœuf,1,13
+44104,Mauves-sur-Loire,1,13
+44105,Le Pallet,1,13
+44106,Prinquiau,1,13
+44107,Derval,1,13
+44108,Petit-Mars,1,13
+44109,Le Bignon,1,13
+44110,Saint-Gildas-des-Bois,1,13
+44111,Aigrefeuille-sur-Maine,1,13
+44112,Vieillevigne,1,13
+44113,Nozay,1,14
+44114,La Chapelle-des-Marais,1,14
+44115,Legé,1,14
+44116,Saint-Père-en-Retz,1,14
+44117,La Haie-Fouassière,1,14
+44118,Port-Saint-Père,1,14
+44119,Saint-Lyphard,1,14
+44120,Saint-Mars-du-Désert,1,14
+44201,Le Pellerin,2,21
+44202,Ligné,2,21
+44203,Guémené-Penfao,2,21
+44204,Missillac,2,21
+44205,La Chevrolière,2,21
+44206,Saint-Colomban,2,21
+44207,Grandchamps-des-Fontaines,2,21
+44208,Héric,2,21
+44209,Vallons-de-l'Erdre,2,21
+44210,La Turballe,2,21
+44211,Chaumes-en-Retz,2,21
+44212,Geneston,2,21
+44213,Sainte-Pazanne,2,21
+44214,Herbignac,2,21
+44215,Divatte-sur-Loire,2,21
+44216,Sucé-sur-Erdre,2,22
+44217,Saint-Étienne-de-Montluc,2,22
+44218,Machecoul-Saint-Même,2,22
+44219,Loireauxence,2,22
+44220,Vigneux-de-Bretagne,2,22
+44221,Nort-sur-Erdre,2,22
+44222,Saint-Philbert-de-Grand-Lieu,2,22
+44223,Vallet,2,22
+44224,Treillières,2,22
+44225,Blain,2,22
+44301,Pontchâteau,3,31
+44302,Ancenis-Saint-Géréon,3,31
+44303,Savenay,3,31
+44304,Châteaubriant,3,31
+44305,Saint-Julien-de-Concelles,3,32
+44306,Pornic,3,32
+44601,Saint-Nazaire,6,61
+44701,Nantes,7,73
+45101,Patay,1,11
+45102,Loury,1,11
+45103,Chevilly,1,12
+45104,Ouzouer-sur-Loire,1,12
+45105,Lorris,1,12
+45106,Châtillon-Coligny,1,12
+45107,Bellegarde-Quiers-sur-Bézonde,1,13
+45108,Lailly-en-Val,1,13
+45109,Châtillon-sur-Loire,1,13
+45110,Traînou,1,13
+45111,Puiseaux,1,13
+45112,Cléry-Saint-André,1,13
+45113,Poilly-lez-Gien,1,13
+45114,Sandillon,1,13
+45115,Courtenay,1,14
+45116,Neuville-aux-Bois,1,14
+45201,Ferrières-en-Gâtinais,2,21
+45202,Briare,2,21
+45203,Fay-aux-Loges,2,21
+45204,Chaingy,2,22
+45205,La Ferté-Saint-Aubin,2,22
+45206,Beaugency,2,22
+45207,Pithiviers,2,22
+45208,Meung-sur-Loire,2,22
+45209,Jargeau,2,22
+45210,Châteauneuf-sur-Loire,2,22
+45301,Sully-sur-Loire,3,31
+45302,Gien,3,32
+45501,Montargis,5,51
+45701,Orléans,7,71
+46101,Luzech,1,12
+46102,Prayssac,1,13
+46103,Gramat,1,13
+46104,Souillac,1,14
+46105,Saint-Céré,1,14
+46106,Biars-sur-Cère,1,14
+46107,Gourdon,1,14
+46301,Figeac,3,31
+46401,Cahors,4,41
+47101,Port-Sainte-Marie,1,11
+47102,Layrac,1,13
+47103,Gontaud-de-Nogaret,1,13
+47104,Casteljaloux,1,14
+47105,Aiguillon,1,14
+47106,Miramont-de-Guyenne,1,14
+47201,Tonneins,2,22
+47301,Nérac,3,31
+47302,Fumel,3,31
+47401,Villeneuve-sur-Lot,4,44
+47501,Agen,5,52
+48101,Langogne,1,12
+48102,La Canourgue,1,13
+48103,Saint-Chély-d'Apcher,1,14
+48201,Marvejols,2,21
+48301,Mende,3,31
+49101,La Ménitré,1,11
+49102,Cantenay-Épinard,1,11
+49103,Ingrandes-Le Fresne sur Loire,1,12
+49104,Saint-Christophe-du-Bois,1,12
+49105,Bécon-les-Granits,1,12
+49106,Candé,1,12
+49107,Saint-Lambert-la-Potherie,1,12
+49108,Saint-Léger-sous-Cholet,1,12
+49109,Seiches-sur-le-Loir,1,12
+49110,Trémentines,1,13
+49111,Maulévrier,1,13
+49112,La Tessoualle,1,13
+49113,Vernantes,1,13
+49114,Durtal,1,13
+49115,Saint-Georges-sur-Loire,1,13
+49116,Le May-sur-Èvre,1,13
+49117,Montreuil-Bellay,1,13
+49118,La Séguinière,1,14
+49119,Val d'Erdre-Auxence,1,14
+49120,Le Lion-d'Angers,1,14
+49201,Rives-du-Loir-en-Anjou,2,21
+49202,Allonnes,2,21
+49203,Longuenée-en-Anjou,2,21
+49204,Chalonnes-sur-Loire,2,21
+49205,Beaufort-en-Anjou,2,22
+49206,Tiercé,2,22
+49207,Montreuil-Juigné,2,22
+49208,Lys-Haut-Layon,2,22
+49209,Longué-Jumelles,2,22
+49210,Gennes-Val-de-Loire,2,22
+49211,Les Hauts-d'Anjou,2,22
+49212,Ombrée d'Anjou,2,22
+49301,Brissac Loire Aubance,3,31
+49302,Doué-en-Anjou,3,31
+49303,Baugé-en-Anjou,3,31
+49304,Montrevault-sur-Èvre,3,32
+49305,Orée d'Anjou,3,32
+49306,Segré-en-Anjou Bleu,3,32
+49307,Mauges-sur-Loire,3,32
+49401,Chemillé-en-Anjou,4,41
+49402,Beaupréau-en-Mauges,4,41
+49403,Loire-Authion,4,42
+49404,Sèvremoine,4,42
+49405,Saumur,4,42
+49501,Cholet,5,51
+49701,Angers,7,71
+50101,Montmartin-sur-Mer,1,11
+50102,Périers,1,12
+50103,Marigny-Le-Lozon,1,12
+50104,Ducey-Les Chéris,1,12
+50105,Pont-Hébert,1,13
+50106,Sourdeval,1,13
+50107,Les Pieux,1,13
+50108,Mortain-Bocage,1,13
+50109,Saint-Vaast-la-Hougue,1,13
+50110,La Haye,1,14
+50111,Condé-sur-Vire,1,14
+50112,Pontorson,1,14
+50113,Saint-James,1,14
+50114,Bréhal,1,14
+50201,Villedieu-les-Poêles-Rouffigny,2,21
+50202,Bricquebec-en-Cotentin,2,21
+50203,Torigny-les-Villes,2,21
+50204,Agon-Coutainville,2,22
+50205,Valognes,2,22
+50206,Saint-Hilaire-du-Harcouët,2,22
+50207,Coutances,2,22
+50301,Carentan-les-Marais,3,31
+50302,Avranches,3,32
+50401,Saint-Lô,4,41
+50402,Granville,4,42
+50501,Cherbourg-en-Cotentin,5,52
+51101,Sarry,1,11
+51102,Fère-Champenoise,1,11
+51103,Muizon,1,11
+51104,Dormans,1,12
+51105,Courtisols,1,13
+51106,Blancs-Coteaux,1,13
+51107,Warmeriville,1,13
+51108,Montmirail,1,13
+51109,Suippes,1,13
+51110,Bazancourt,1,13
+51111,Sainte-Menehould,1,14
+51112,Sézanne,1,14
+51201,Witry-lès-Reims,2,21
+51202,Mourmelon-le-Grand,2,21
+51203,Fismes,2,21
+51204,Aÿ-Champagne,2,21
+51301,Vitry-le-François,3,31
+51401,Épernay,4,42
+51501,Châlons-en-Champagne,5,51
+51701,Reims,7,71
+52101,La Porte du Der,1,12
+52102,Chalindrey,1,13
+52103,Wassy,1,13
+52104,Nogent,1,13
+52201,Joinville,2,21
+52202,Langres,2,22
+52401,Chaumont,4,41
+53101,Saint-Pierre-la-Cour,1,11
+53102,Renazé,1,12
+53103,Gorron,1,12
+53104,Loiron-Ruillé,1,12
+53105,Ambrières-les-Vallées,1,12
+53106,Villaines-la-Juhel,1,12
+53107,Argentré,1,12
+53108,Meslay-du-Maine,1,12
+53109,Cossé-le-Vivien,1,13
+53110,Montsûrs,1,13
+53111,L'Huisserie,1,14
+53112,Louverné,1,14
+53113,Craon,1,14
+53201,Ernée,2,21
+53202,Bonchamp-lès-Laval,2,21
+53203,Évron,2,22
+53301,Mayenne,3,32
+53302,Château-Gontier-sur-Mayenne,3,32
+53501,Laval,5,51
+54101,Foug,1,12
+54102,Gorcy,1,12
+54103,Gondreville,1,12
+54104,Rosières-aux-Salines,1,12
+54105,Audun-le-Roman,1,12
+54106,Valleroy,1,13
+54107,Hussigny-Godbrange,1,13
+54108,Richardménil,1,14
+54109,Pagny-sur-Moselle,1,14
+54110,Piennes,1,14
+54111,Dieulouard,1,14
+54112,Baccarat,1,14
+54201,Tucquegnieux,2,21
+54202,Longuyon,2,21
+54203,Blainville-sur-l'Eau,2,22
+54204,Ludres,2,22
+54205,Val de Briey,2,22
+54301,Jarny,3,31
+54302,Neuves-Maisons,3,32
+54401,Dombasle-sur-Meurthe,4,41
+54402,Lunéville,4,41
+54403,Toul,4,41
+54404,Pont-à-Mousson,4,41
+54405,Longwy (partie française),4,44
+54701,Nancy,7,71
+55101,Montmédy,1,11
+55102,Revigny-sur-Ornain,1,12
+55103,Stenay,1,13
+55104,Bouligny,1,13
+55105,Étain,1,13
+55106,Saint-Mihiel,1,14
+55201,Commercy,2,21
+55202,Ligny-en-Barrois,2,21
+55301,Bar-le-Duc,3,32
+55401,Verdun,4,41
+56101,Saint-Pierre-Quiberon,1,11
+56102,Arzon,1,11
+56103,Meucon,1,11
+56104,Bono,1,11
+56105,Josselin,1,11
+56106,Le Palais,1,12
+56107,Sainte-Anne-d'Auray,1,12
+56108,Le Faouët,1,12
+56109,Camors,1,13
+56110,Merlevenez,1,13
+56111,Monterblanc,1,13
+56112,Locqueltas,1,13
+56113,Noyal-Pontivy,1,13
+56114,Sulniac,1,13
+56115,Pont-Scorff,1,13
+56116,Saint-Nolff,1,13
+56117,Gourin,1,13
+56118,Landévant,1,13
+56119,La Gacilly,1,13
+56120,Baden,1,14
+56121,Surzur,1,14
+56122,Malestroit,1,14
+56123,Quiberon,1,14
+56201,Muzillac,2,21
+56202,Arradon,2,21
+56203,Plouhinec,2,21
+56204,Grand-Champ,2,21
+56205,Plouay,2,21
+56206,Elven,2,21
+56207,Guer,2,21
+56208,Baud,2,21
+56209,Ploeren,2,21
+56210,Kervignac,2,21
+56211,Pluvigner,2,22
+56212,Questembert,2,22
+56213,Theix-Noyalo,2,22
+56214,Languidic,2,22
+56215,Locminé,2,22
+56216,Sarzeau,2,22
+56217,Belz,2,22
+56301,Ploërmel,3,31
+56302,Guidel,3,31
+56303,Riantec-Locmiquélic,3,31
+56304,Carnac,3,31
+56305,Pontivy,3,32
+56401,Hennebont,4,41
+56402,Auray,4,42
+56501,Vannes,5,52
+56601,Lorient,6,61
+57101,Mandelbachtal (ALL)-Blies-Guersviller (partie française),1,11
+57102,Rouhling,1,11
+57103,Tressange,1,11
+57104,Amanvillers,1,11
+57105,Dudelange (LUX)-Volmerange-les-Mines (partie française),1,11
+57106,Basse-Ham,1,11
+57107,Metzervisse,1,11
+57108,Farschviller,1,11
+57109,Diebling,1,11
+57110,Aumetz,1,11
+57111,Château-Salins,1,11
+57112,Porcelette,1,11
+57113,Boulange,1,11
+57114,Hundling,1,12
+57115,Schœneck,1,12
+57116,Neufchef,1,12
+57117,Alsting,1,12
+57118,Verny,1,12
+57119,Troisfontaines,1,12
+57120,Peltre,1,12
+57121,Dieuze,1,12
+57122,Puttelange-aux-Lacs,1,13
+57123,Fontoy,1,13
+57124,Kayl (LUX)-Ottange (partie française),1,13
+57125,Courcelles-Chaussy,1,13
+57126,Bousse,1,13
+57127,Woustviller,1,13
+57128,Kleinblittersdorf (ALL)-Grosbliederstroff (partie française),1,13
+57129,Rohrbach-lès-Bitche,1,13
+57130,Falck,1,13
+57131,Longeville-lès-Saint-Avold,1,13
+57132,Novéant-sur-Moselle,1,14
+57133,Morhange,1,14
+57134,Bouzonville,1,14
+57135,Sarralbe,1,14
+57136,Perl (ALL)-Sierck-les-Bains (partie française),1,14
+57201,Bitche,2,21
+57202,Ay-sur-Moselle,2,21
+57203,Boulay-Moselle,2,21
+57204,Phalsbourg,2,21
+57205,Marange-Silvange,2,21
+57206,Farébersviller,2,22
+57207,Hettange-Grande,2,22
+57208,Guénange,2,22
+57301,Faulquemont,3,31
+57302,Sarrebourg,3,32
+57303,Creutzwald,3,32
+57401,Sarreguemines (partie française),4,42
+57402,Saint-Avold (partie française),4,43
+57501,Sarrebruck (ALL)-Forbach (partie française),5,52
+57601,Thionville,6,61
+57701,Metz,7,71
+58101,Pougues-les-Eaux,1,11
+58102,Guérigny,1,12
+58103,La Machine,1,13
+58104,Imphy,1,13
+58105,Marzy,1,13
+58106,Clamecy,1,14
+58107,La Charité-sur-Loire,1,14
+58201,Decize,2,22
+58202,Cosne-Cours-sur-Loire,2,22
+58501,Nevers,5,51
+59101,Villers-Outréaux,1,11
+59102,Esquelbecq,1,11
+59103,Mons-en-Pévèle,1,11
+59104,Walincourt-Selvigny,1,11
+59105,Bertry,1,11
+59106,Fournes-en-Weppes,1,11
+59107,Bersée,1,11
+59108,Attiches,1,11
+59109,Herlies,1,11
+59110,Camphin-en-Pévèle,1,11
+59111,Saint-Hilaire-lez-Cambrai,1,11
+59112,Monchecourt,1,12
+59113,Nomain,1,12
+59114,Artres,1,12
+59115,Steenbecque,1,12
+59116,Genech,1,12
+59117,Sebourg,1,12
+59118,Haspres,1,12
+59119,Féchain,1,12
+59120,Sains-du-Nord,1,12
+59121,Radinghem-en-Weppes,1,13
+59122,Coutiches,1,13
+59123,Spycker,1,13
+59124,Haveluy,1,13
+59125,Anor,1,13
+59126,Iwuy,1,13
+59127,Houplin-Ancoisne,1,13
+59128,Landrecies,1,13
+59129,Bachy,1,13
+59130,Avesnes-les-Aubert,1,13
+59131,Gommegnies,1,13
+59132,Marquillies,1,13
+59133,Busigny,1,13
+59134,Hondschoote,1,14
+59135,Boeschepe,1,14
+59136,Steenvoorde,1,14
+59137,Gondecourt,1,14
+59138,Trélon,1,14
+59139,Phalempin,1,14
+59140,Poix-du-Nord,1,14
+59201,Bavay,2,21
+59202,Solesmes,2,21
+59203,Mortagne-du-Nord (partie française),2,21
+59204,Flines-lez-Raches,2,21
+59205,Wormhout,2,21
+59206,Marchiennes,2,21
+59207,Masnières,2,21
+59208,Bourbourg,2,22
+59209,Le Cateau-Cambrésis,2,22
+59210,Le Quesnoy,2,22
+59211,Avesnes-sur-Helpe,2,22
+59212,Téteghem-Coudekerque-Village,2,22
+59301,Bray-Dunes,3,31
+59302,Bergues,3,31
+59303,Cysoing,3,31
+59304,Annœullin,3,31
+59305,Wavrin,3,31
+59306,Fourmies,3,31
+59307,Templeuve-en-Pévèle,3,32
+59308,Orchies,3,32
+59309,Caudry,3,32
+59401,Hazebrouck,4,41
+59402,Saint-Amand-les-Eaux,4,43
+59403,Cambrai,4,44
+59501,Armentières (partie française),5,52
+59601,Maubeuge (partie française),6,61
+59602,Dunkerque,6,61
+59701,Valenciennes (partie française),7,72
+59702,Lille (partie française),7,73
+60101,Bailleul-sur-Thérain,1,11
+60102,Ressons-sur-Matz,1,11
+60103,Le Mesnil-en-Thelle,1,11
+60104,Maignelay-Montigny,1,12
+60105,Sérifontaine,1,12
+60106,Feuquières,1,12
+60107,Saint-Paul,1,12
+60108,Saint-Sauveur,1,12
+60109,Noailles,1,12
+60110,Tracy-le-Mont,1,12
+60111,Auneuil,1,12
+60112,Andeville,1,13
+60113,Sainte-Geneviève,1,13
+60114,Chaumont-en-Vexin,1,13
+60115,Crèvecœur-le-Grand,1,13
+60116,Neuilly-en-Thelle,1,13
+60117,Grandvilliers,1,13
+60118,Béthisy-Saint-Pierre,1,14
+60119,Bresles,1,14
+60120,Lachapelle-aux-Pots,1,14
+60121,Nanteuil-le-Haudouin,1,14
+60122,Breteuil,1,14
+60123,Estrées-Saint-Denis,1,14
+60124,Verberie,1,14
+60125,Cires-lès-Mello,1,14
+60201,Hermes,2,21
+60202,Bornel,2,21
+60203,Le Plessis-Belleville,2,21
+60204,Ribécourt-Dreslincourt,2,21
+60205,Trosly-Breuil,2,21
+60206,Orry-la-Ville,2,21
+60207,Saint-Just-en-Chaussée,2,21
+60208,Lacroix-Saint-Ouen,2,22
+60301,Mouy,3,31
+60302,Méru,3,31
+60303,Crépy-en-Valois,3,32
+60304,Senlis,3,32
+60305,Noyon,3,32
+60306,Pont-Sainte-Maxence,3,32
+60401,Clermont,4,41
+60402,Chantilly,4,43
+60501,Beauvais,5,51
+60502,Compiègne,5,52
+60601,Creil,6,61
+61101,Bellême,1,11
+61102,Bagnoles de l'Orne Normandie,1,13
+61103,Vimoutiers,1,13
+61104,Sées,1,14
+61105,Domfront en Poiraie,1,14
+61106,Mortagne-au-Perche,1,14
+61107,Tinchebray-Bocage,1,14
+61201,La Ferté Macé,2,21
+61301,L'Aigle,3,31
+61302,Argentan,3,31
+61401,Flers,4,41
+62101,Rœux,1,11
+62102,Fruges,1,11
+62103,Fauquembergues,1,12
+62104,Auxi-le-Château,1,12
+62105,Auchy-lès-Hesdin,1,12
+62106,Équihen-Plage,1,12
+62107,Norrent-Fontes,1,12
+62108,Enquin-lez-Guinegatte,1,12
+62109,Pernes,1,12
+62110,Ferques,1,13
+62111,Beaurainville,1,13
+62112,Saint-Folquin,1,13
+62113,Frévent,1,13
+62114,Aubigny-en-Artois,1,13
+62115,Camiers,1,14
+62116,Bapaume,1,14
+62117,Vimy,1,14
+62118,Biache-Saint-Vaast,1,14
+62119,Samer,1,14
+62201,Oye-Plage,2,21
+62202,Desvres,2,21
+62203,Montreuil,2,21
+62204,Hesdin,2,21
+62205,Guînes,2,22
+62206,Neufchâtel-Hardelot,2,22
+62207,Ardres,2,22
+62208,Saint-Pol-sur-Ternoise,2,22
+62209,Marquise,2,22
+62210,Lumbres,2,22
+62211,Audruicq,2,22
+62301,Wimereux,3,31
+62401,Berck,4,44
+62501,Boulogne-sur-Mer,5,52
+62502,Arras,5,52
+62503,Calais,5,52
+63101,Coudes,1,11
+63102,Saint-Bonnet-près-Riom,1,11
+63103,Pérignat-sur-Allier,1,11
+63104,Champeix,1,11
+63105,La Bourboule,1,11
+63106,Ennezat,1,11
+63107,Orcet,1,12
+63108,Pérignat-lès-Sarliève,1,12
+63109,Puy-Guillaume,1,12
+63110,Maringues,1,13
+63111,Aigueperse,1,13
+63112,Orcines,1,13
+63113,Mur-sur-Allier,1,13
+63114,La Monnerie-le-Montel,1,13
+63115,Vertaizon,1,13
+63116,Saint-Georges-de-Mons,1,13
+63117,Courpière,1,14
+63118,Saint-Amant-Tallende,1,14
+63119,Volvic,1,14
+63120,La Roche-Blanche,1,14
+63121,Billom,1,14
+63201,Vic-le-Comte,2,21
+63202,Saint-Éloy-les-Mines,2,21
+63203,Lezoux,2,21
+63204,Ambert,2,22
+63301,Veyre-Monton,3,31
+63302,Pont-du-Château,3,31
+63303,Thiers,3,31
+63304,Issoire,3,32
+63401,Riom,4,43
+63701,Clermont-Ferrand,7,71
+64101,Puyoô,1,12
+64102,Navarrenx,1,12
+64103,Saint-Palais,1,12
+64104,Artix,1,13
+64105,Arudy,1,14
+64106,Salies-de-Béarn,1,14
+64107,Saint-Jean-Pied-de-Port,1,14
+64201,Soumoulou,2,21
+64202,Mauléon-Licharre,2,21
+64203,Saint-Pée-sur-Nivelle,2,21
+64204,Hasparren,2,21
+64301,Orthez,3,31
+64302,Mourenx,3,31
+64303,Oloron-Sainte-Marie,3,32
+64701,Pau,7,71
+65101,Luz-Saint-Sauveur,1,11
+65102,Ossun,1,11
+65103,Maubourguet,1,11
+65201,Vic-en-Bigorre,2,21
+65202,Juillan,2,21
+65203,Argelès-Gazost,2,21
+65204,Lannemezan,2,22
+65301,Bagnères-de-Bigorre,3,31
+65302,Lourdes,3,32
+65501,Tarbes,5,52
+66101,Puigcerda (ESP)-Bourg-Madame (partie française),1,11
+66102,Estagel,1,11
+66103,Trouillas,1,11
+66104,Baixas,1,12
+66105,Saint-Nazaire,1,12
+66106,Ponteilla,1,12
+66107,Saint-Génis-des-Fontaines,1,12
+66108,Saint-Hippolyte,1,13
+66109,Vinça,1,13
+66110,Villelongue-de-la-Salanque,1,13
+66111,Espira-de-l'Agly,1,13
+66112,Salses-le-Château,1,13
+66113,Villeneuve-de-la-Raho,1,13
+66114,Bages,1,14
+66115,Claira,1,14
+66116,Millas,1,14
+66117,Banyuls-sur-Mer,1,14
+66118,Sainte-Marie,1,14
+66119,Pollestres,1,14
+66201,Saleilles,2,21
+66202,Le Boulou,2,21
+66203,Amélie-les-Bains-Palalda,2,21
+66204,Ille-sur-Têt,2,22
+66205,Prades,2,22
+66206,Thuir,2,22
+66301,Canet-en-Roussillon,3,31
+66302,Céret,3,31
+66501,Saint-Cyprien,5,51
+66701,Perpignan,7,71
+67101,Muttersholtz,1,11
+67102,Furdenheim,1,11
+67103,Griesheim-près-Molsheim,1,11
+67104,Kogenheim,1,11
+67105,Dambach-la-Ville,1,11
+67106,Ebersheim,1,11
+67107,Epfig,1,11
+67108,Lauterbourg,1,11
+67109,Offendorf,1,11
+67110,Kilstett,1,12
+67111,Geudertheim,1,12
+67112,Dettwiller,1,12
+67113,Hilsenheim,1,12
+67114,Matzenheim,1,12
+67115,Marmoutier,1,12
+67116,Mothern,1,12
+67117,Sarre-Union,1,12
+67118,Weitbruch,1,12
+67119,Duttlenheim,1,12
+67120,Villé,1,12
+67121,Andlau,1,12
+67122,Schirrhein,1,12
+67123,Sessenheim,1,13
+67124,Wingersheim les Quatre Bans,1,13
+67125,Soultz-sous-Forêts,1,13
+67126,Oberhaslach,1,13
+67127,Scherwiller,1,13
+67128,Ittenheim,1,13
+67129,Seltz,1,13
+67130,Mertzwiller,1,13
+67131,Weyersheim,1,13
+67132,Gerstheim,1,13
+67133,Holtzheim,1,13
+67134,Dingsheim,1,13
+67135,Wittisheim,1,13
+67136,Gries,1,13
+67137,Bouxwiller,1,13
+67138,Truchtersheim,1,14
+67139,Rhinau,1,14
+67140,Marckolsheim,1,14
+67141,Betschdorf,1,14
+67142,Châtenois,1,14
+67143,Rœschwoog,1,14
+67144,Hœrdt,1,14
+67145,Bœrsch,1,14
+67146,Herrlisheim,1,14
+67147,Gambsheim,1,14
+67148,Soufflenheim,1,14
+67201,Ingwiller,2,21
+67202,Drusenheim,2,21
+67203,Wasselonne,2,21
+67204,Hochfelden,2,21
+67205,La Wantzenau,2,21
+67206,Val-de-Moder,2,21
+67207,Marlenheim,2,22
+67208,Entzheim,2,22
+67209,Wissembourg (partie française),2,22
+67210,Geispolsheim,2,22
+67211,Benfeld,2,22
+67212,Rosheim,2,22
+67213,Barr,2,22
+67301,Brumath,3,31
+67302,Erstein,3,31
+67303,Obernai,3,31
+67304,La Broque,3,31
+67305,Reichshoffen-Niederbronn-les-Bains,3,31
+67306,Saverne,3,32
+67307,Sélestat,3,32
+67401,Molsheim,4,42
+67501,Haguenau,5,51
+67701,Strasbourg (partie française),7,72
+68101,Hirsingue,1,11
+68102,Labaroche,1,11
+68103,Rosenau,1,11
+68104,Eschentzwiller,1,11
+68105,Lièpvre,1,12
+68106,Biesheim,1,12
+68107,Kirchberg,1,12
+68108,Hochstatt,1,12
+68109,Sainte-Croix-en-Plaine,1,12
+68110,Fessenheim,1,13
+68111,Soultzmatt,1,13
+68112,Orbey,1,13
+68113,Porte du Ried,1,13
+68114,Burnhaupt-le-Haut,1,13
+68115,Waldighofen,1,13
+68116,Masevaux-Niederbruck,1,13
+68117,Zillisheim,1,14
+68118,Andolsheim,1,14
+68119,Illfurth,1,14
+68120,Bennwihr,1,14
+68121,Landser,1,14
+68122,Rouffach,1,14
+68123,Blotzheim,1,14
+68124,Sierentz,1,14
+68125,Ribeauvillé,1,14
+68201,Dannemarie,2,21
+68202,Neuf-Brisach,2,21
+68203,Kaysersberg Vignoble,2,21
+68204,Sainte-Marie-aux-Mines,2,22
+68205,Altkirch,2,22
+68206,Kembs,2,22
+68207,Ensisheim,2,22
+68208,Saint-Amarin,2,22
+68301,Munster,3,31
+68401,Guebwiller,4,42
+68402,Thann-Cernay,4,43
+68403,Bâle (SUI)-Saint-Louis (partie française),4,43
+68501,Colmar,5,52
+68701,Mulhouse,7,71
+69101,Saint-Laurent-d'Agny,1,11
+69102,Sainte-Foy-l'Argentière,1,13
+69103,Beaujeu,1,13
+69104,Saint-Symphorien-sur-Coise,1,13
+69105,Saint-Martin-en-Haut,1,13
+69106,Pusignan,1,14
+69107,Saint-Georges-de-Reneins,1,14
+69108,Cours,1,14
+69109,Soucieu-en-Jarrest,1,14
+69110,Saint-Pierre-de-Chandieu,1,14
+69111,Amplepuis,1,14
+69201,Jonage,2,21
+69202,Mornant,2,21
+69203,Thizy,2,21
+69204,Saint-Germain-au-Mont-d'Or,2,21
+69205,Saint-Étienne-des-Oullières,2,22
+69301,Val d'Oingt,3,31
+69302,Saint-Laurent-de-Mure,3,31
+69303,Tarare,3,32
+69401,L'Arbresle,4,41
+70101,Rioz,1,11
+70102,Plancher-les-Mines,1,12
+70103,Port-sur-Saône,1,12
+70104,Mélisey,1,13
+70105,Saint-Loup-sur-Semouse,1,13
+70106,Fougerolles-Saint-Valbert,1,13
+70201,Champagney-Ronchamp,2,21
+70202,Gray,2,22
+70301,Héricourt,3,31
+70302,Lure,3,31
+70303,Luxeuil-les-Bains,3,31
+70401,Vesoul,4,42
+71101,Buxy,1,11
+71102,Épinac,1,11
+71103,La Roche-Vineuse,1,11
+71104,Saint-Martin-Belle-Roche,1,12
+71105,Verdun-sur-le-Doubs,1,12
+71106,Charolles,1,12
+71107,La Clayette,1,12
+71108,Marcigny,1,12
+71109,Gergy,1,13
+71110,Sennecey-le-Grand,1,13
+71111,Bourbon-Lancy,1,14
+71201,Givry,2,21
+71202,Cluny,2,21
+71203,Ouroux-sur-Saône,2,21
+71204,Tournus,2,21
+71205,Montchanin,2,21
+71206,Gueugnon,2,21
+71207,Paray-le-Monial,2,22
+71301,Louhans,3,31
+71302,Autun,3,31
+71401,Le Creusot,4,43
+71402,Montceau-les-Mines,4,43
+71501,Chalon-sur-Saône,5,52
+72101,Saint-Georges-du-Bois,1,11
+72102,Brette-les-Pins,1,11
+72103,La Chartre-sur-le-Loir,1,11
+72104,Joué-l'Abbé,1,11
+72105,Trangé,1,11
+72106,Loué,1,12
+72107,Vibraye,1,12
+72108,Noyen-sur-Sarthe,1,12
+72109,Sillé-le-Guillaume,1,12
+72110,Spay,1,12
+72111,Précigné,1,12
+72112,Mayet,1,13
+72113,Cérans-Foulletourte,1,13
+72114,La Bazoge,1,13
+72115,Fresnay-sur-Sarthe,1,13
+72116,Saint-Calais,1,13
+72117,Sainte-Jamme-sur-Sarthe,1,13
+72118,Connerré,1,13
+72119,Le Lude,1,14
+72120,Bonnétable,1,14
+72201,Parigné-l'Évêque,2,21
+72202,Écommoy,2,21
+72203,Mamers,2,21
+72204,La Suze-sur-Sarthe,2,22
+72205,Montval-sur-Loir,2,22
+72206,Champagné,2,22
+72301,La Ferté-Bernard,3,31
+72302,Sablé-sur-Sarthe,3,31
+72303,La Flèche,3,31
+72701,Le Mans,7,71
+73101,Saint-Julien-Mont-Denis,1,11
+73102,La Biolle,1,12
+73103,Saint-Michel-de-Maurienne,1,12
+73104,Yenne,1,12
+73105,Beaufort,1,13
+73106,Modane,1,13
+73107,Grand-Aigueblanche,1,13
+73108,Aime-la-Plagne,1,14
+73109,Moûtiers,1,14
+73110,Saint-Étienne-de-Cuines,1,14
+73111,Saint-Pierre-d'Albigny,1,14
+73201,Montmélian,2,21
+73202,Entrelacs,2,21
+73203,Ugine,2,22
+73204,Saint-Jean-de-Maurienne,2,22
+73205,Bourg-Saint-Maurice,2,22
+73401,Albertville,4,43
+73601,Chambéry,6,61
+74101,Le Grand-Bornand,1,11
+74102,Vulbens,1,11
+74103,Frangy,1,12
+74104,Beaumont,1,12
+74105,Magland,1,13
+74106,Taninges,1,13
+74107,Abondance,1,13
+74108,Groisy,1,13
+74109,Veigy-Foncenex,1,13
+74110,Saint-Paul-en-Chablais,1,13
+74111,Samoëns,1,13
+74112,Cruseilles,1,14
+74113,Morzine,1,14
+74114,Saint-Jeoire,1,14
+74115,Valleiry,1,14
+74201,Saint-Félix,2,21
+74202,Viry,2,21
+74203,Saint-Cergues,2,21
+74204,Perrignier,2,21
+74205,Douvaine,2,21
+74206,Veyrier-du-Lac,2,21
+74207,Messery,2,21
+74208,Bons-en-Chablais,2,21
+74209,Faverges-Seythenex,2,22
+74210,Thônes,2,22
+74301,Chamonix-Mont-Blanc,3,31
+74302,Rumilly,3,32
+74303,Fillière,3,32
+74501,Thonon-les-Bains,5,52
+74502,Cluses,5,52
+74601,Annecy,6,61
+76101,Ymare,1,11
+76102,Sahurs,1,11
+76103,La Neuville-Chant-d'Oisel,1,11
+76104,Jumièges,1,11
+76105,Préaux,1,11
+76106,Yerville,1,11
+76107,Criquetot-l'Esneval,1,12
+76108,Saint-Nicolas-de-la-Taille,1,12
+76109,Fontaine-le-Bourg,1,12
+76110,Criel-sur-Mer,1,12
+76111,Houppeville,1,12
+76112,Saint-Jacques-sur-Darnétal,1,12
+76113,Goderville,1,12
+76114,Doudeville,1,12
+76115,Longueville-sur-Scie,1,13
+76116,Cany-Barville,1,13
+76117,Offranville,1,13
+76118,Arelaune-en-Seine,1,13
+76119,Hautot-sur-Mer,1,13
+76120,Luneray,1,13
+76121,Saint-Saëns,1,13
+76122,Saint-Valery-en-Caux,1,14
+76123,Terres-de-Caux,1,14
+76124,Duclair,1,14
+76125,Rives-en-Seine,1,14
+76126,Forges-les-Eaux,1,14
+76127,Le Trait,1,14
+76201,Saint-Nicolas-d'Aliermont,2,21
+76202,Neufchâtel-en-Bray,2,21
+76203,Saint-Romain-de-Colbosc,2,21
+76204,Gournay-en-Bray,2,22
+76205,Petit-Caux,2,22
+76301,Yvetot,3,32
+76302,Bolbec,3,32
+76303,Barentin,3,32
+76401,Fécamp,4,41
+76402,Lillebonne,4,41
+76403,Dieppe,4,43
+76701,Le Havre,7,71
+77101,Samois-sur-Seine,1,11
+77102,Saint-Augustin,1,11
+77103,Pontcarré,1,11
+77104,Rebais,1,11
+77105,La Chapelle-la-Reine,1,11
+77106,Grisy-Suisnes,1,11
+77107,Saint-Jean-les-Deux-Jumeaux,1,12
+77108,La Grande-Paroisse,1,12
+77109,Évry-Grégy-sur-Yerre,1,12
+77110,Château-Landon,1,12
+77111,Moussy-le-Neuf,1,13
+77112,Boissy-le-Châtel,1,13
+77113,Verneuil-l'Étang,1,13
+77114,Chaumes-en-Brie,1,13
+77115,Saint-Soupplets,1,13
+77116,Annet-sur-Marne,1,13
+77117,Donnemarie-Dontilly,1,13
+77118,Chauconin-Neufmontiers,1,13
+77119,Bray-sur-Seine,1,13
+77120,Villevaudé,1,13
+77121,Longueville,1,13
+77122,Rozay-en-Brie,1,13
+77123,Chailly-en-Bière,1,13
+77124,Chevry-Cossigny,1,13
+77125,Guignes,1,14
+77126,Jouarre,1,14
+77127,Le Châtelet-en-Brie,1,14
+77128,Saâcy-sur-Marne,1,14
+77129,Lizy-sur-Ourcq,1,14
+77130,Mormant,1,14
+77201,Coubert,2,21
+77202,Bourron-Marlotte,2,21
+77203,Fontenay-Trésigny,2,21
+77204,Othis,2,21
+77205,La Ferté-Gaucher,2,21
+77206,Saint-Pathus,2,22
+77207,Nangis,2,22
+77208,Bois-le-Roi,2,22
+77301,La Ferté-sous-Jouarre,3,31
+77302,Claye-Souilly,3,31
+77303,Provins,3,31
+77304,Dammartin-en-Goële,3,32
+77305,Gretz-Armainvilliers,3,32
+77306,Brie-Comte-Robert,3,32
+77401,Nemours,4,41
+77402,Coulommiers,4,42
+77403,Champagne-sur-Seine,4,42
+77404,Montereau-Fault-Yonne,4,42
+77405,Fontainebleau,4,43
+77501,Bailly-Romainvilliers,5,51
+77502,Meaux,5,52
+78101,Bouafle,1,11
+78102,Septeuil,1,12
+78103,Orgerus,1,12
+78104,Feucherolles,1,12
+78105,Ablis,1,13
+78106,Ecquevilly,1,14
+78107,Houdan,1,14
+78108,Garancières-La Queue-les-Yvelines,1,14
+78201,Montfort-l'Amaury,2,21
+78202,Saint-Arnoult-en-Yvelines,2,21
+78203,Rosny-sur-Seine,2,21
+78204,Le Perray-en-Yvelines,2,21
+78205,Beynes,2,22
+78206,Les Essarts-le-Roi,2,22
+78301,Aubergenville,3,31
+78302,Bonnières-sur-Seine,3,31
+78303,Noisy-le-Roi,3,32
+78401,Épône,4,41
+78402,Rambouillet,4,42
+79101,Prahecq,1,11
+79102,Coulon,1,11
+79103,Coulonges-sur-l'Autize,1,11
+79104,Chef-Boutonne,1,12
+79105,Magné,1,12
+79106,Mauzé-sur-le-Mignon,1,12
+79107,Frontenay-Rohan-Rohan,1,12
+79108,Celles-sur-Belle,1,13
+79109,Airvault,1,13
+79201,Moncoutant-sur-Sèvre,2,21
+79202,Échiré,2,21
+79203,Nueil-les-Aubiers,2,21
+79204,La Crèche,2,21
+79205,Cerizay,2,21
+79206,Melle,2,21
+79207,Mauléon,2,22
+79301,Saint-Maixent-l'École,3,31
+79302,Thouars,3,32
+79303,Parthenay,3,32
+79304,Bressuire,3,32
+79501,Niort,5,52
+80101,Flesselles,1,11
+80102,Chaulnes,1,11
+80103,Beauval,1,11
+80104,Vignacourt,1,11
+80105,Airaines,1,11
+80106,Poix-de-Picardie,1,11
+80107,Cayeux-sur-Mer,1,11
+80108,Béthencourt-sur-Mer,1,12
+80109,Saint-Valery-sur-Somme,1,12
+80110,Longpré-les-Corps-Saints,1,12
+80111,Nesle,1,12
+80112,Rue,1,13
+80113,Ailly-sur-Noye,1,13
+80114,Rosières-en-Santerre,1,13
+80115,Flixecourt,1,13
+80116,Villers-Bretonneux,1,14
+80117,Moreuil,1,14
+80118,Feuquières-en-Vimeu-Fressenneville,1,14
+80201,Ailly-sur-Somme,2,21
+80202,Roye,2,21
+80203,Montdidier,2,21
+80204,Doullens,2,21
+80205,Friville-Escarbotin,2,21
+80206,Ham,2,22
+80207,Saint-Léger-lès-Domart,2,22
+80208,Corbie,2,22
+80209,Péronne,2,22
+80210,Albert,2,22
+80401,Abbeville,4,42
+80601,Amiens,6,61
+81101,Saint-Amans-Soult,1,11
+81102,Lacaune,1,11
+81103,Réalmont,1,13
+81104,Lisle-sur-Tarn,1,14
+81201,Labruguière,2,21
+81202,Marssac-sur-Tarn,2,21
+81203,Rabastens,2,22
+81204,Saint-Sulpice,2,22
+81301,Lavaur,3,31
+81302,Graulhet,3,31
+81303,Carmaux,3,32
+81304,Gaillac,3,32
+81401,Mazamet,4,41
+81501,Castres,5,51
+81502,Albi,5,52
+82101,Septfonds,1,11
+82102,Saint-Nicolas-de-la-Grave,1,11
+82103,Lafrançaise,1,13
+82104,La Ville-Dieu-du-Temple,1,13
+82105,Dieupentale,1,13
+82106,Albias,1,13
+82107,Meauzac,1,13
+82108,Beaumont-de-Lomagne,1,13
+82109,Verdun-sur-Garonne,1,14
+82201,Nègrepelisse,2,21
+82202,Montech,2,21
+82203,Valence,2,22
+82204,Caussade,2,22
+82301,Labastide-Saint-Pierre,3,31
+82401,Castelsarrasin,4,42
+82501,Montauban,5,52
+83101,Plan-d'Aups-Sainte-Baume,1,11
+83102,Aups,1,11
+83103,La Roquebrussanne,1,11
+83104,Seillons-Source-d'Argens,1,11
+83105,Figanières,1,12
+83106,Bras,1,12
+83107,Néoules,1,12
+83108,Les Adrets-de-l'Estérel,1,12
+83109,Bagnols-en-Forêt,1,12
+83110,Le Plan-de-la-Tour,1,12
+83111,Signes,1,12
+83112,Régusse,1,12
+83113,Barjols,1,12
+83114,Carcès,1,13
+83115,Cotignac,1,13
+83116,Flassans-sur-Issole,1,13
+83117,Callas,1,13
+83118,Rians,1,14
+83119,Vinon-sur-Verdon,1,14
+83120,Puget-Ville,1,14
+83121,Nans-les-Pins,1,14
+83122,Forcalqueiret,1,14
+83201,Tourves,2,21
+83202,Rocbaron,2,21
+83203,Pourrières,2,21
+83204,Garéoult,2,21
+83205,Pierrefeu-du-Var,2,21
+83206,Salernes,2,21
+83207,Saint-Tropez,2,22
+83208,Lorgues,2,22
+83209,Montauroux,2,22
+83301,La Londe-les-Maures,3,31
+83302,Cavalaire-sur-Mer,3,31
+83303,Fayence,3,31
+83304,Cogolin,3,31
+83305,Vidauban,3,31
+83306,Roquebrune-sur-Argens,3,31
+83307,Bormes-les-Mimosas-Le Lavandou,3,31
+83308,Gonfaron,3,32
+83309,Le Luc,3,32
+83310,Saint-Maximin-la-Sainte-Baume,3,32
+83311,Sainte-Maxime,3,32
+83401,Brignoles,4,41
+83501,Draguignan,5,51
+83502,Fréjus,5,52
+84101,Mérindol,1,11
+84102,La Motte-d'Aigues,1,11
+84103,Sainte-Cécile-les-Vignes,1,12
+84104,Sérignan-du-Comtat,1,12
+84105,Bédoin,1,13
+84106,Villelaure,1,13
+84107,Saint-Saturnin-lès-Apt,1,13
+84108,Mondragon,1,13
+84109,Lapalud,1,13
+84110,Malaucène,1,14
+84111,Caumont-sur-Durance,1,14
+84201,La Tour-d'Aigues,2,21
+84202,Camaret-sur-Aigues,2,21
+84203,Piolenc,2,22
+84204,Vaison-la-Romaine,2,22
+84205,Valréas,2,22
+84301,Cadenet,3,31
+84302,Bollène,3,31
+84303,Apt,3,32
+84401,Pertuis,4,41
+85101,Moutiers-les-Mauxfaits,1,11
+85102,Saint-Mathurin,1,11
+85103,Saint-Michel-en-l'Herm,1,11
+85104,Landevieille,1,11
+85105,Longeville-sur-Mer,1,11
+85106,L'Île-d'Olonne,1,12
+85107,L'Aiguillon-sur-Mer,1,12
+85108,Mareuil-sur-Lay-Dissais,1,12
+85109,Angles,1,12
+85110,Les Epesses,1,12
+85111,Nesmy,1,12
+85112,La Tranche-sur-Mer,1,12
+85113,Sainte-Hermine,1,12
+85114,L'Épine,1,12
+85115,La Gaubretière,1,13
+85116,L'Herbergement,1,13
+85117,Coëx,1,13
+85118,Treize-Septiers,1,13
+85119,Rocheservière,1,13
+85120,Bournezeau,1,13
+85121,Saint-Philbert-de-Bouaine,1,13
+85122,Les Lucs-sur-Boulogne,1,13
+85123,Commequiers,1,13
+85124,Chavagnes-en-Paillers,1,13
+85125,Saint-Laurent-sur-Sèvre,1,13
+85126,La Chaize-le-Vicomte,1,13
+85127,Saint-Fulgent,1,13
+85128,La Châtaigneraie,1,13
+85129,Beauvoir-sur-Mer,1,13
+85130,La Bruffière,1,13
+85131,Jard-sur-Mer,1,13
+85132,Benet,1,14
+85133,Dompierre-sur-Yon,1,14
+85134,Venansault,1,14
+85135,Noirmoutier-en-l'Île,1,14
+85136,L'Île-d'Yeu,1,14
+85137,Mouilleron-le-Captif,1,14
+85138,La Garnache,1,14
+85201,Les Achards,2,21
+85202,La Ferrière,2,21
+85203,Pouzauges,2,21
+85204,Chanverrie,2,21
+85205,Mortagne-sur-Sèvre,2,21
+85206,Bellevigny,2,21
+85207,Sèvremont,2,21
+85208,Aubigny-Les Clouzeaux,2,21
+85209,Bretignolles-sur-Mer,2,22
+85210,Talmont-Saint-Hilaire,2,22
+85211,Chantonnay,2,22
+85212,Le Poiré-sur-Vie,2,22
+85213,Essarts en Bocage,2,22
+85214,Aizenay,2,22
+85215,Luçon,2,22
+85301,Les Herbiers,3,32
+85302,Fontenay-le-Comte,3,32
+85401,Montaigu-Vendée,4,41
+85402,Challans,4,42
+85403,Saint-Hilaire-de-Riez,4,43
+85404,Les Sables-d'Olonne,4,44
+85501,La Roche-sur-Yon,5,51
+86101,Quinçay,1,11
+86102,Mirebeau,1,11
+86103,Lencloître,1,11
+86104,Lusignan,1,12
+86105,Saint-Julien-l'Ars,1,12
+86106,Nieuil-l'Espoir,1,12
+86107,Nouaillé-Maupertuis,1,12
+86108,Iteuil,1,12
+86109,Dangé-Saint-Romain,1,12
+86110,Gençay,1,13
+86111,Lussac-les-Châteaux,1,13
+86112,Montamisé,1,13
+86113,Vouillé,1,13
+86114,Civray,1,13
+86115,Saint-Georges-lès-Baillargeaux,1,14
+86116,Vivonne,1,14
+86117,Mignaloux-Beauvoir,1,14
+86118,Fontaine-le-Comte,1,14
+86201,Neuville-de-Poitou,2,21
+86202,Montmorillon,2,21
+86203,Ligugé,2,21
+86204,Loudun,2,21
+86205,Chauvigny,2,22
+86401,Châtellerault,4,44
+86601,Poitiers,6,61
+87101,Bosmie-l'Aiguille,1,12
+87102,Saint-Priest-Taurion,1,12
+87103,Rochechouart,1,13
+87104,Saint-Léonard-de-Noblat,1,14
+87105,Rilhac-Rancon,1,14
+87106,Bellac,1,14
+87201,Ambazac,2,21
+87202,Saint-Yrieix-la-Perche,2,21
+87203,Aixe-sur-Vienne,2,22
+87301,Saint-Junien,3,31
+87601,Limoges,6,61
+88101,Liffol-le-Grand,1,11
+88102,Vincey,1,11
+88103,Pouxeux,1,11
+88104,Granges-Aumontzey,1,12
+88105,Arches,1,12
+88106,Ban-de-Laveline,1,12
+88107,Contrexéville,1,13
+88108,Uxegney,1,13
+88109,Nomexy,1,13
+88110,Le Val-d'Ajol,1,13
+88111,Bruyères,1,14
+88201,Vittel,2,21
+88202,Rambervillers,2,21
+88203,Charmes,2,21
+88204,Neufchâteau,2,21
+88205,Mirecourt,2,22
+88206,Gérardmer,2,22
+88301,Moyenmoutier,3,31
+88302,La Bresse,3,31
+88303,Vagney,3,31
+88304,Le Thillot,3,32
+88401,Remiremont,4,41
+88402,Saint-Dié-des-Vosges,4,44
+88501,Épinal,5,51
+89101,Champigny,1,11
+89102,Chablis,1,11
+89103,Toucy,1,12
+89104,Saint-Julien-du-Sault,1,12
+89105,Appoigny,1,13
+89106,Brienon-sur-Armançon,1,13
+89107,Pont-sur-Yonne,1,13
+89108,Villeneuve-la-Guyard,1,13
+89109,Saint-Florentin,1,14
+89201,Tonnerre,2,21
+89202,Villeneuve-sur-Yonne,2,21
+89203,Avallon,2,21
+89204,Joigny,2,22
+89301,Migennes,3,31
+89401,Sens,4,43
+89402,Auxerre,4,44
+90101,Rougemont-le-Château,1,11
+90102,Roppe,1,11
+90103,Étueffont,1,12
+90201,Giromagny,2,21
+90301,Delle (partie française),3,31
+91101,Pussay,1,11
+91102,Vert-le-Grand,1,11
+91103,Maisse,1,12
+91104,Vert-le-Petit,1,12
+91105,Briis-sous-Forges,1,13
+91106,Boissy-sous-Saint-Yon,1,13
+91107,Tigery,1,14
+91108,Angerville,1,14
+91201,Boutigny-sur-Essonne,2,21
+91202,Milly-la-Forêt,2,21
+91203,Le Mérévillois,2,21
+91204,Saint-Chéron,2,21
+91205,Marolles-en-Hurepoix,2,21
+91206,La Ferté-Alais,2,22
+91301,Limours,3,31
+91302,Dourdan,3,31
+91303,Ballancourt-sur-Essonne,3,32
+91304,Étréchy,3,32
+91401,Étampes,4,43
+95101,Saint-Witz,1,11
+95102,Vémars,1,11
+95103,Saint-Martin-du-Tertre,1,12
+95104,Belloy-en-France,1,12
+95105,Marines,1,13
+95106,Presles,1,13
+95107,Bruyères-sur-Oise,1,14
+95201,Menucourt,2,21
+95202,Magny-en-Vexin,2,21
+95203,Montsoult,2,22
+95301,Louvres,3,31
+95302,Viarmes,3,32
+95303,Fosses,3,32
+9A101,Anse-Bertrand,1,14
+9A201,Grand-Bourg,2,21
+9A202,Port-Louis,2,21
+9A203,Pointe-Noire,2,21
+9A204,Bouillante,2,22
+9A301,Sainte-Rose,3,32
+9A401,Capesterre-Belle-Eau,4,42
+9A501,Basse-Terre,5,51
+9A701,Pointe-à-Pitre-Les Abymes,7,71
+9B101,Basse-Pointe,1,13
+9B102,Le Carbet,1,13
+9B103,Saint-Pierre,1,14
+9B201,Le Morne-Rouge,2,21
+9B202,Le Diamant,2,21
+9B203,Le Lorrain,2,21
+9B204,Les Trois-Îlets,2,22
+9B401,Sainte-Marie,4,43
+9B402,Le Lamentin,4,43
+9B601,Fort-de-France,6,61
+9B602,Le Robert,6,61
+9C101,Sinnamary,1,12
+9C102,Saint-Georges,1,14
+9C301,Mana,3,31
+9C302,Maripasoula,3,31
+9C303,Macouria,3,31
+9C401,Kourou,4,42
+9C402,Saint-Laurent-du-Maroni,4,44
+9C601,Cayenne,6,61
+9D201,Cilaos,2,21
+9D202,Sainte-Rose,2,21
+9D203,La Plaine-des-Palmistes,2,21
+9D204,Les Trois-Bassins,2,22
+9D301,Bras-Panon,3,31
+9D401,Sainte-Suzanne,4,41
+9D402,L'Étang-Salé,4,42
+9D403,Saint-Leu,4,43
+9D404,Saint-Benoît,4,43
+9D405,Saint-Joseph,4,44
+9D501,Saint-Louis,5,51
+9D502,Saint-André,5,51
+9D601,Saint-Pierre,6,61
+9D602,Saint-Paul,6,61
+9D603,Saint-Denis,6,61
+9F201,Acoua,2,21
+9F202,Kani-Kéli,2,21
+9F203,Bouéni,2,21
+9F204,M'Tsangamouji,2,21
+9F205,Mtsamboro,2,22
+9F206,Chiconi,2,22
+9F207,Chirongui,2,22
+9F301,Ouangani,3,31
+9F302,Bandrele,3,31
+9F303,Sada,3,31
+9F304,Tsingoni,3,31
+9F305,Bandraboua,3,31
+9F306,Dembeni,3,32
+9F401,Dzaoudzi,4,42
+9F601,Mamoudzou,6,61
+1000,Commune hors unité urbaine de l'Ain,,
+2000,Commune hors unité urbaine de l'Aisne,,
+3000,Commune hors unité urbaine de l'Allier,,
+4000,Commune hors unité urbaine des Alpes-de-Haute-Provence,,
+5000,Commune hors unité urbaine des Hautes-Alpes,,
+6000,Commune hors unité urbaine des Alpes-Maritimes,,
+7000,Commune hors unité urbaine d'Ardèche,,
+8000,Commune hors unité urbaine des Ardennes,,
+9000,Commune hors unité urbaine de l'Ariège,,
+10000,Commune hors unité urbaine de l'Aube,,
+11000,Commune hors unité urbaine de l'Aude,,
+12000,Commune hors unité urbaine de l'Aveyron,,
+13000,Commune hors unité urbaine des Bouches-du-Rhône,,
+14000,Commune hors unité urbaine du Calvados,,
+15000,Commune hors unité urbaine du Cantal,,
+16000,Commune hors unité urbaine de Charente,,
+17000,Commune hors unité urbaine de Charente-Maritime,,
+18000,Commune hors unité urbaine du Cher,,
+19000,Commune hors unité urbaine de Corrèze,,
+20000,Commune hors unité urbaine de Corse,,
+21000,Commune hors unité urbaine de Côte-d'Or,,
+22000,Commune hors unité urbaine des Côtes-d'Armor,,
+23000,Commune hors unité urbaine de la Creuse,,
+24000,Commune hors unité urbaine de Dordogne,,
+25000,Commune hors unité urbaine du Doubs,,
+26000,Commune hors unité urbaine de la Drôme,,
+27000,Commune hors unité urbaine de l'Eure,,
+28000,Commune hors unité urbaine de l'Eure-et-Loir,,
+29000,Commune hors unité urbaine du Finistère,,
+30000,Commune hors unité urbaine du Gard,,
+31000,Commune hors unité urbaine de Haute-Garonne,,
+32000,Commune hors unité urbaine du Gers,,
+33000,Commune hors unité urbaine de Gironde,,
+34000,Commune hors unité urbaine de l'Hérault,,
+35000,Commune hors unité urbaine d'Ille-et-Vilaine,,
+36000,Commune hors unité urbaine de l'Indre,,
+37000,Commune hors unité urbaine d'Indre-et-Loire,,
+38000,Commune hors unité urbaine d'Isère,,
+39000,Commune hors unité urbaine du Jura,,
+40000,Commune hors unité urbaine des Landes,,
+41000,Commune hors unité urbaine du Loir-et-Cher,,
+42000,Commune hors unité urbaine de la Loire,,
+43000,Commune hors unité urbaine de Haute-Loire,,
+44000,Commune hors unité urbaine de Loire-Atlantique,,
+45000,Commune hors unité urbaine du Loiret,,
+46000,Commune hors unité urbaine du Lot,,
+47000,Commune hors unité urbaine du Lot-et-Garonne,,
+48000,Commune hors unité urbaine de Lozère,,
+49000,Commune hors unité urbaine du Maine-et-Loire,,
+50000,Commune hors unité urbaine de la Manche,,
+51000,Commune hors unité urbaine de la Marne,,
+52000,Commune hors unité urbaine de Haute-Marne,,
+53000,Commune hors unité urbaine de Mayenne,,
+54000,Commune hors unité urbaine de Meurthe-et-Moselle,,
+55000,Commune hors unité urbaine de la Meuse,,
+56000,Commune hors unité urbaine du Morbihan,,
+57000,Commune hors unité urbaine de Moselle,,
+58000,Commune hors unité urbaine de la Nièvre,,
+59000,Commune hors unité urbaine du Nord,,
+60000,Commune hors unité urbaine de l'Oise,,
+61000,Commune hors unité urbaine de l'Orne,,
+62000,Commune hors unité urbaine du Pas-de-Calais,,
+63000,Commune hors unité urbaine du Puy-de-Dôme,,
+64000,Commune hors unité urbaine des Pyrénées-Atlantiques,,
+65000,Commune hors unité urbaine des Hautes-Pyrénées,,
+66000,Commune hors unité urbaine des Pyrénées-Orientales,,
+67000,Commune hors unité urbaine du Bas-Rhin,,
+68000,Commune hors unité urbaine du Haut-Rhin,,
+69000,Commune hors unité urbaine du Rhône,,
+70000,Commune hors unité urbaine de Haute-Saône,,
+71000,Commune hors unité urbaine de Saône-et-Loire,,
+72000,Commune hors unité urbaine de la Sarthe,,
+73000,Commune hors unité urbaine de Savoie,,
+74000,Commune hors unité urbaine de Haute-Savoie,,
+76000,Commune hors unité urbaine de Seine-Maritime,,
+77000,Commune hors unité urbaine de Seine-et-Marne,,
+78000,Commune hors unité urbaine des Yvelines,,
+79000,Commune hors unité urbaine des Deux-Sèvres,,
+80000,Commune hors unité urbaine de la Somme,,
+81000,Commune hors unité urbaine du Tarn,,
+82000,Commune hors unité urbaine du Tarn-et-Garonne,,
+83000,Commune hors unité urbaine du Var,,
+84000,Commune hors unité urbaine du Vaucluse,,
+85000,Commune hors unité urbaine de Vendée,,
+86000,Commune hors unité urbaine de la Vienne,,
+87000,Commune hors unité urbaine de Haute-Vienne,,
+88000,Commune hors unité urbaine des Vosges,,
+89000,Commune hors unité urbaine de l'Yonne,,
+90000,Commune hors unité urbaine du Territoire de Belfort,,
+91000,Commune hors unité urbaine de l'Essonne,,
+92000,Commune hors unité urbaine des Hauts-de-Seine,,
+93000,Commune hors unité urbaine de Seine-Saint-Denis,,
+94000,Commune hors unité urbaine du Val-de-Marne,,
+95000,Commune hors unité urbaine du Val-d'Oise,,
+971000,Commune hors unité urbaine de Guadeloupe,,
+972000,Commune hors unité urbaine de Martinique,,
+973000,Commune hors unité urbaine de Guyane,,
+974000,Commune hors unité urbaine de La Réunion,,

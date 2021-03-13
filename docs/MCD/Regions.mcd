@@ -1,0 +1,14 @@
+EDUCATION : id_ecole, type, patronyme, code_academie, id_insee
+COMPTE X ECOLES, 0N EDUCATION, 11 COMMUNES
+DEPARTEMENT : id_dpt, nom
+FAIT PARTIE DE, 11 DEPARTEMENT, 1N REGION
+
+PEUT APPARTENIR A, 01 COMMUNES, 1N UNITES_URBAINES
+COMMUNES : id_insee, nom, id_uu, id_dpt, id_region
+EST DANS, 11 DEPARTEMENT, 1N COMMUNES
+REGION : id_region, nom
+
+UNITES_URBAINES : id_uu, nom, tranche_uu, tranche_detaillee
+COMPTE X HABITANTS, 11 COMMUNES, 11 POPULATION
+POPULATION : id_insee, population_totale
+:

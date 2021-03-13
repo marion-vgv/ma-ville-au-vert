@@ -1,0 +1,2862 @@
+DEPP;CODCOMP;COMP;DEP;CODCOM;COM;PMUN;PCAP;PTOT
+01;015;Arboys en Bugey;01;015;Arbignieu;509;13;522
+01;025;Bâgé-Dommartin;01;025;Bâgé-la-Ville;3188;76;3264
+01;033;Valserhône;01;033;Bellegarde-sur-Valserine;11450;258;11708
+01;036;Valromey-sur-Séran;01;036;Belmont-Luthézieu;606;7;613
+01;453;Arvière-en-Valromey;01;059;Brénaz;105;0;105
+01;080;Champdor-Corcelles;01;080;Champdor;441;6;447
+01;033;Valserhône;01;091;Châtillon-en-Michaille;3923;80;4003
+01;095;Nivigne et Suran;01;095;Chavannes-sur-Suran;673;7;680
+01;453;Arvière-en-Valromey;01;097;Chavornay;226;9;235
+01;098;Chazey-Bons;01;098;Chazey-Bons;989;33;1022
+01;080;Champdor-Corcelles;01;119;Corcelles;202;8;210
+01;262;Montluel;01;120;Cordieux;540;8;548
+01;185;Plateau d'Hauteville;01;122;Cormaranche-en-Bugey;829;65;894
+01;130;Bresse Vallons;01;130;Cras-sur-Reyssouze;1501;24;1525
+01;426;Val-Revermont;01;137;Cuisiat;595;14;609
+01;025;Bâgé-Dommartin;01;144;Dommartin;890;31;921
+01;130;Bresse Vallons;01;154;Étrez;806;20;826
+01;095;Nivigne et Suran;01;172;Germagnat;145;4;149
+01;187;Haut Valromey;01;176;Grand-Abergement;121;4;125
+01;338;Groslée-Saint-Benoit;01;182;Groslée;363;9;372
+01;185;Plateau d'Hauteville;01;185;Hauteville-Lompnes;3652;103;3755
+01;185;Plateau d'Hauteville;01;186;Hostiaz;87;0;87
+01;187;Haut Valromey;01;187;Hotonnes;272;9;281
+01;204;Le Poizat-Lalleyriat;01;204;Lalleyriat;251;8;259
+01;033;Valserhône;01;205;Lancrans;1058;31;1089
+01;215;Surjoux-Lhopital;01;215;Lhôpital;52;0;52
+01;453;Arvière-en-Valromey;01;218;Lochieu;86;2;88
+01;036;Valromey-sur-Séran;01;221;Lompnieu;121;1;122
+01;227;Magnieu;01;227;Magnieu;496;11;507
+01;286;Parves et Nattages;01;271;Nattages;589;25;614
+01;286;Parves et Nattages;01;286;Parves;357;13;370
+01;187;Haut Valromey;01;292;Petit-Abergement;127;3;130
+01;204;Le Poizat-Lalleyriat;01;300;Poizat;478;7;485
+01;426;Val-Revermont;01;312;Pressiat;263;2;265
+01;098;Chazey-Bons;01;316;Pugieu;155;4;159
+01;245;Bohas-Meyriat-Rignat;01;324;Rignat;259;2;261
+01;338;Groslée-Saint-Benoit;01;338;Saint-Benoît;840;27;867
+01;015;Arboys en Bugey;01;340;Saint-Bois;138;4;142
+01;227;Magnieu;01;341;Saint-Champ;147;3;150
+01;187;Haut Valromey;01;409;Songieu;123;6;129
+01;215;Surjoux-Lhopital;01;413;Surjoux;85;3;88
+01;036;Valromey-sur-Séran;01;414;Sutrieu;207;7;214
+01;185;Plateau d'Hauteville;01;417;Thézillieu;288;9;297
+01;426;Val-Revermont;01;426;Treffort;1712;43;1755
+01;036;Valromey-sur-Séran;01;442;Vieu;386;4;390
+01;453;Arvière-en-Valromey;01;453;Virieu-le-Petit;292;11;303
+02;018;Anizy-le-Grand;02;018;Anizy-le-Château;1931;39;1970
+02;458;Dhuys et Morin-en-Brie;02;026;Artonges;161;4;165
+02;053;Vallées en Champagne;02;053;Baulne-en-Brie;264;2;266
+02;458;Dhuys et Morin-en-Brie;02;147;Celle-sous-Montmirail;119;1;120
+02;153;Cessières-Suzy;02;153;Cessières;433;10;443
+02;053;Vallées en Champagne;02;161;Chapelle-Monthodon;202;4;206
+59;545;Saint-Souplet;02;285;Escaufourt;174;5;179
+02;738;Tergnier;02;300;Fargniers;3392;59;3451
+02;018;Anizy-le-Grand;02;301;Faucoucourt;328;7;335
+02;458;Dhuys et Morin-en-Brie;02;325;Fontenelle-en-Brie;201;3;204
+02;439;Septvallons;02;348;Glennes;209;4;213
+02;360;Villeneuve-sur-Aisne;02;360;Guignicourt;2211;32;2243
+02;018;Anizy-le-Grand;02;434;Lizy;283;7;290
+02;439;Septvallons;02;439;Longueval-Barbonval;492;8;500
+02;458;Dhuys et Morin-en-Brie;02;458;Marchais-en-Brie;338;9;347
+02;360;Villeneuve-sur-Aisne;02;475;Menneville;511;7;518
+02;439;Septvallons;02;479;Merval;133;0;133
+02;439;Septvallons;02;597;Perles;79;3;82
+02;738;Tergnier;02;630;Quessy;2950;28;2978
+02;439;Septvallons;02;646;Révillon;68;3;71
+02;053;Vallées en Champagne;02;669;Saint-Agnan;104;0;104
+02;153;Cessières-Suzy;02;733;Suzy;332;10;342
+02;439;Septvallons;02;771;Vauxcéré;67;0;67
+02;439;Septvallons;02;811;Villers-en-Prayères;133;2;135
+02;738;Tergnier;02;825;Vouël;2251;50;2301
+03;158;Haut-Bocage;03;123;Givarlais;212;5;217
+03;158;Haut-Bocage;03;153;Louroux-Hodement;353;8;361
+03;158;Haut-Bocage;03;158;Maillet;314;6;320
+03;168;Meaulne-Vitray;03;168;Meaulne;770;13;783
+03;168;Meaulne-Vitray;03;318;Vitray;134;2;136
+04;081;Esparron-de-Verdon;04;003;Albiosc;38;0;38
+04;136;La Mure-Argens;04;010;Argens;12;0;12
+04;023;Bayons;04;011;Astoin;7;0;7
+04;155;Prads-Haute-Bléone;04;029;Blégiers;70;0;70
+04;033;Ubaye-Serre-Ponçon;04;033;Bréole;379;11;390
+04;144;La Palud-sur-Verdon;04;052;Châteauneuf-lès-Moustiers;56;0;56
+04;023;Bayons;04;082;Esparron-la-Bâtie;11;0;11
+04;120;Val d'Oronaye;04;100;Larche;57;0;57
+04;192;Saint-Michel-l'Observatoire;04;105;Lincel;220;5;225
+04;120;Val d'Oronaye;04;120;Meyronnes;62;1;63
+04;124;Montagnac-Montpezat;04;131;Montpezat;35;0;35
+04;204;Senez;04;153;Poil;3;1;4
+04;023;Bayons;04;165;Reynier;12;0;12
+04;033;Ubaye-Serre-Ponçon;04;198;Saint-Vincent-les-Forts;375;8;383
+05;001;Abriès-Ristolas;05;001;Abriès;295;6;301
+05;139;Dévoluy;05;002;Agnières-en-Dévoluy;284;9;293
+05;118;Val Buëch-Méouge;05;005;Antonaves;143;3;146
+05;132;Saint-Bonnet-en-Champsaur;05;020;Bénévent-et-Charbillac;287;11;298
+05;024;Valdoule;05;024;Bruis;79;3;82
+05;118;Val Buëch-Méouge;05;034;Châteauneuf-de-Chabre;378;7;385
+05;139;Dévoluy;05;042;Cluse;53;0;53
+05;053;Garde-Colombe;05;053;Eyguians;240;6;246
+05;132;Saint-Bonnet-en-Champsaur;05;067;Infournas;29;0;29
+05;053;Garde-Colombe;05;069;Lagrand;236;4;240
+05;024;Valdoule;05;088;Montmorin;105;5;110
+05;101;Vallouise-Pelvoux;05;101;Pelvoux;430;11;441
+05;118;Val Buëch-Méouge;05;118;Ribiers;824;18;842
+05;001;Abriès-Ristolas;05;120;Ristolas;89;0;89
+05;061;Gap;05;125;Romette;1642;46;1688
+05;132;Saint-Bonnet-en-Champsaur;05;132;Saint-Bonnet-en-Champsaur;1732;64;1796
+05;139;Dévoluy;05;138;Saint-Disdier;115;2;117
+05;139;Dévoluy;05;139;Saint-Étienne-en-Dévoluy;489;16;505
+05;053;Garde-Colombe;05;143;Saint-Genis;54;1;55
+05;024;Valdoule;05;150;Sainte-Marie;37;0;37
+05;101;Vallouise-Pelvoux;05;175;Vallouise;748;30;778
+07;011;Vallées-d'Antraigues-Asperjoc;07;011;Antraigues-sur-Volane;531;9;540
+07;011;Vallées-d'Antraigues-Asperjoc;07;016;Asperjoc;389;10;399
+07;334;Les Vans;07;043;Brahic;89;2;91
+07;031;Berrias-et-Casteljau;07;046;Casteljau;307;11;318
+07;334;Les Vans;07;057;Chassagnes;190;3;193
+07;262;Saint-Laurent-les-Bains-Laval-d'Aurelle;07;135;Laval-d'Aurelle;36;0;36
+07;334;Les Vans;07;164;Naves;556;20;576
+07;165;Belsentes;07;165;Nonières;215;8;223
+07;284;Saint-Pierre-Saint-Jean;07;246;Saint-Jean-de-Pourcharesse;69;1;70
+07;165;Belsentes;07;256;Saint-Julien-Labrousse;336;14;350
+07;262;Saint-Laurent-les-Bains-Laval-d'Aurelle;07;262;Saint-Laurent-les-Bains;138;2;140
+07;270;Saint-Martin-sur-Lavezon;07;271;Saint-Martin-l'Inférieur;178;6;184
+08;116;Bairon et ses environs;08;007;Alleux;77;1;78
+08;311;Mouzon;08;009;Amblimont;216;1;217
+08;437;Tailly;08;012;Andevanne;21;0;21
+08;173;Flize;08;042;Balaives-et-Butz;202;14;216
+08;437;Tailly;08;050;Barricourt;50;4;54
+08;069;Blanchefosse-et-Bay;08;051;Bay;56;0;56
+08;053;Bazeilles;08;053;Bazeilles;1920;207;2127
+08;491;Vrigne aux Bois;08;072;Bosseval-et-Briancourt;414;11;425
+08;173;Flize;08;079;Boutancourt;277;14;291
+08;057;Belleville-et-Châtillon-sur-Bar;08;112;Châtillon-sur-Bar;125;1;126
+08;115;Chémery-Chéhéry;08;114;Chéhéry;120;0;120
+08;115;Chémery-Chéhéry;08;115;Chémery-sur-Bar;441;4;445
+08;116;Bairon et ses environs;08;116;Chesne;883;15;898
+08;145;Douzy;08;145;Douzy;1910;49;1959
+08;173;Flize;08;152;Élan;75;2;77
+08;173;Flize;08;173;Flize;1168;22;1190
+08;189;Girondelle;08;177;Foulzy;64;0;64
+08;198;Grandpré;08;198;Grandpré;400;11;411
+08;366;Rocquigny;08;213;Hardoye;71;1;72
+08;113;Chaumont-Porcien;08;258;Logny-lès-Chaumont;25;0;25
+08;116;Bairon et ses environs;08;261;Louvergny;65;1;66
+08;366;Rocquigny;08;265;Mainbresson;84;0;84
+08;366;Rocquigny;08;266;Mainbressy;134;3;137
+08;145;Douzy;08;267;Mairy;278;11;289
+08;328;Nouzonville;08;285;Meillier-Fontaine;41;2;43
+08;311;Mouzon;08;311;Mouzon;2050;39;2089
+08;362;Rethel;08;337;Pargny-Resson;228;3;231
+08;333;Olizy-Primat;08;345;Primat;36;2;38
+08;437;Tailly;08;359;Rémonville;59;1;60
+08;053;Bazeilles;08;371;Rubécourt-et-Lamécourt;151;4;155
+08;198;Grandpré;08;441;Termes;126;5;131
+08;490;Vouziers;08;443;Terron-sur-Aisne;108;9;117
+08;053;Bazeilles;08;475;Villers-Cernay;340;7;347
+08;490;Vouziers;08;490;Vouziers;3919;135;4054
+08;491;Vrigne aux Bois;08;491;Vrigne-aux-Bois;3184;67;3251
+08;490;Vouziers;08;493;Vrizy;312;6;318
+08;113;Chaumont-Porcien;08;495;Wadimont;51;1;52
+09;296;Aulos-Sinsat;09;028;Aulos;54;2;56
+09;306;Tarascon-sur-Ariège;09;036;Banat;121;3;124
+09;062;Bordes-Uchentein;09;062;Bordes-sur-Lez;169;4;173
+09;334;Val-de-Sos;09;135;Goulier;47;0;47
+09;334;Val-de-Sos;09;286;Sem;22;0;22
+09;296;Aulos-Sinsat;09;296;Sinsat;105;0;105
+09;334;Val-de-Sos;09;302;Suc-et-Sentenac;55;0;55
+09;062;Bordes-Uchentein;09;317;Uchentein;17;0;17
+09;334;Val-de-Sos;09;334;Vicdessos;470;63;533
+10;003;Aix-Villemaur-Pâlis;10;003;Aix-en-Othe;2418;23;2441
+10;058;Bragelogne-Beauvoir;10;036;Beauvoir-sur-Sarce;67;3;70
+10;003;Aix-Villemaur-Pâlis;10;277;Palis;645;10;655
+10;148;Ferreux-Quincey;10;311;Quincey;103;2;105
+10;003;Aix-Villemaur-Pâlis;10;415;Villemaur-sur-Vanne;484;5;489
+11;304;Quillan;11;050;Brenac;219;1;220
+11;323;Roquetaillade-et-Conilhac;11;097;Conilhac-de-la-Montagne;67;1;68
+11;131;Val-du-Faby;11;131;Fa;345;8;353
+11;080;Val de Lambronne;11;171;Gueytes-et-Labastide;32;1;33
+11;251;Val-de-Dagne;11;251;Montlaur;561;7;568
+11;251;Val-de-Dagne;11;298;Pradelles-en-Val;178;3;181
+11;323;Roquetaillade-et-Conilhac;11;323;Roquetaillade;210;1;211
+11;131;Val-du-Faby;11;329;Rouvenac;219;5;224
+11;128;Escueillens-et-Saint-Just-de-Bélengard;11;349;Saint-Just-de-Bélengard;62;1;63
+12;223;Argences en Aubrac;12;005;Alpuech;70;0;70
+12;224;Saint Geniez d'Olt et d'Aubrac;12;014;Aurelle-Verlac;160;1;161
+12;021;Bas Ségala;12;021;Bastide-l'Évêque;804;21;825
+12;270;Sévérac d'Aveyron;12;040;Buzeins;186;13;199
+12;076;Conques-en-Rouergue;12;076;Conques;246;10;256
+12;177;Palmas d'Aveyron;12;081;Coussergues;254;5;259
+12;177;Palmas d'Aveyron;12;087;Cruéjouls;404;3;407
+12;223;Argences en Aubrac;12;112;Graissac;177;3;180
+12;076;Conques-en-Rouergue;12;114;Grand-Vabre;381;14;395
+12;223;Argences en Aubrac;12;117;Lacalm;166;2;168
+12;120;Laissac-Sévérac l'Église;12;120;Laissac;1711;31;1742
+12;270;Sévérac d'Aveyron;12;123;Lapanouse;757;48;805
+12;270;Sévérac d'Aveyron;12;126;Lavernhe;220;7;227
+12;257;Causse-et-Diège;12;132;Loupiac;406;11;417
+12;076;Conques-en-Rouergue;12;173;Noailhac;155;5;160
+12;177;Palmas d'Aveyron;12;177;Palmas;362;7;369
+12;270;Sévérac d'Aveyron;12;196;Recoules-Prévinquières;503;4;507
+12;076;Conques-en-Rouergue;12;218;Saint-Cyprien-sur-Dourdou;861;28;889
+12;224;Saint Geniez d'Olt et d'Aubrac;12;224;Saint-Geniez-d'Olt;2046;39;2085
+12;021;Bas Ségala;12;245;Saint-Salvadou;374;17;391
+12;223;Argences en Aubrac;12;223;Sainte-Geneviève-sur-Argence;972;23;995
+12;120;Laissac-Sévérac l'Église;12;271;Sévérac-l'Église;415;72;487
+12;270;Sévérac d'Aveyron;12;270;Sévérac-le-Château;2415;50;2465
+12;223;Argences en Aubrac;12;279;Terrisse;145;5;150
+12;021;Bas Ségala;12;285;Vabre-Tizac;393;17;410
+12;223;Argences en Aubrac;12;304;Vitrac-en-Viadène;93;5;98
+14;150;Cesny-les-Sources;14;002;Acqueville;187;7;194
+14;281;Formigny La Bataille;14;004;Aignerville;204;3;207
+14;005;Valambray;14;005;Airan;670;13;683
+14;355;Ponts sur Seulles;14;008;Amblie;274;6;280
+14;011;Aurseulles;14;011;Anctoville;1083;17;1100
+14;150;Cesny-les-Sources;14;013;Angoville;25;1;26
+14;027;Les Monts d'Aunay;14;027;Aunay-sur-Odon;3209;37;3246
+14;371;Livarot-Pays-d'Auge;14;028;Auquainville;295;6;301
+14;371;Livarot-Pays-d'Auge;14;029;Autels-Saint-Bazile;49;0;49
+14;431;Mézidon Vallée d'Auge;14;031;Authieux-Papion;62;1;63
+14;035;Balleroy-sur-Drôme;14;035;Balleroy;968;54;1022
+14;037;Malherbe-sur-Ajon;14;037;Banneville-sur-Ajon;434;11;445
+14;027;Les Monts d'Aunay;14;056;Bauquay;294;6;300
+14;231;Beaufour-Druval;14;051;Beaufour;163;6;169
+14;061;Souleuvre en Bocage;14;052;Beaulieu;204;2;206
+14;371;Livarot-Pays-d'Auge;14;058;Bellou;135;1;136
+14;061;Souleuvre en Bocage;14;061;Bény-Bocage;1059;22;1081
+14;726;Valdallière;14;065;Bernières-le-Patry;538;7;545
+14;527;Belle Vie en Auge;14;527;Biéville-Quétiéville;358;3;361
+14;579;Seulline;14;073;Bigne;217;3;220
+14;005;Valambray;14;074;Billy;411;9;420
+14;410;Méry-Bissières-en-Auge;14;075;Bissières;176;1;177
+14;654;Saint-Pierre-en-Auge;14;081;Boissey;208;2;210
+14;098;Thue et Mue;14;098;Bretteville-l'Orgueilleuse;3149;44;3193
+14;654;Saint-Pierre-en-Auge;14;099;Bretteville-sur-Dives;276;5;281
+14;576;Val-de-Vie;14;105;Brévière;117;2;119
+14;098;Thue et Mue;14;109;Brouay;489;6;495
+14;266;Feuguerolles-Bully;14;112;Bully;242;5;247
+14;726;Valdallière;14;113;Burcy;403;6;409
+14;061;Souleuvre en Bocage;14;115;Bures-les-Monts;146;4;150
+14;712;Troarn;14;114;Bures-sur-Dives;395;8;403
+14;027;Les Monts d'Aunay;14;128;Campandré-Valcongrain;90;4;94
+14;061;Souleuvre en Bocage;14;129;Campeaux;589;7;596
+14;061;Souleuvre en Bocage;14;139;Carville;345;6;351
+14;342;Isigny-sur-Mer;14;142;Castilly;306;7;313
+14;143;Caumont-sur-Aure;14;143;Caumont-l'Éventé;1321;8;1329
+14;689;Le Hom;14;144;Caumont-sur-Orne;75;1;76
+14;371;Livarot-Pays-d'Auge;14;148;Cerqueux;82;4;86
+14;150;Cesny-les-Sources;14;150;Cesny-Bois-Halbout;605;9;614
+14;658;Noues de Sienne;14;151;Champ-du-Boult;378;5;383
+14;174;Condé-en-Normandie;14;152;Chapelle-Engerbold;101;0;101
+14;576;Val-de-Vie;14;153;Chapelle-Haute-Grue;76;1;77
+14;570;Valorbiquet;14;154;Chapelle-Yvon;550;4;554
+14;371;Livarot-Pays-d'Auge;14;155;Cheffreville-Tonnencourt;294;6;300
+14;726;Valdallière;14;156;Chênedollé;228;3;231
+14;098;Thue et Mue;14;157;Cheux;1422;13;1435
+14;456;Moult-Chicheboville;14;158;Chicheboville;548;10;558
+14;349;Laize-Clinchamps;14;164;Clinchamps-sur-Orne;1257;16;1273
+14;174;Condé-en-Normandie;14;174;Condé-sur-Noireau;4551;237;4788
+14;005;Valambray;14;176;Conteville;92;2;94
+14;474;Notre-Dame-d'Estrées-Corbon;14;178;Corbon;69;1;70
+14;406;Moulins en Bessin;14;186;Coulombs;459;9;468
+14;762;Vire Normandie;14;187;Coulonces;729;18;747
+14;579;Seulline;14;188;Coulvain;398;3;401
+14;431;Mézidon Vallée d'Auge;14;189;Coupesarte;42;2;44
+14;658;Noues de Sienne;14;192;Courson;398;5;403
+14;200;Creully sur Seulles;14;200;Creully;1586;19;1605
+14;431;Mézidon Vallée d'Auge;14;201;Crèvecœur-en-Auge;475;6;481
+14;431;Mézidon Vallée d'Auge;14;208;Croissanville;532;5;537
+14;371;Livarot-Pays-d'Auge;14;210;Croupte;116;2;118
+14;406;Moulins en Bessin;14;212;Cully;157;4;161
+14;689;Le Hom;14;213;Curcy-sur-Orne;472;9;481
+14;672;Val de Drôme;14;217;Dampierre;132;2;134
+14;027;Les Monts d'Aunay;14;219;Danvou-la-Ferrière;160;6;166
+14;726;Valdallière;14;222;Désert;74;0;74
+14;281;Formigny La Bataille;14;235;Écrammeville;208;4;212
+14;735;Vendeuvre;14;247;Escures-sur-Favières;349;4;353
+14;726;Valdallière;14;253;Estry;351;7;358
+14;061;Souleuvre en Bocage;14;255;Étouvy;285;6;291
+14;371;Livarot-Pays-d'Auge;14;259;Familly;117;5;122
+14;061;Souleuvre en Bocage;14;264;Ferrière-Harang;313;4;317
+14;371;Livarot-Pays-d'Auge;14;265;Fervaques;724;14;738
+14;005;Valambray;14;268;Fierville-Bray;483;13;496
+14;658;Noues de Sienne;14;279;Fontenermont;150;3;153
+14;281;Formigny La Bataille;14;281;Formigny;252;6;258
+14;740;Vespière-Friardel;14;292;Friardel;247;3;250
+14;554;Castelet;14;294;Garcelles-Secqueville;944;6;950
+14;658;Noues de Sienne;14;296;Gast;170;6;176
+14;431;Mézidon Vallée d'Auge;14;313;Grandchamp-le-Château;83;0;83
+14;061;Souleuvre en Bocage;14;317;Graverie;1184;44;1228
+14;735;Vendeuvre;14;321;Grisy;109;0;109
+14;689;Le Hom;14;324;Hamars;465;2;467
+14;371;Livarot-Pays-d'Auge;14;330;Heurtevent;191;2;193
+14;654;Saint-Pierre-en-Auge;14;331;Hiéville;324;7;331
+14;538;Castine-en-Plaine;14;339;Hubert-Folie;381;7;388
+14;515;Port-en-Bessin-Huppain;14;340;Huppain;379;8;387
+14;342;Isigny-sur-Mer;14;342;Isigny-sur-Mer;2508;23;2531
+14;347;Dialan sur Chaîne;14;347;Jurques;692;8;700
+14;349;Laize-Clinchamps;14;349;Laize-la-Ville;825;5;830
+14;672;Val de Drôme;14;350;Lande-sur-Drôme;66;1;67
+14;355;Ponts sur Seulles;14;355;Lantheuil;747;8;755
+14;543;Rots;14;356;Lasson;568;22;590
+14;357;Terres de Druance;14;357;Lassy;322;10;332
+14;431;Mézidon Vallée d'Auge;14;359;Lécaude;129;2;131
+14;174;Condé-en-Normandie;14;361;Lénault;188;6;194
+14;371;Livarot-Pays-d'Auge;14;371;Livarot;2028;28;2056
+14;143;Caumont-sur-Aure;14;372;Livry;737;11;748
+14;475;Val d'Arry;14;373;Locheur;242;4;246
+14;011;Aurseulles;14;376;Longraye;233;5;238
+14;281;Formigny La Bataille;14;382;Louvières;70;1;71
+14;431;Mézidon Vallée d'Auge;14;386;Magny-la-Campagne;582;6;588
+14;431;Mézidon Vallée d'Auge;14;387;Magny-le-Freule;335;4;339
+14;762;Vire Normandie;14;388;Maisoncelles-la-Jourdan;461;13;474
+14;061;Souleuvre en Bocage;14;395;Malloué;26;0;26
+14;406;Moulins en Bessin;14;406;Martragny;361;13;374
+14;410;Méry-Bissières-en-Auge;14;410;Méry-Corbon;917;6;923
+14;347;Dialan sur Chaîne;14;413;Mesnil-Auzouf;362;4;366
+14;371;Livarot-Pays-d'Auge;14;414;Mesnil-Bacley;195;10;205
+14;658;Noues de Sienne;14;415;Mesnil-Benoist;51;1;52
+14;658;Noues de Sienne;14;416;Mesnil-Caussois;117;4;121
+14;658;Noues de Sienne;14;417;Mesnil-Clinchamps;952;22;974
+14;371;Livarot-Pays-d'Auge;14;418;Mesnil-Durand;300;5;305
+14;371;Livarot-Pays-d'Auge;14;420;Mesnil-Germain;262;4;266
+14;431;Mézidon Vallée d'Auge;14;422;Mesnil-Mauger;994;21;1015
+14;098;Thue et Mue;14;423;Mesnil-Patry;325;11;336
+14;371;Livarot-Pays-d'Auge;14;429;Meulles;358;4;362
+14;431;Mézidon Vallée d'Auge;14;431;Mézidon-Canon;4787;46;4833
+14;475;Val d'Arry;14;432;Missy;508;8;516
+14;654;Saint-Pierre-en-Auge;14;433;Mittois;133;7;140
+14;061;Souleuvre en Bocage;14;441;Mont-Bertrand;248;2;250
+14;061;Souleuvre en Bocage;14;440;Montamy;126;3;129
+14;726;Valdallière;14;442;Montchamp;545;10;555
+14;061;Souleuvre en Bocage;14;443;Montchauvet;381;6;387
+14;431;Mézidon Vallée d'Auge;14;444;Monteille;150;3;153
+14;654;Saint-Pierre-en-Auge;14;450;Montviette;208;1;209
+14;456;Moult-Chicheboville;14;456;Moult;2654;34;2688
+14;371;Livarot-Pays-d'Auge;14;459;Moutiers-Hubert;39;0;39
+14;342;Isigny-sur-Mer;14;462;Neuilly-la-Forêt;444;6;450
+14;721;Vacognes-Neuilly;14;463;Neuilly-le-Malherbe;351;6;357
+14;474;Notre-Dame-d'Estrées-Corbon;14;474;Notre-Dame-d'Estrées;144;2;146
+14;371;Livarot-Pays-d'Auge;14;471;Notre-Dame-de-Courson;368;6;374
+14;475;Val d'Arry;14;475;Noyers-Bocage;1223;22;1245
+14;027;Les Monts d'Aunay;14;477;Ondefontaine;324;4;328
+14;342;Isigny-sur-Mer;14;481;Oubeaux;209;7;216
+14;654;Saint-Pierre-en-Auge;14;472;Oudon;1550;253;1803
+14;654;Saint-Pierre-en-Auge;14;489;Ouville-la-Bien-Tournée;257;3;260
+14;431;Mézidon Vallée d'Auge;14;493;Percy-en-Auge;234;1;235
+14;726;Valdallière;14;503;Pierres;218;9;227
+14;150;Cesny-les-Sources;14;505;Placy;154;4;158
+14;027;Les Monts d'Aunay;14;508;Plessis-Grimoult;331;7;338
+14;005;Valambray;14;517;Poussy-la-Campagne;90;2;92
+14;371;Livarot-Pays-d'Auge;14;518;Préaux-Saint-Sébastien;37;3;40
+14;726;Valdallière;14;521;Presles;275;5;280
+14;174;Condé-en-Normandie;14;523;Proussy;392;12;404
+14;098;Thue et Mue;14;525;Putot-en-Bessin;432;20;452
+14;061;Souleuvre en Bocage;14;532;Reculey;278;10;288
+14;046;Bavent;14;537;Robehomme;263;0;263
+14;538;Castine-en-Plaine;14;538;Rocquancourt;976;18;994
+14;726;Valdallière;14;539;Rocque;85;0;85
+14;543;Rots;14;543;Rots;1481;33;1514
+14;027;Les Monts d'Aunay;14;544;Roucamps;226;3;229
+14;762;Vire Normandie;14;545;Roullours;762;20;782
+14;406;Moulins en Bessin;14;548;Rucqueville;166;1;167
+14;726;Valdallière;14;549;Rully;221;2;223
+14;591;Aure sur Mer;14;551;Russy;199;2;201
+14;037;Malherbe-sur-Ajon;14;553;Saint-Agnan-le-Malherbe;124;2;126
+14;554;Castelet;14;554;Saint-Aignan-de-Cramesnil;632;4;636
+14;231;Beaufour-Druval;14;560;Saint-Aubin-Lébizay;115;3;118
+14;726;Valdallière;14;564;Saint-Charles-de-Percy;199;3;202
+14;570;Valorbiquet;14;570;Saint-Cyr-du-Ronceray;724;16;740
+14;061;Souleuvre en Bocage;14;573;Saint-Denis-Maisoncelles;107;0;107
+14;200;Creully sur Seulles;14;577;Saint-Gabriel-Brécy;380;55;435
+14;579;Seulline;14;579;Saint-Georges-d'Aunay;717;18;735
+14;654;Saint-Pierre-en-Auge;14;580;Saint-Georges-en-Auge;84;2;86
+14;011;Aurseulles;14;581;Saint-Germain-d'Ectot;278;4;282
+14;576;Val-de-Vie;14;583;Saint-Germain-de-Montgommery;168;8;176
+14;762;Vire Normandie;14;584;Saint-Germain-de-Tallevende-la-Lande-Vaumont;1945;50;1995
+14;174;Condé-en-Normandie;14;585;Saint-Germain-du-Crioult;959;20;979
+14;672;Val de Drôme;14;596;Saint-Jean-des-Essartiers;209;3;212
+14;357;Terres de Druance;14;597;Saint-Jean-le-Blanc;360;7;367
+14;570;Valorbiquet;14;599;Saint-Julien-de-Mailloc;472;2;474
+14;431;Mézidon Vallée d'Auge;14;600;Saint-Julien-le-Faucon;685;9;694
+14;527;Belle Vie en Auge;14;608;Saint-Loup-de-Fribois;177;5;182
+14;658;Noues de Sienne;14;611;Saint-Manvieu-Bocage;551;18;569
+14;689;Le Hom;14;628;Saint-Martin-de-Sallen;620;11;631
+14;061;Souleuvre en Bocage;14;629;Saint-Martin-des-Besaces;1188;5;1193
+14;061;Souleuvre en Bocage;14;632;Saint-Martin-Don;256;0;256
+14;371;Livarot-Pays-d'Auge;14;633;Saint-Martin-du-Mesnil-Oury;109;3;112
+14;371;Livarot-Pays-d'Auge;14;634;Saint-Michel-de-Livet;163;3;166
+14;061;Souleuvre en Bocage;14;636;Saint-Ouen-des-Besaces;443;5;448
+14;371;Livarot-Pays-d'Auge;14;638;Saint-Ouen-le-Houx;86;1;87
+14;194;Courtonne-les-Deux-Églises;14;642;Saint-Paul-de-Courtonne;307;7;314
+14;570;Valorbiquet;14;647;Saint-Pierre-de-Mailloc;495;13;508
+14;174;Condé-en-Normandie;14;653;Saint-Pierre-la-Vieille;333;1;334
+14;654;Saint-Pierre-en-Auge;14;654;Saint-Pierre-sur-Dives;3373;31;3404
+14;061;Souleuvre en Bocage;14;655;Saint-Pierre-Tarentaine;376;10;386
+14;658;Noues de Sienne;14;658;Saint-Sever-Calvados;1250;23;1273
+14;357;Terres de Druance;14;662;Saint-Vigor-des-Mézerets;247;5;252
+14;098;Thue et Mue;14;568;Sainte-Croix-Grand-Tonne;322;6;328
+14;576;Val-de-Vie;14;576;Sainte-Foy-de-Montgommery;171;2;173
+14;591;Aure sur Mer;14;591;Sainte-Honorine-des-Pertes;538;8;546
+14;654;Saint-Pierre-en-Auge;14;616;Sainte-Marguerite-de-Viette;343;4;347
+14;371;Livarot-Pays-d'Auge;14;615;Sainte-Marguerite-des-Loges;181;1;182
+14;061;Souleuvre en Bocage;14;618;Sainte-Marie-Laumont;703;10;713
+14;543;Rots;14;670;Secqueville-en-Bessin;413;15;428
+14;658;Noues de Sienne;14;671;Sept-Frères;371;10;381
+14;672;Val de Drôme;14;672;Sept-Vents;458;9;467
+14;228;Douvres-la-Délivrande;14;683;Tailleville;141;4;145
+14;726;Valdallière;14;686;Theil-Bocage;199;3;202
+14;654;Saint-Pierre-en-Auge;14;688;Thiéville;273;3;276
+14;689;Le Hom;14;689;Thury-Harcourt;2027;26;2053
+14;355;Ponts sur Seulles;14;690;Tierceville;157;6;163
+14;538;Castine-en-Plaine;14;691;Tilly-la-Campagne;244;5;249
+14;570;Valorbiquet;14;693;Tordouet;271;9;280
+14;011;Aurseulles;14;695;Torteval-Quesnay;313;12;325
+14;371;Livarot-Pays-d'Auge;14;696;Tortisambert;125;3;128
+14;475;Val d'Arry;14;702;Tournay-sur-Odon;332;9;341
+14;150;Cesny-les-Sources;14;703;Tournebu;362;6;368
+14;061;Souleuvre en Bocage;14;704;Tourneur;642;10;652
+14;762;Vire Normandie;14;717;Truttemer-le-Grand;643;19;662
+14;762;Vire Normandie;14;718;Truttemer-le-Petit;118;3;121
+14;143;Caumont-sur-Aure;14;722;Vacquerie;300;6;306
+14;333;Honfleur;14;725;Vasouy;108;3;111
+14;726;Valdallière;14;726;Vassy;1728;40;1768
+14;035;Balleroy-sur-Drôme;14;727;Vaubadon;446;3;449
+14;654;Saint-Pierre-en-Auge;14;729;Vaudeloges;197;3;200
+14;762;Vire Normandie;14;730;Vaudry;1465;55;1520
+14;740;Vespière-Friardel;14;740;Vespière;946;15;961
+14;726;Valdallière;14;746;Viessoix;789;23;812
+14;431;Mézidon Vallée d'Auge;14;749;Vieux-Fumé;517;7;524
+14;654;Saint-Pierre-en-Auge;14;750;Vieux-Pont-en-Auge;277;7;284
+14;200;Creully sur Seulles;14;757;Villiers-le-Sec;303;5;308
+14;762;Vire Normandie;14;762;Vire;10762;711;11473
+14;342;Isigny-sur-Mer;14;763;Vouilly;152;0;152
+15;027;Puycapel;15;027;Calvinet;437;10;447
+15;141;Neussargues en Pinatelle;15;031;Celles;211;11;222
+15;141;Neussargues en Pinatelle;15;035;Chalinargues;404;4;408
+15;138;Murat;15;044;Chastel-sur-Murat;110;3;113
+15;141;Neussargues en Pinatelle;15;047;Chavagnac;101;1;102
+15;003;Ally;15;062;Drignac;75;0;75
+15;108;Val d'Arcomie;15;068;Faverolles;291;10;301
+15;181;Saint-Constant-Fournoulès;15;071;Fournoulès;62;1;63
+15;142;Neuvéglise-sur-Truyère;15;099;Lavastrie;247;6;253
+15;108;Val d'Arcomie;15;108;Loubaresse;427;10;437
+15;153;Pleaux;15;109;Loupiac;179;2;181
+15;038;Champs-sur-Tarentaine-Marchal;15;115;Marchal;79;1;80
+15;027;Puycapel;15;136;Mourjou;316;4;320
+15;138;Murat;15;138;Murat;1745;96;1841
+15;141;Neussargues en Pinatelle;15;141;Neussargues-Moissac;948;13;961
+15;142;Neuvéglise-sur-Truyère;15;142;Neuvéglise;1123;20;1143
+15;142;Neuvéglise-sur-Truyère;15;145;Oradour;243;11;254
+15;268;Le Rouget-Pers;15;150;Pers;274;8;282
+15;268;Le Rouget-Pers;15;268;Rouget;963;18;981
+15;153;Pleaux;15;177;Saint-Christophe-les-Gorges;136;5;141
+15;181;Saint-Constant-Fournoulès;15;181;Saint-Constant;529;10;539
+15;108;Val d'Arcomie;15;195;Saint-Just;190;2;192
+15;108;Val d'Arcomie;15;197;Saint-Marc;81;1;82
+15;202;Saint-Martin-Valmeroux;15;210;Saint-Rémy-de-Salers;63;2;65
+15;141;Neussargues en Pinatelle;15;171;Sainte-Anastasie;147;1;148
+15;142;Neuvéglise-sur-Truyère;15;227;Sériers;131;3;134
+15;153;Pleaux;15;239;Tourniac;128;1;129
+16;230;Montmoreau;16;004;Aignes-et-Puypéroux;244;38;282
+16;005;Aigre;16;005;Aigre;1084;23;1107
+16;339;Val-d'Auge;16;017;Anville;210;4;214
+16;175;Val des Vignes;16;021;Aubeville;368;16;384
+16;339;Val-d'Auge;16;339;Auge-Saint-Médard;281;5;286
+16;148;Genac-Bignac;16;043;Bignac;237;7;244
+16;046;Coteaux-du-Blanzacais;16;046;Blanzac-Porcheresse;733;11;744
+16;339;Val-d'Auge;16;051;Bonneville;136;5;141
+16;082;Boisné-La Tude;16;082;Charmant;342;4;346
+16;082;Boisné-La Tude;16;092;Chavenat;183;7;190
+16;106;Confolens;16;106;Confolens;2604;152;2756
+16;110;Courcôme;16;110;Courcôme;379;11;390
+16;046;Coteaux-du-Blanzacais;16;115;Cressac-Saint-Genis;157;1;158
+16;253;Paizay-Naudouin-Embourie;16;126;Embourie;75;1;76
+16;204;Bellevigne;16;129;Éraville;203;4;207
+16;148;Genac-Bignac;16;148;Genac;765;7;772
+16;192;Terres-de-Haute-Charente;16;149;Genouillac;591;8;599
+16;153;Mainxe-Gondeville;16;153;Gondeville;499;4;503
+16;286;Rouillac;16;156;Gourville;655;6;661
+16;082;Boisné-La Tude;16;172;Juillaguet;154;1;155
+16;175;Val des Vignes;16;175;Jurignac;641;13;654
+16;224;Montmérac;16;179;Lamérac;224;5;229
+16;175;Val des Vignes;16;201;Mainfonds;118;3;121
+16;153;Mainxe-Gondeville;16;202;Mainxe;665;18;683
+16;204;Bellevigne;16;204;Malaville;411;18;429
+16;192;Terres-de-Haute-Charente;16;214;Mazières;104;1;105
+16;224;Montmérac;16;224;Montchaude;492;13;505
+16;339;Val-d'Auge;16;228;Montigné;180;5;185
+16;230;Montmoreau;16;230;Montmoreau-Saint-Cybard;1082;35;1117
+16;204;Bellevigne;16;247;Nonaville;203;7;210
+16;175;Val des Vignes;16;257;Péreuil;282;3;285
+16;192;Terres-de-Haute-Charente;16;259;Péruse;496;44;540
+16;286;Rouillac;16;262;Plaizac;154;1;155
+16;406;Moulins-sur-Tardoire;16;274;Rancogne;361;10;371
+16;097;Cherves-Richemont;16;278;Richemont;404;38;442
+16;281;Rochefoucauld-en-Angoumois;16;281;Rochefoucauld;2911;59;2970
+16;286;Rouillac;16;286;Rouillac;1923;38;1961
+16;192;Terres-de-Haute-Charente;16;192;Roumazières-Loubert;2490;48;2538
+16;230;Montmoreau;16;294;Saint-Amant-de-Montmoreau;687;14;701
+16;287;Roullet-Saint-Estèphe;16;313;Saint-Estèphe;874;11;885
+16;230;Montmoreau;16;314;Saint-Eutrope;168;4;172
+16;106;Confolens;16;322;Saint-Germain-de-Confolens;69;2;71
+16;028;Barbezieux-Saint-Hilaire;16;327;Saint-Hilaire;316;4;320
+16;230;Montmoreau;16;328;Saint-Laurent-de-Belzagot;392;11;403
+16;046;Coteaux-du-Blanzacais;16;332;Saint-Léger;128;0;128
+16;281;Rochefoucauld-en-Angoumois;16;344;Saint-Projet-Saint-Constant;1065;97;1162
+16;286;Rouillac;16;371;Sonneville;227;4;231
+16;192;Terres-de-Haute-Charente;16;376;Suris;250;5;255
+16;204;Bellevigne;16;386;Touzac;393;6;399
+16;110;Courcôme;16;391;Tuzie;184;5;189
+16;406;Moulins-sur-Tardoire;16;406;Vilhonneur;416;5;421
+16;110;Courcôme;16;410;Villegats;215;5;220
+16;005;Aigre;16;411;Villejésus;501;16;517
+16;204;Bellevigne;16;417;Viville;103;1;104
+17;397;Saint-Savinien;17;001;Agonnay;66;0;66
+17;277;Essouvert;17;040;Benâte;393;15;408
+17;240;Montendre;17;090;Chardes;300;3;303
+17;457;Devise;17;103;Chervettes;173;2;175
+17;397;Saint-Savinien;17;123;Coulonge-sur-Charente;120;0;120
+17;026;Authon-Ébéon;17;144;Ébéon;48;0;48
+17;344;Saint-Hilaire-de-Villefranche;17;169;Frédière;66;0;66
+17;219;Marennes-Hiers-Brouage;17;189;Hiers-Brouage;613;7;620
+17;219;Marennes-Hiers-Brouage;17;219;Marennes;5637;96;5733
+17;340;Saint-Pierre-La-Noue;17;272;Péré;366;5;371
+17;277;Essouvert;17;277;Saint-Denis-du-Pin;732;74;806
+17;340;Saint-Pierre-La-Noue;17;340;Saint-Germain-de-Marencennes;1190;71;1261
+17;344;Saint-Hilaire-de-Villefranche;17;344;Saint-Hilaire-de-Villefranche;1254;15;1269
+17;457;Devise;17;352;Saint-Laurent-de-la-Barrière;109;0;109
+17;240;Montendre;17;456;Vallet;262;5;267
+17;457;Devise;17;457;Vandré;869;15;884
+18;023;Baugy;18;023;Baugy;1469;49;1518
+18;023;Baugy;18;123;Laverdines;36;3;39
+18;023;Baugy;18;239;Saligny-le-Vif;188;3;191
+19;010;Argentat-sur-Dordogne;19;010;Argentat;2817;117;2934
+19;019;Beaulieu-sur-Dordogne;19;019;Beaulieu-sur-Dordogne;1135;19;1154
+19;019;Beaulieu-sur-Dordogne;19;032;Brivezac;155;1;156
+19;098;Lagarde-Marc-la-Tour;19;098;Lagarde-Enval;834;17;851
+19;101;Laguenne-sur-Avalouze;19;101;Laguenne;1336;44;1380
+19;123;Malemort;19;123;Malemort-sur-Corrèze;7476;156;7632
+19;098;Lagarde-Marc-la-Tour;19;127;Marc-la-Tour;143;4;147
+19;010;Argentat-sur-Dordogne;19;183;Saint-Bazile-de-la-Roche;139;1;140
+19;101;Laguenne-sur-Avalouze;19;185;Saint-Bonnet-Avalouze;210;3;213
+19;275;Ussel;19;197;Saint-Dézery;160;3;163
+19;252;Sarroux - Saint Julien;19;218;Saint-Julien-près-Bort;403;6;409
+19;252;Sarroux - Saint Julien;19;252;Sarroux;445;10;455
+19;275;Ussel;19;267;Tourette;207;5;212
+19;123;Malemort;19;282;Venarsal;508;8;516
+21;272;Val-Larrey;21;073;Bierre-lès-Semur;94;1;95
+21;178;Valforêt;21;178;Clémencey;121;3;124
+21;183;Collonges-et-Premières;21;183;Collonges-lès-Premières;905;12;917
+21;452;Neuilly-Crimolois;21;213;Crimolois;903;13;916
+21;272;Val-Larrey;21;272;Flée;172;3;175
+21;327;Val-Mont;21;318;Ivry-en-Montagne;163;3;166
+21;327;Val-Mont;21;327;Jours-en-Vaux;96;1;97
+21;352;Longeault-Pluvault;21;352;Longeault;585;3;588
+21;433;Montigny-Mornay-Villeneuve-sur-Vingeanne;21;443;Mornay;81;0;81
+21;452;Neuilly-Crimolois;21;452;Neuilly-lès-Dijon;1886;18;1904
+21;304;Grancey-le-Château-Neuvelle;21;453;Neuvelle-lès-Grancey;23;0;23
+21;352;Longeault-Pluvault;21;486;Pluvault;546;13;559
+21;183;Collonges-et-Premières;21;507;Premières;141;1;142
+21;178;Valforêt;21;513;Quemigny-Poisot;192;7;199
+21;623;Tart;21;621;Tart-l'Abbaye;208;6;214
+21;623;Tart;21;623;Tart-le-Haut;1371;27;1398
+21;433;Montigny-Mornay-Villeneuve-sur-Vingeanne;21;697;Villeneuve-sur-Vingeanne;77;2;79
+22;055;Binic-Étables-sur-Mer;22;007;Binic;3826;122;3948
+22;206;Châtelaudren-Plouagat;22;038;Châtelaudren;1002;12;1014
+22;046;Le Mené;22;046;Collinée;979;22;1001
+22;084;Jugon-les-Lacs - Commune nouvelle;22;051;Dolo;700;23;723
+22;055;Binic-Étables-sur-Mer;22;055;Étables-sur-Mer;3180;95;3275
+22;183;Plémet;22;058;Ferrière;453;7;460
+22;046;Le Mené;22;066;Gouray;1288;13;1301
+22;264;Roche-Jaudy;22;078;Hengoat;214;8;222
+22;203;Plœuc-L'Hermitage;22;080;Hermitage-Lorge;760;14;774
+22;084;Jugon-les-Lacs - Commune nouvelle;22;084;Jugon-les-Lacs;1806;27;1833
+22;093;Lamballe-Armor;22;093;Lamballe;12579;396;12975
+22;219;Plouguenast-Langast;22;100;Langast;582;16;598
+22;046;Le Mené;22;102;Langourla;536;9;545
+22;107;Bon Repos sur Blavet;22;107;Laniscat;767;26;793
+22;050;Dinan;22;123;Léhon;3110;110;3220
+22;093;Lamballe-Armor;22;151;Meslin;915;19;934
+22;093;Lamballe-Armor;22;154;Morieux;1022;19;1041
+22;158;Guerlédan;22;158;Mûr-de-Bretagne;2031;52;2083
+22;107;Bon Repos sur Blavet;22;167;Perret;172;5;177
+22;093;Lamballe-Armor;22;173;Planguenoual;2226;40;2266
+22;046;Le Mené;22;191;Plessala;1742;34;1776
+22;209;Beaussais-sur-Mer;22;192;Plessix-Balisson;93;4;97
+22;206;Châtelaudren-Plouagat;22;206;Plouagat;2886;43;2929
+22;209;Beaussais-sur-Mer;22;209;Ploubalay;3249;55;3304
+22;219;Plouguenast-Langast;22;219;Plouguenast;1886;44;1930
+22;203;Plœuc-L'Hermitage;22;203;Plœuc-sur-Lié;3328;63;3391
+22;264;Roche-Jaudy;22;247;Pommerit-Jaudy;1208;536;1744
+22;251;Pordic;22;251;Pordic;6359;186;6545
+22;264;Roche-Jaudy;22;253;Pouldouran;167;1;168
+22;264;Roche-Jaudy;22;264;Roche-Derrien;1111;28;1139
+22;107;Bon Repos sur Blavet;22;290;Saint-Gelven;324;8;332
+22;046;Le Mené;22;292;Saint-Gilles-du-Mené;448;14;462
+22;046;Le Mené;22;297;Saint-Gouéno;685;14;699
+22;158;Guerlédan;22;298;Saint-Guen;413;12;425
+22;046;Le Mené;22;303;Saint-Jacut-du-Mené;728;10;738
+22;209;Beaussais-sur-Mer;22;357;Trégon;269;2;271
+22;251;Pordic;22;367;Tréméloir;869;19;888
+23;093;Gouzon;23;094;Gouzougnat;111;4;115
+23;109;Linard-Malval;23;109;Linard;165;2;167
+23;109;Linard-Malval;23;121;Malval;47;3;50
+23;189;Saint-Dizier-Masbaraud;23;126;Masbaraud-Mérignat;353;15;368
+23;149;Parsac-Rimondeix;23;149;Parsac;620;13;633
+23;090;Gentioux-Pigerolles;23;153;Pigerolles;70;1;71
+23;149;Parsac-Rimondeix;23;161;Rimondeix;84;1;85
+23;220;Saint-Médard-la-Rochette;23;163;Rochette;230;4;234
+23;189;Saint-Dizier-Masbaraud;23;189;Saint-Dizier-Leyrenne;779;10;789
+23;192;Fursac;23;192;Saint-Étienne-de-Fursac;740;14;754
+23;192;Fursac;23;231;Saint-Pierre-de-Fursac;748;8;756
+24;053;Boulazac Isle Manoire;24;013;Atur;1905;54;1959
+24;026;Bassillac et Auberoche;24;026;Bassillac;1902;42;1944
+24;028;Beaumontois en Périgord;24;028;Beaumont-du-Périgord;1048;22;1070
+24;253;Mareuil en Périgord;24;033;Beaussac;155;5;160
+24;035;Pays de Belvès;24;035;Belvès;1268;35;1303
+24;026;Bassillac et Auberoche;24;044;Blis-et-Born;476;3;479
+24;147;Cubjac-Auvézère-Val d'Ans;24;047;Boissière-d'Ans;219;1;220
+24;053;Boulazac Isle Manoire;24;053;Boulazac;7170;240;7410
+24;064;Brantôme en Périgord;24;064;Brantôme en Périgord;2164;32;2196
+24;312;Sanilhac;24;065;Breuilh;268;2;270
+24;068;Le Buisson-de-Cadouin;24;072;Cadouin;311;7;318
+24;064;Brantôme en Périgord;24;079;Cantillac;190;3;193
+24;362;Val de Louyre et Caudeau;24;092;Cendrieux;584;16;600
+24;554;La Tour-Blanche-Cercles;24;093;Cercles;186;6;192
+24;253;Mareuil en Périgord;24;099;Champeaux-et-la-Chapelle-Pommier;170;1;171
+24;026;Bassillac et Auberoche;24;103;Change;640;9;649
+24;086;Castelnaud-la-Chapelle;24;112;Chapelle-Péchaud;119;0;119
+24;117;Les Coteaux Périgourdins;24;117;Chavagnac;379;10;389
+24;316;Parcoul-Chenaud;24;118;Chenaud;359;9;368
+24;364;Coly-Saint-Amand;24;127;Coly;209;8;217
+24;147;Cubjac-Auvézère-Val d'Ans;24;147;Cubjac;722;9;731
+24;026;Bassillac et Auberoche;24;166;Eyliac;734;16;750
+24;064;Brantôme en Périgord;24;170;Eyvirat;287;3;290
+24;172;Eyzies;24;172;Eyzies-de-Tayac-Sireuil;838;11;849
+24;490;Saint Privat en Périgord;24;178;Festalemps;245;5;250
+24;064;Brantôme en Périgord;24;198;Gonterie-Boulouneix;253;1;254
+24;260;Mauzac-et-Grand-Castang;24;201;Grand-Castang;94;1;95
+24;253;Mareuil en Périgord;24;203;Graulges;59;2;61
+24;117;Les Coteaux Périgourdins;24;204;Grèzes;202;9;211
+24;216;La Jemaye-Ponteyraud;24;216;Jemaye;111;0;111
+24;028;Beaumontois en Périgord;24;219;Labouquerie;206;8;214
+24;259;Eyraud-Crempse-Maurens;24;233;Laveyssière;142;0;142
+24;253;Mareuil en Périgord;24;235;Léguillac-de-Cercles;284;6;290
+24;540;Sorges et Ligueux en Périgord;24;239;Ligueux;294;3;297
+24;172;Eyzies;24;249;Manaurie;136;3;139
+24;253;Mareuil en Périgord;24;253;Mareuil;951;22;973
+24;312;Sanilhac;24;258;Marsaneix;1123;19;1142
+24;259;Eyraud-Crempse-Maurens;24;259;Maurens;1052;21;1073
+24;026;Bassillac et Auberoche;24;270;Milhac-d'Auberoche;564;7;571
+24;253;Mareuil en Périgord;24;283;Monsec;191;3;194
+24;028;Beaumontois en Périgord;24;310;Nojals-et-Clotte;227;7;234
+24;312;Sanilhac;24;312;Notre-Dame-de-Sanilhac;3185;79;3264
+24;068;Le Buisson-de-Cadouin;24;315;Paleyrac;169;8;177
+24;316;Parcoul-Chenaud;24;316;Parcoul;423;7;430
+24;216;La Jemaye-Ponteyraud;24;333;Ponteyraud;42;3;45
+24;376;Saint Aulaye-Puymangou;24;343;Puymangou;69;0;69
+24;253;Mareuil en Périgord;24;344;Puyrenier;55;0;55
+24;035;Pays de Belvès;24;363;Saint-Amand-de-Belvès;116;0;116
+24;364;Coly-Saint-Amand;24;364;Saint-Amand-de-Coly;370;12;382
+24;490;Saint Privat en Périgord;24;368;Saint-Antoine-Cumond;342;3;345
+24;026;Bassillac et Auberoche;24;369;Saint-Antoine-d'Auberoche;140;5;145
+24;376;Saint Aulaye-Puymangou;24;376;Saint-Aulaye;1358;19;1377
+24;356;Rouffignac-Saint-Cernin-de-Reilhac;24;387;Saint-Cernin-de-Reillac;128;2;130
+24;172;Eyzies;24;389;Saint-Cirq;124;2;126
+24;064;Brantôme en Périgord;24;391;Saint-Crépin-de-Richemont;226;4;230
+24;259;Eyraud-Crempse-Maurens;24;427;Saint-Jean-d'Eyraud;175;8;183
+24;423;Saint-Julien-Innocence-Eulalie;24;433;Saint-Julien-d'Eymet;121;2;123
+24;259;Eyraud-Crempse-Maurens;24;431;Saint-Julien-de-Crempse;219;2;221
+24;362;Val de Louyre et Caudeau;24;435;Saint-Laurent-des-Bâtons;212;3;215
+24;053;Boulazac Isle Manoire;24;439;Saint-Laurent-sur-Manoire;1021;33;1054
+24;354;La Roche-Chalais;24;467;Saint-Michel-de-Rivière;811;16;827
+24;354;La Roche-Chalais;24;469;Saint-Michel-l'Écluse-et-Léparon;624;10;634
+24;147;Cubjac-Auvézère-Val d'Ans;24;475;Saint-Pantaly-d'Ans;146;0;146
+24;490;Saint Privat en Périgord;24;490;Saint-Privat-des-Prés;527;6;533
+24;253;Mareuil en Périgord;24;503;Saint-Sulpice-de-Mareuil;111;1;112
+24;362;Val de Louyre et Caudeau;24;362;Sainte-Alvère;799;7;806
+24;423;Saint-Julien-Innocence-Eulalie;24;402;Sainte-Eulalie-d'Eymet;84;0;84
+24;423;Saint-Julien-Innocence-Eulalie;24;423;Sainte-Innocence;101;1;102
+24;053;Boulazac Isle Manoire;24;447;Sainte-Marie-de-Chignac;629;6;635
+24;028;Beaumontois en Périgord;24;497;Sainte-Sabine-Born;372;6;378
+24;064;Brantôme en Périgord;24;530;Sencenac-Puy-de-Fourches;238;2;240
+24;540;Sorges et Ligueux en Périgord;24;540;Sorges;1283;25;1308
+24;554;La Tour-Blanche-Cercles;24;554;Tour-Blanche;399;7;406
+24;064;Brantôme en Périgord;24;561;Valeuil;330;11;341
+24;253;Mareuil en Périgord;24;579;Vieux-Mareuil;339;8;347
+25;223;Éternoz;25;010;Alaise;42;0;42
+25;424;Les Premiers Sapins;25;028;Athose;206;3;209
+25;035;Les Auxons;25;034;Auxon-Dessous;1374;19;1393
+25;035;Les Auxons;25;035;Auxon-Dessus;1150;27;1177
+25;036;Avanne-Aveney;25;037;Aveney;386;9;395
+25;433;Orgeans-Blanchefontaine;25;064;Blanchefontaine;3;0;3
+25;434;Ornans;25;076;Bonnevaux-le-Prieuré;118;3;121
+25;424;Les Premiers Sapins;25;128;Chasnans;272;8;280
+25;156;Pays-de-Clerval;25;140;Chaux-lès-Clerval;163;4;167
+25;505;Rougemont;25;144;Chazelot;54;2;56
+25;101;Burgille;25;146;Chazoy;57;2;59
+25;101;Burgille;25;165;Cordiron;122;1;123
+25;374;Mercey-le-Grand;25;167;Cottier;93;6;99
+25;223;Éternoz;25;168;Coulans-sur-Lizon;23;0;23
+25;223;Éternoz;25;205;Doulaize;21;0;21
+25;018;Anteuil;25;272;Glainans;130;7;137
+25;417;Naisey-les-Granges;25;291;Granges-de-Vienney;29;1;30
+25;424;Les Premiers Sapins;25;302;Hautepierre-le-Châtelet;107;1;108
+25;357;Maisons-du-Bois-Lièvremont;25;337;Lièvremont;413;6;419
+25;468;Pouligney-Lusans;25;353;Lusans;174;5;179
+25;537;Scey-Maisières;25;358;Maisières-Notre-Dame;71;4;75
+25;187;Dambelin;25;363;Mambouhans;57;1;58
+25;505;Rougemont;25;396;Montferney;56;2;58
+25;275;Glère;25;407;Montursin;7;0;7
+25;505;Rougemont;25;409;Morchamps;16;0;16
+25;424;Les Premiers Sapins;25;424;Nods;569;14;583
+25;434;Ornans;25;434;Ornans;4308;101;4409
+25;438;Osselle-Routelle;25;438;Osselle;444;5;449
+25;424;Les Premiers Sapins;25;480;Rantechaux;182;2;184
+25;223;Éternoz;25;484;Refranche;19;1;20
+25;438;Osselle-Routelle;25;509;Routelle;508;10;518
+25;385;Montagney-Servigney;25;543;Servigney;52;0;52
+25;018;Anteuil;25;568;Tournedoz;22;0;22
+25;212;École-Valentin;25;581;Valentin;328;4;332
+25;424;Les Premiers Sapins;25;585;Vanclans;214;4;218
+25;078;Bouclans;25;587;Vauchamps;122;0;122
+25;275;Glère;25;606;Vernois-le-Fol;75;2;77
+26;001;Solaure en Diois;26;001;Aix-en-Diois;335;7;342
+26;086;Châtillon-en-Diois;26;086;Châtillon-en-Diois;554;10;564
+26;210;Valherbasse;26;184;Miribel;297;9;306
+26;001;Solaure en Diois;26;187;Molières-Glandaz;96;1;97
+26;210;Valherbasse;26;210;Montrigaud;492;9;501
+26;210;Valherbasse;26;297;Saint-Bonnet-de-Valclérieux;228;5;233
+26;086;Châtillon-en-Diois;26;354;Treschenu-Creyers;112;2;114
+26;179;Mercurol-Veaunes;26;366;Veaunes;352;8;360
+27;049;Mesnil-en-Ouche;27;007;Ajou;266;2;268
+27;011;Amfreville-Saint-Amand;27;011;Amfreville-la-Campagne;915;9;924
+27;022;Le Val d'Hazey;27;022;Aubevoye;4936;104;5040
+27;032;Chambois;27;032;Avrilly;428;12;440
+27;049;Mesnil-en-Ouche;27;041;Barre-en-Ouche;861;21;882
+27;049;Mesnil-en-Ouche;27;049;Beaumesnil;500;45;545
+27;676;Les Trois Lacs;27;058;Bernières-sur-Seine;371;5;376
+27;213;Vexin-sur-Epte;27;060;Berthenonville;246;2;248
+27;062;Les Monts du Roumois;27;062;Berville-en-Roumois;854;28;882
+27;070;Frenelles-en-Vexin;27;070;Boisemont;759;14;773
+27;085;Flancourt-Crescy-en-Roumois;27;085;Bosc-Bénard-Crescy;439;3;442
+27;049;Mesnil-en-Ouche;27;088;Bosc-Renoult-en-Ouche;140;4;144
+27;089;Thénouville;27;089;Bosc-Renoult-en-Roumois;402;4;406
+27;090;Bosroumois;27;090;Bosc-Roger-en-Roumois;3287;60;3347
+27;062;Les Monts du Roumois;27;092;Bosguérard-de-Marcouville;621;18;639
+27;090;Bosroumois;27;093;Bosnormand;326;4;330
+27;107;Bourneville-Sainte-Croix;27;107;Bourneville;1021;19;1040
+27;112;Breteuil;27;112;Breteuil;3108;108;3216
+27;198;Mesnils-sur-Iton;27;416;Buis-sur-Damville;1003;23;1026
+27;213;Vexin-sur-Epte;27;121;Bus-Saint-Rémy;342;6;348
+27;213;Vexin-sur-Epte;27;122;Cahaignes;347;9;356
+27;213;Vexin-sur-Epte;27;128;Cantiers;226;4;230
+27;425;Nassandres sur Risle;27;131;Carsix;283;3;286
+27;685;La Vieille-Lyre;27;143;Champignolles;38;2;40
+27;157;Marbois;27;145;Chanteloup;96;0;96
+27;554;La Chapelle-Longueville;27;150;Chapelle-Réanville;1097;25;1122
+27;157;Marbois;27;157;Chesne;629;6;635
+27;112;Breteuil;27;159;Cintray;453;4;457
+27;213;Vexin-sur-Epte;27;160;Civières;220;8;228
+27;032;Chambois;27;172;Corneuil;617;6;623
+27;070;Frenelles-en-Vexin;27;175;Corny;385;6;391
+27;191;Clef Vallée d'Eure;27;191;Croix-Saint-Leufroy;1108;36;1144
+27;578;Sainte-Marie-d'Attez;27;195;Dame-Marie;125;5;130
+27;213;Vexin-sur-Epte;27;197;Dampsmesnil;198;5;203
+27;191;Clef Vallée d'Eure;27;211;Écardenville-sur-Eure;583;9;592
+27;213;Vexin-sur-Epte;27;213;Écos;1076;15;1091
+27;049;Mesnil-en-Ouche;27;221;Épinay;303;4;307
+27;085;Flancourt-Crescy-en-Roumois;27;223;Épreville-en-Roumois;550;5;555
+27;157;Marbois;27;225;Essarts;438;7;445
+27;085;Flancourt-Crescy-en-Roumois;27;244;Flancourt-Catelon;497;14;511
+27;191;Clef Vallée d'Eure;27;250;Fontaine-Heudebourg;826;20;846
+27;425;Nassandres sur Risle;27;253;Fontaine-la-Soret;388;6;394
+27;213;Vexin-sur-Epte;27;255;Fontenay-en-Vexin;252;4;256
+27;213;Vexin-sur-Epte;27;257;Forêt-la-Folie;485;18;503
+27;213;Vexin-sur-Epte;27;262;Fourges;763;16;779
+27;263;Perrey;27;263;Fourmetot;700;7;707
+27;213;Vexin-sur-Epte;27;264;Fours-en-Vexin;195;4;199
+27;679;Verneuil d'Avre et d'Iton;27;265;Francheville;1252;22;1274
+27;447;Le Val-Doré;27;268;Fresne;326;5;331
+27;070;Frenelles-en-Vexin;27;270;Fresne-l'Archevêque;562;15;577
+27;294;Val d'Orger;27;274;Gaillardbois-Cressenville;442;7;449
+27;277;La Baronnie;27;277;Garencières;594;13;607
+27;049;Mesnil-en-Ouche;27;283;Gisay-la-Coudre;248;5;253
+27;290;Goupil-Othon;27;290;Goupillières;893;8;901
+27;049;Mesnil-en-Ouche;27;292;Gouttières;183;2;185
+27;294;Val d'Orger;27;294;Grainville;548;9;557
+27;049;Mesnil-en-Ouche;27;296;Granchain;226;4;230
+27;198;Mesnils-sur-Iton;27;297;Grandvilliers;326;5;331
+27;302;Le Bosc du Theil;27;302;Gros-Theil;1023;9;1032
+27;565;Le Lesme;27;303;Guernanville;103;4;107
+27;112;Breteuil;27;305;Guéroulde;792;13;805
+27;213;Vexin-sur-Epte;27;308;Guitry;257;4;261
+27;062;Les Monts du Roumois;27;344;Houlbec-près-le-Gros-Theil;88;1;89
+27;049;Mesnil-en-Ouche;27;356;Jonquerets-de-Livet;342;5;347
+27;049;Mesnil-en-Ouche;27;362;Landepéreuse;391;10;401
+27;447;Le Val-Doré;27;402;Mesnil-Hardray;70;0;70
+27;198;Mesnils-sur-Iton;27;198;Mesnils-sur-Iton;4521;221;4742
+27;412;Terres de Bord;27;412;Montaure;1038;26;1064
+27;425;Nassandres sur Risle;27;425;Nassandres;1330;26;1356
+27;447;Le Val-Doré;27;447;Orvaux;513;51;564
+27;448;Pacy-sur-Eure;27;448;Pacy-sur-Eure;4564;115;4679
+27;213;Vexin-sur-Epte;27;449;Panilleuse;464;10;474
+27;425;Nassandres sur Risle;27;452;Perriers-la-Campagne;395;11;406
+27;467;Pont-Audemer;27;467;Pont-Audemer;8442;203;8645
+27;471;Porte-de-Seine;27;471;Porte-Joie;108;6;114
+27;153;Chauvincourt-Provemont;27;479;Provemont;143;3;146
+27;277;La Baronnie;27;484;Quessigny;138;2;140
+27;198;Mesnils-sur-Iton;27;491;Roman;276;5;281
+27;049;Mesnil-en-Ouche;27;499;Roussière;218;4;222
+27;011;Amfreville-Saint-Amand;27;506;Saint-Amand-des-Hautes-Terres;284;5;289
+27;448;Pacy-sur-Eure;27;510;Saint-Aquilin-de-Pacy;505;12;517
+27;049;Mesnil-en-Ouche;27;513;Saint-Aubin-des-Hayes;150;6;156
+27;049;Mesnil-en-Ouche;27;515;Saint-Aubin-le-Guichard;297;6;303
+27;516;Treis-Sants-en-Ouche;27;516;Saint-Aubin-le-Vertueux;857;24;881
+27;516;Treis-Sants-en-Ouche;27;523;Saint-Clair-d'Arcey;338;7;345
+27;157;Marbois;27;532;Saint-Denis-du-Béhélan;193;7;200
+27;541;Mesnil-Saint-Jean;27;541;Saint-Georges-du-Mesnil;148;3;151
+27;467;Pont-Audemer;27;549;Saint-Germain-Village;1678;67;1745
+27;541;Mesnil-Saint-Jean;27;551;Saint-Jean-de-la-Léqueraye;67;3;70
+27;554;La Chapelle-Longueville;27;554;Saint-Just;1283;53;1336
+27;578;Sainte-Marie-d'Attez;27;573;Saint-Nicolas-d'Attez;155;4;159
+27;302;Le Bosc du Theil;27;574;Saint-Nicolas-du-Bosc;301;4;305
+27;578;Sainte-Marie-d'Attez;27;578;Saint-Ouen-d'Attez;319;7;326
+27;263;Perrey;27;581;Saint-Ouen-des-Champs;301;5;306
+27;554;La Chapelle-Longueville;27;588;Saint-Pierre-d'Autils;945;26;971
+27;049;Mesnil-en-Ouche;27;596;Saint-Pierre-du-Mesnil;93;0;93
+27;516;Treis-Sants-en-Ouche;27;600;Saint-Quentin-des-Isles;221;3;224
+27;263;Perrey;27;607;Saint-Thurien;238;1;239
+27;022;Le Val d'Hazey;27;519;Sainte-Barbe-sur-Gaillon;322;4;326
+27;107;Bourneville-Sainte-Croix;27;526;Sainte-Croix-sur-Aizier;292;6;298
+27;565;Le Lesme;27;565;Sainte-Marguerite-de-l'Autel;572;5;577
+27;049;Mesnil-en-Ouche;27;566;Sainte-Marguerite-en-Ouche;98;1;99
+27;089;Thénouville;27;626;Theillement;426;10;436
+27;049;Mesnil-en-Ouche;27;628;Thevray;307;4;311
+27;032;Chambois;27;634;Thomer-la-Sôgne;344;13;357
+27;638;Le Thuit de l'Oison;27;636;Thuit-Anger;721;7;728
+27;638;Le Thuit de l'Oison;27;638;Thuit-Signol;2463;40;2503
+27;638;Le Thuit de l'Oison;27;639;Thuit-Simer;486;5;491
+27;290;Goupil-Othon;27;642;Tilleul-Othon;363;8;371
+27;676;Les Trois Lacs;27;647;Tosny;627;15;642
+27;412;Terres de Bord;27;648;Tostes;443;9;452
+27;471;Porte-de-Seine;27;651;Tournedos-sur-Seine;99;1;100
+27;213;Vexin-sur-Epte;27;653;Tourny;937;32;969
+27;089;Thénouville;27;657;Touville;182;3;185
+27;676;Les Trois Lacs;27;676;Venables;782;24;806
+27;679;Verneuil d'Avre et d'Iton;27;679;Verneuil-sur-Avre;6602;363;6965
+27;685;La Vieille-Lyre;27;685;Vieille-Lyre;617;16;633
+27;022;Le Val d'Hazey;27;687;Vieux-Villez;193;3;196
+28;199;Janville-en-Beauce;28;002;Allaines-Mervilliers;303;14;317
+28;023;Bailleau-Armenonville;28;011;Armenonville-les-Gâtineaux;285;12;297
+28;012;Commune nouvelle d'Arrou;28;012;Arrou;1432;32;1464
+28;015;Auneau-Bleury-Saint-Symphorien;28;015;Auneau;4767;62;4829
+28;103;Cloyes-les-Trois-Rivières;28;017;Autheuil;179;10;189
+28;018;Authon-du-Perche;28;018;Authon-du-Perche;1186;13;1199
+28;406;Éole-en-Beauce;28;020;Baignolet;111;6;117
+28;015;Auneau-Bleury-Saint-Symphorien;28;361;Bleury-Saint-Symphorien;1272;24;1296
+28;226;Maillebois;28;043;Blévy;369;6;375
+28;012;Commune nouvelle d'Arrou;28;044;Boisgasson;108;4;112
+28;236;Arcisses;28;063;Brunelles;534;15;549
+28;103;Cloyes-les-Trois-Rivières;28;083;Charray;104;2;106
+28;012;Commune nouvelle d'Arrou;28;093;Châtillon-en-Dunois;834;11;845
+28;393;Tremblay-les-Villages;28;097;Chêne-Chenu;367;11;378
+28;330;Villemaury;28;101;Civry;341;2;343
+28;103;Cloyes-les-Trois-Rivières;28;103;Cloyes-sur-le-Loir;2690;53;2743
+28;236;Arcisses;28;112;Coudreceau;491;8;499
+28;012;Commune nouvelle d'Arrou;28;115;Courtalain;656;9;665
+28;226;Maillebois;28;125;Dampierre-sur-Blévy;251;5;256
+28;103;Cloyes-les-Trois-Rivières;28;133;Douy;568;9;577
+28;393;Tremblay-les-Villages;28;138;Écublé;505;16;521
+28;406;Éole-en-Beauce;28;145;Fains-la-Folie;342;6;348
+28;103;Cloyes-les-Trois-Rivières;28;150;Ferté-Villeneuil;379;8;387
+28;331;Saintigny;28;165;Frétigny;521;10;531
+28;386;Thimert-Gâtelles;28;174;Gâtelles;398;6;404
+28;406;Éole-en-Beauce;28;179;Germignonville;223;3;226
+28;393;Tremblay-les-Villages;28;181;Gironville-et-Neuville;289;8;297
+28;199;Janville-en-Beauce;28;199;Janville;1840;30;1870
+28;012;Commune nouvelle d'Arrou;28;204;Langey;355;3;358
+28;334;Saint-Denis-Lanneray;28;205;Lanneray;540;12;552
+28;330;Villemaury;28;224;Lutz-en-Dunois;375;13;388
+28;120;Crucey-Villages;28;228;Mainterne;74;0;74
+28;236;Arcisses;28;236;Margon;1165;37;1202
+28;360;Saint-Sauveur-Marville;28;238;Marville-les-Bois;359;8;367
+28;103;Cloyes-les-Trois-Rivières;28;241;Mée;264;7;271
+28;422;Les Villages Vovéens;28;258;Montainville;298;6;304
+28;103;Cloyes-les-Trois-Rivières;28;262;Montigny-le-Gannelon;455;13;468
+28;183;Gommerville;28;288;Orlu;38;0;38
+28;330;Villemaury;28;295;Ozoir-le-Breuil;435;14;449
+28;056;Boutigny-Prouais;28;307;Prouais;572;12;584
+28;199;Janville-en-Beauce;28;311;Puiset;428;6;434
+28;103;Cloyes-les-Trois-Rivières;28;318;Romilly-sur-Aigre;455;9;464
+28;422;Les Villages Vovéens;28;320;Rouvray-Saint-Florentin;206;3;209
+28;393;Tremblay-les-Villages;28;328;Saint-Chéron-des-Champs;188;6;194
+28;330;Villemaury;28;330;Saint-Cloud-en-Dunois;232;4;236
+28;331;Saintigny;28;331;Saint-Denis-d'Authou;475;10;485
+28;334;Saint-Denis-Lanneray;28;334;Saint-Denis-les-Ponts;1679;42;1721
+28;034;Berchères-Saint-Germain;28;338;Saint-Germain-la-Gâtine;155;1;156
+28;103;Cloyes-les-Trois-Rivières;28;340;Saint-Hilaire-sur-Yerre;557;14;571
+28;012;Commune nouvelle d'Arrou;28;356;Saint-Pellerin;342;5;347
+28;018;Authon-du-Perche;28;376;Soizé;320;3;323
+28;373;Senonches;28;381;Tardais;57;0;57
+28;393;Tremblay-les-Villages;28;384;Theuvy-Achères;205;8;213
+28;279;Nogent-le-Roi;28;399;Vacheresses-les-Basses;251;10;261
+28;406;Éole-en-Beauce;28;406;Viabon;379;1;380
+28;373;Senonches;28;413;Ville-aux-Nonains;164;3;167
+28;406;Éole-en-Beauce;28;412;Villeau;185;3;188
+28;422;Les Villages Vovéens;28;416;Villeneuve-Saint-Nicolas;138;4;142
+28;120;Crucey-Villages;28;420;Vitray-sous-Brézolles;82;0;82
+28;422;Les Villages Vovéens;28;422;Voves;3265;48;3313
+29;003;Audierne;29;003;Audierne;2151;35;2186
+29;021;Plounéour-Brignogan-plages;29;021;Brignogan-Plages;732;18;750
+29;003;Audierne;29;052;Esquibien;1541;31;1572
+29;076;Milizac-Guipronvel;29;076;Guipronvel;802;7;809
+29;241;Rosporden;29;092;Kernével;3193;70;3263
+29;266;Saint-Thégonnec Loc-Eguiner;29;127;Loc-Eguiner-Saint-Thégonnec;320;5;325
+29;227;Poullaouen;29;129;Locmaria-Berrien;230;4;234
+29;076;Milizac-Guipronvel;29;149;Milizac;3719;58;3777
+29;199;Plouigneau;29;199;Plouigneau;4905;177;5082
+29;021;Plounéour-Brignogan-plages;29;203;Plounéour-Trez;1181;31;1212
+29;199;Plouigneau;29;219;Ponthou;179;3;182
+29;227;Poullaouen;29;227;Poullaouen;1260;28;1288
+29;266;Saint-Thégonnec Loc-Eguiner;29;266;Saint-Thégonnec;2715;72;2787
+30;052;Bréau-Mars;30;052;Bréau-et-Salagosse;458;18;476
+30;052;Bréau-Mars;30;157;Mars;171;1;172
+31;085;Boutx;31;016;Argut-Dessus;43;0;43
+31;085;Boutx;31;154;Couledoux;37;0;37
+31;471;Saint-Béat-Lez;31;298;Lez;59;2;61
+31;412;Péguilhan;31;307;Lunax;64;1;65
+31;412;Péguilhan;31;412;Péguilhan;212;7;219
+32;426;Seissan;32;011;Artiguedieu;95;0;95
+32;344;Riscle;32;074;Cannet;54;3;57
+32;079;Castelnau d'Auzan Labarrère;32;168;Labarrère;195;6;201
+32;462;Vic-Fezensac;32;179;Lagraulas;102;3;105
+32;344;Riscle;32;344;Riscle;1777;97;1874
+33;018;Val de Virvée;33;018;Aubie-et-Espessas;1361;17;1378
+33;055;Blaignan-Prignac;33;055;Blaignan;466;4;470
+33;106;Castets et Castillon;33;106;Castets-en-Dorthe;1164;10;1174
+33;106;Castets et Castillon;33;107;Castillon-de-Castets;294;9;303
+33;380;Val-de-Livenne;33;267;Marcillac;1134;17;1151
+33;018;Val de Virvée;33;371;Saint-Antoine;418;5;423
+33;380;Val-de-Livenne;33;380;Saint-Caprais-de-Blaye;622;6;628
+33;018;Val de Virvée;33;495;Salignac;1756;19;1775
+34;246;Entre-Vignes;34;246;Saint-Christol;1380;31;1411
+34;246;Entre-Vignes;34;330;Vérargues;748;13;761
+35;004;Val-Couesnon;35;004;Antrain;1289;31;1320
+35;292;Saint-Marc-le-Blanc;35;011;Baillé;279;6;285
+35;064;La Chapelle-de-Brain;35;036;Brain-sur-Vilaine;296;10;306
+35;168;Val d'Anast;35;048;Campel;458;11;469
+35;220;Piré-Chancé;35;053;Chancé;301;13;314
+35;060;La Chapelle du Lou du Lac;35;060;Chapelle-du-Lou;908;18;926
+35;069;Châteaugiron;35;069;Châteaugiron;8028;211;8239
+35;096;Domagné;35;074;Chaumeré;177;5;182
+35;191;Les Portes du Coglais;35;083;Coglès;657;15;672
+35;163;Luitré-Dompierre;35;100;Dompierre-du-Chemin;544;8;552
+35;004;Val-Couesnon;35;113;Fontenelle;542;13;555
+35;176;Guipry-Messac;35;129;Guipry;3830;61;3891
+35;308;Mesnil-Roc'h;35;147;Lanhélin;951;12;963
+35;060;La Chapelle du Lou du Lac;35;158;Lou-du-Lac;97;1;98
+35;163;Luitré-Dompierre;35;163;Luitré;1287;21;1308
+35;168;Val d'Anast;35;168;Maure-de-Bretagne;3507;70;3577
+35;176;Guipry-Messac;35;176;Messac;3204;84;3288
+35;184;Montauban-de-Bretagne;35;184;Montauban-de-Bretagne;5312;236;5548
+35;191;Les Portes du Coglais;35;191;Montours;1105;23;1128
+35;069;Châteaugiron;35;209;Ossé;1259;25;1284
+35;220;Piré-Chancé;35;220;Piré-sur-Seiche;2666;40;2706
+35;069;Châteaugiron;35;254;Saint-Aubin-du-Pavail;838;23;861
+35;257;Maen Roch;35;257;Saint-Brice-en-Coglès;3068;54;3122
+35;257;Maen Roch;35;267;Saint-Étienne-en-Coglès;1853;42;1895
+35;282;Rives-du-Couesnon;35;269;Saint-Georges-de-Chesné;708;12;720
+35;282;Rives-du-Couesnon;35;282;Saint-Jean-sur-Couesnon;1197;28;1225
+35;184;Montauban-de-Bretagne;35;301;Saint-M'Hervon;634;7;641
+35;292;Saint-Marc-le-Blanc;35;292;Saint-Marc-le-Blanc;1382;33;1415
+35;282;Rives-du-Couesnon;35;293;Saint-Marc-sur-Couesnon;570;9;579
+35;004;Val-Couesnon;35;303;Saint-Ouen-la-Rouërie;834;11;845
+35;308;Mesnil-Roc'h;35;308;Saint-Pierre-de-Plesguen;2960;55;3015
+35;191;Les Portes du Coglais;35;323;Selle-en-Coglès;592;11;603
+35;004;Val-Couesnon;35;341;Tremblay;1493;34;1527
+35;308;Mesnil-Roc'h;35;344;Tressé;412;9;421
+35;282;Rives-du-Couesnon;35;348;Vendel;396;3;399
+36;070;Éguzon-Chantôme;36;039;Chantôme;82;3;85
+36;244;Villentrois-Faverolles-en-Berry;36;072;Faverolles-en-Berry;302;3;305
+36;093;Levroux;36;093;Levroux;2727;35;2762
+36;229;Val-Fouzon;36;151;Parpeçay;222;1;223
+36;093;Levroux;36;201;Saint-Martin-de-Lamps;150;1;151
+36;093;Levroux;36;206;Saint-Pierre-de-Lamps;54;1;55
+36;229;Val-Fouzon;36;183;Sainte-Cécile;89;0;89
+36;229;Val-Fouzon;36;229;Varennes-sur-Fouzon;665;9;674
+36;244;Villentrois-Faverolles-en-Berry;36;244;Villentrois;575;3;578
+36;202;Saint-Maur;36;245;Villers-les-Ormes;452;10;462
+37;021;Beaumont-Louestault;37;021;Beaumont-la-Ronce;1274;16;1290
+37;123;Langeais;37;102;Essards;151;1;152
+37;232;Coteaux-sur-Loire;37;120;Ingrandes-de-Touraine;545;10;555
+37;021;Beaumont-Louestault;37;135;Louestault;438;2;440
+37;254;Tauxigny-Saint-Bauld;37;209;Saint-Bauld;193;3;196
+37;232;Coteaux-sur-Loire;37;227;Saint-Michel-sur-Loire;713;16;729
+37;232;Coteaux-sur-Loire;37;232;Saint-Patrice;655;13;668
+38;001;Les Abrets en Dauphiné;38;001;Abrets;3484;47;3531
+38;297;Arandon-Passins;38;014;Arandon;678;10;688
+38;479;Porte-des-Bonnevaux;38;016;Arzay;227;3;230
+38;225;Autrans-Méaudre en Vercors;38;021;Autrans;1560;42;1602
+38;022;Les Avenières Veyrins-Thuellin;38;022;Avenières;5643;105;5748
+38;284;Ornacieux-Balbins;38;025;Balbins;448;18;466
+38;001;Les Abrets en Dauphiné;38;028;Bâtie-Divisin;927;19;946
+38;073;Chantepérier;38;073;Chantelouve;80;1;81
+38;479;Porte-des-Bonnevaux;38;121;Commelle;938;25;963
+38;456;Châtel-en-Trièves;38;125;Cordéac;210;4;214
+38;359;Saint Antoine l'Abbaye;38;145;Dionay;114;4;118
+38;163;Haut-Bréda;38;163;Ferrière;229;4;233
+38;001;Les Abrets en Dauphiné;38;165;Fitilieu;1925;39;1964
+38;225;Autrans-Méaudre en Vercors;38;225;Méaudre;1470;61;1531
+38;139;Creys-Mépieu;38;227;Mépieu;562;5;567
+38;253;Les Deux Alpes;38;253;Mont-de-Lans;1097;22;1119
+38;439;Crêts en Belledonne;38;262;Morêtel-de-Mailles;469;4;473
+38;479;Porte-des-Bonnevaux;38;274;Nantoin;482;9;491
+38;284;Ornacieux-Balbins;38;284;Ornacieux;398;9;407
+38;292;Villages du Lac de Paladru;38;292;Paladru;1246;32;1278
+38;560;Val-de-Virieu;38;293;Panissage;445;9;454
+38;297;Arandon-Passins;38;297;Passins;1150;32;1182
+38;073;Chantepérier;38;302;Périer;119;2;121
+38;292;Villages du Lac de Paladru;38;305;Pin;1261;28;1289
+38;163;Haut-Bréda;38;306;Pinsot;164;6;170
+38;395;Plateau-des-Petites-Roches;38;367;Saint-Bernard;635;23;658
+38;395;Plateau-des-Petites-Roches;38;395;Saint-Hilaire;1284;41;1325
+38;395;Plateau-des-Petites-Roches;38;435;Saint-Pancrasse;489;10;499
+38;456;Châtel-en-Trièves;38;456;Saint-Sébastien;253;5;258
+38;479;Porte-des-Bonnevaux;38;479;Semons;361;15;376
+38;253;Les Deux Alpes;38;534;Vénosc;819;14;833
+38;022;Les Avenières Veyrins-Thuellin;38;541;Veyrins-Thuellin;2129;53;2182
+38;560;Val-de-Virieu;38;560;Virieu;1092;10;1102
+39;385;Neublans-Abergement;39;005;Abergement-Saint-Jean;84;0;84
+25;527;Saint-Vit;39;012;Antorpe;796;14;810
+39;018;Aromas;39;018;Aromas;572;18;590
+39;378;Les Trois-Châteaux;39;023;Aubépin;161;2;163
+39;209;Val-d'Épy;39;036;Balme-d'Épy;52;1;53
+39;043;Beaufort-Orbagna;39;043;Beaufort;1135;17;1152
+39;022;Asnans-Beauvoisin;39;044;Beauvoisin;202;7;209
+39;576;Val-Sonnette;39;064;Bonnaud;58;1;59
+39;485;Val Suran;39;069;Bourcia;106;1;107
+39;199;Domblans;39;075;Bréry;224;3;227
+39;339;Chassal-Molinges;39;113;Chassal;426;15;441
+39;258;Grande-Rivière Château;39;115;Château-des-Prés;207;2;209
+39;378;Les Trois-Châteaux;39;135;Chazelles;160;3;163
+39;530;Thoirette-Coisia;39;158;Coisia;177;5;182
+39;177;Hauteroche;39;177;Crançot;596;13;609
+39;491;Coteaux du Lizon;39;186;Cuttura;327;11;338
+39;190;Dampierre;39;190;Dampierre;1160;27;1187
+39;273;Montlainsia;39;195;Dessia;66;4;70
+39;329;Mièges;39;213;Esserval-Combe;26;0;26
+39;021;La Chailleuse;39;215;Essia;72;0;72
+39;209;Val-d'Épy;39;226;Florentia;23;0;23
+39;577;Vincent-Froideville;39;243;Froideville;63;0;63
+39;198;Dole;39;256;Goux;311;4;315
+39;258;Grande-Rivière Château;39;258;Grande-Rivière;419;17;436
+39;177;Hauteroche;39;260;Granges-sur-Baume;130;4;134
+39;576;Val-Sonnette;39;264;Grusse;176;8;184
+39;273;Montlainsia;39;273;Lains;80;2;82
+39;286;Lavans-lès-Saint-Claude;39;286;Lavans-lès-Saint-Claude;1790;83;1873
+39;368;Hauts de Bienne;39;294;Lézat;187;7;194
+39;485;Val Suran;39;303;Louvenne;131;1;132
+39;537;Trenal;39;309;Mallerey;72;0;72
+39;329;Mièges;39;329;Mièges;115;3;118
+39;177;Hauteroche;39;332;Mirebel;234;7;241
+39;339;Chassal-Molinges;39;339;Molinges;698;13;711
+39;329;Mièges;39;340;Molpré;29;0;29
+39;510;Septmoncel les Molunes;39;341;Molunes;133;4;137
+39;273;Montlainsia;39;347;Montagna-le-Templier;99;1;100
+39;368;Hauts de Bienne;39;368;Morez;4813;256;5069
+39;010;Andelot-Morval;39;369;Morval;29;0;29
+39;368;Hauts de Bienne;39;371;Mouille;312;7;319
+39;378;Les Trois-Châteaux;39;378;Nanc-lès-Saint-Amour;296;9;305
+39;209;Val-d'Épy;39;382;Nantey;61;3;64
+39;205;Éclans-Nenon;39;383;Nenon;119;4;123
+39;043;Beaufort-Orbagna;39;395;Orbagna;240;2;242
+39;190;Dampierre;39;414;Petit-Mercey;125;1;126
+39;130;Nanchez;39;417;Piards;182;2;184
+39;286;Lavans-lès-Saint-Claude;39;438;Ponthoux;68;3;71
+39;286;Lavans-lès-Saint-Claude;39;440;Pratz;519;22;541
+39;130;Nanchez;39;442;Prénovel;272;7;279
+39;017;Arlay;39;482;Saint-Germain-lès-Arlay;430;19;449
+39;378;Les Trois-Châteaux;39;484;Saint-Jean-d'Étreux;147;1;148
+39;485;Val Suran;39;485;Saint-Julien;431;9;440
+39;021;La Chailleuse;39;488;Saint-Laurent-la-Roche;328;8;336
+39;491;Coteaux du Lizon;39;491;Saint-Lupicin;2001;85;2086
+39;209;Val-d'Épy;39;509;Senaud;52;2;54
+39;510;Septmoncel les Molunes;39;510;Septmoncel;681;20;701
+39;530;Thoirette-Coisia;39;530;Thoirette;684;19;703
+39;537;Trenal;39;537;Trenal;386;12;398
+39;209;Val-d'Épy;39;209;Val d'Épy;146;1;147
+39;583;Vosbles-Valfin;39;542;Valfin-sur-Valouse;73;5;78
+39;021;La Chailleuse;39;544;Varessia;33;2;35
+39;576;Val-Sonnette;39;549;Vercia;295;12;307
+39;130;Nanchez;39;562;Villard-sur-Bienne;178;9;187
+39;485;Val Suran;39;564;Villechantria;119;2;121
+39;018;Aromas;39;566;Villeneuve-lès-Charnod;86;0;86
+39;576;Val-Sonnette;39;576;Vincelles;391;13;404
+39;086;Cernon;39;578;Viremont;29;1;30
+40;197;Morcenx-la-Nouvelle;40;009;Arjuzanx;212;5;217
+40;243;Rion-des-Landes;40;048;Boos;470;6;476
+40;197;Morcenx-la-Nouvelle;40;107;Garrosse;296;3;299
+40;243;Rion-des-Landes;40;243;Rion-des-Landes;2542;36;2578
+40;197;Morcenx-la-Nouvelle;40;302;Sindères;180;6;186
+41;248;Couëtron-au-Perche;41;005;Arville;94;0;94
+41;171;Oucques La Nouvelle;41;011;Baigneaux;46;1;47
+41;171;Oucques La Nouvelle;41;015;Beauvilliers;61;0;61
+41;273;Vievy-le-Rayé;41;021;Bosse;125;2;127
+41;151;Montrichard Val de Cher;41;023;Bourré;618;12;630
+41;142;Valencisse;41;033;Chambon-sur-Cisse;691;47;738
+41;055;Valloire-sur-Cisse;41;055;Chouzy-sur-Cisse;1998;41;2039
+41;173;Beauce la Romaine;41;056;Colombe;202;3;205
+41;059;Controis-en-Sologne;41;059;Contres;3631;76;3707
+41;055;Valloire-sur-Cisse;41;064;Coulanges;308;13;321
+41;070;Vallée-de-Ronsard;41;070;Couture-sur-Loir;412;9;421
+41;273;Vievy-le-Rayé;41;076;Écoman;130;1;131
+41;059;Controis-en-Sologne;41;082;Feings;717;12;729
+41;059;Controis-en-Sologne;41;092;Fougères-sur-Bièvre;788;29;817
+41;173;Beauce la Romaine;41;133;Membrolles;269;4;273
+41;142;Valencisse;41;142;Molineuf;746;19;765
+41;151;Montrichard Val de Cher;41;151;Montrichard;3145;39;3184
+41;248;Couëtron-au-Perche;41;165;Oigny;90;5;95
+41;167;Veuzain-sur-Loire;41;167;Onzain;3275;100;3375
+41;142;Valencisse;41;169;Orchaise;939;25;964
+41;059;Controis-en-Sologne;41;170;Ouchamps;733;26;759
+41;171;Oucques La Nouvelle;41;171;Oucques;1520;28;1548
+41;173;Beauce la Romaine;41;173;Ouzouer-le-Marché;2052;44;2096
+41;173;Beauce la Romaine;41;183;Prénouvellon;261;4;265
+41;248;Couëtron-au-Perche;41;197;Saint-Agil;279;2;281
+41;248;Couëtron-au-Perche;41;202;Saint-Avit;96;3;99
+41;149;Montoire-sur-le-Loir;41;227;Saint-Quentin-lès-Troo;226;5;231
+41;171;Oucques La Nouvelle;41;210;Sainte-Gemmes;103;0;103
+41;055;Valloire-sur-Cisse;41;240;Seillac;110;1;111
+41;173;Beauce la Romaine;41;244;Semerville;99;3;102
+41;248;Couëtron-au-Perche;41;248;Souday;493;14;507
+41;059;Controis-en-Sologne;41;257;Thenay;914;14;928
+41;070;Vallée-de-Ronsard;41;263;Tréhet;109;0;109
+41;173;Beauce la Romaine;41;264;Tripleville;176;3;179
+41;173;Beauce la Romaine;41;270;Verdes;436;7;443
+41;167;Veuzain-sur-Loire;41;272;Veuves;207;2;209
+42;268;Vézelin-sur-Loire;42;004;Amions;305;2;307
+42;039;Chalmazel-Jeansagnière;42;039;Chalmazel;357;2;359
+42;225;Genilac;42;080;Cula;952;16;968
+42;268;Vézelin-sur-Loire;42;082;Dancé;172;2;174
+42;039;Chalmazel-Jeansagnière;42;114;Jeansagnière;96;3;99
+42;218;Saint-Étienne;42;190;Rochetaillée;620;10;630
+42;245;Vêtre-sur-Anzon;42;245;Saint-Julien-la-Vêtre;358;4;362
+42;279;Saint-Just-Saint-Rambert;42;250;Saint-Just-sur-Loire;6856;132;6988
+42;268;Vézelin-sur-Loire;42;268;Saint-Paul-de-Vézelin;319;5;324
+42;245;Vêtre-sur-Anzon;42;291;Saint-Thurin;188;2;190
+43;221;Saint-Privat-d'Allier;43;176;Saint-Didier-d'Allier;44;0;44
+43;090;Esplantas-Vazeilles;43;255;Vazeilles-près-Saugues;35;1;36
+44;163;Vair-sur-Loire;44;004;Anetz;2086;54;2140
+44;005;Chaumes-en-Retz;44;005;Arthon-en-Retz;4213;66;4279
+44;029;Divatte-sur-Loire;44;008;Barbechat;1308;21;1329
+44;213;Loireauxence;44;011;Belligné;1805;31;1836
+44;180;Vallons-de-l'Erdre;44;017;Bonnœuvre;559;15;574
+44;021;Villeneuve-en-Retz;44;021;Bourgneuf-en-Retz;3667;60;3727
+44;029;Divatte-sur-Loire;44;029;Chapelle-Basse-Mer;5601;100;5701
+44;213;Loireauxence;44;034;Chapelle-Saint-Sauveur;817;9;826
+44;005;Chaumes-en-Retz;44;040;Chéméré;2614;39;2653
+44;180;Vallons-de-l'Erdre;44;225;Freigné;1106;20;1126
+44;021;Villeneuve-en-Retz;44;059;Fresnay-en-Retz;1244;27;1271
+44;087;Machecoul-Saint-Même;44;087;Machecoul;6334;210;6544
+44;180;Vallons-de-l'Erdre;44;093;Maumusson;1064;26;1090
+44;213;Loireauxence;44;147;Rouxière;1171;12;1183
+44;163;Vair-sur-Loire;44;163;Saint-Herblon;2631;51;2682
+44;180;Vallons-de-l'Erdre;44;180;Saint-Mars-la-Jaille;2399;44;2443
+44;087;Machecoul-Saint-Même;44;181;Saint-Même-le-Tenu;1219;25;1244
+44;180;Vallons-de-l'Erdre;44;191;Saint-Sulpice-des-Landes;673;14;687
+44;213;Loireauxence;44;213;Varades;3708;80;3788
+44;180;Vallons-de-l'Erdre;44;219;Vritz;748;8;756
+45;240;Outarville;45;003;Allainville-en-Beauce;143;1;144
+45;155;Gien;45;007;Arrabloy;445;10;455
+45;253;Pithiviers-le-Vieil;45;048;Bouzonville-en-Beauce;296;6;302
+45;051;Bray-Saint-Aignan;45;051;Bray-en-Val;1443;29;1472
+45;035;Boiscommun;45;090;Chemault;289;10;299
+45;191;Le Malesherbois;45;106;Coudray;392;17;409
+45;129;Douchy-Montcorbon;45;129;Douchy;910;18;928
+45;240;Outarville;45;140;Faronville;117;2;119
+45;160;Greneville-en-Beauce;45;163;Guignonville;279;4;283
+45;025;Bazoches-les-Gallerandes;45;172;Izy;297;4;301
+45;191;Le Malesherbois;45;057;Labrosse;97;1;98
+45;191;Le Malesherbois;45;190;Mainvilliers;266;3;269
+45;191;Le Malesherbois;45;191;Malesherbes;6089;123;6212
+45;191;Le Malesherbois;45;192;Manchecourt;764;12;776
+45;129;Douchy-Montcorbon;45;211;Montcorbon;462;11;473
+45;191;Le Malesherbois;45;221;Nangeville;114;1;115
+45;191;Le Malesherbois;45;236;Orveau-Bellesauve;420;12;432
+45;051;Bray-Saint-Aignan;45;267;Saint-Aignan-des-Gués;291;5;296
+45;307;Selle-sur-le-Bied;45;287;Saint-Loup-de-Gonois;107;4;111
+45;240;Outarville;45;295;Saint-Péravy-Épreux;166;6;172
+45;162;Guigneville;45;304;Sébouville;208;8;216
+45;240;Outarville;45;318;Teillay-le-Gaudin;144;2;146
+45;118;Crottes-en-Pithiverais;45;319;Teillay-Saint-Benoît;86;1;87
+45;348;Yèvre-la-Ville;45;349;Yèvre-le-Châtel;210;6;216
+46;263;Barguelonne-en-Quercy;46;014;Bagat-en-Quercy;196;7;203
+46;138;Cœur de Causse;46;019;Beaumat;75;1;76
+46;201;Montcuq-en-Quercy-Blanc;46;025;Belmontet;157;5;162
+46;033;Porte-du-Quercy;46;033;Boulvé;187;6;193
+46;311;Sousceyrac-en-Quercy;46;048;Calviac;149;0;149
+46;063;Castelnau Montratier-Sainte Alauzie;46;063;Castelnau-Montratier;1749;37;1786
+46;232;Vignon-en-Quercy;46;067;Cazillac;423;16;439
+46;311;Sousceyrac-en-Quercy;46;071;Comiac;213;4;217
+46;156;Bellefont-La Rauze;46;077;Cours;280;6;286
+46;083;Cressensac-Sarrazac;46;083;Cressensac;630;15;645
+46;033;Porte-du-Quercy;46;099;Fargues;153;1;154
+46;103;Saint-Paul-Flaugnac;46;103;Flaugnac;409;11;420
+46;138;Cœur de Causse;46;110;Fontanes-du-Causse;64;2;66
+46;138;Cœur de Causse;46;138;Labastide-Murat;645;16;661
+46;311;Sousceyrac-en-Quercy;46;141;Lacam-d'Ourcet;106;5;111
+46;311;Sousceyrac-en-Quercy;46;150;Lamativie;55;1;56
+46;156;Bellefont-La Rauze;46;156;Laroque-des-Arcs;506;11;517
+46;262;Lendou-en-Quercy;46;158;Lascabanes;203;2;205
+46;201;Montcuq-en-Quercy-Blanc;46;166;Lebreil;160;3;163
+46;201;Montcuq-en-Quercy-Blanc;46;201;Montcuq;1220;39;1259
+46;232;Vignon-en-Quercy;46;232;Quatre-Routes-du-Lot;587;9;596
+46;252;Les Pechs du Vers;46;252;Saint-Cernin;204;5;209
+46;262;Lendou-en-Quercy;46;262;Saint-Cyprien;255;9;264
+46;263;Barguelonne-en-Quercy;46;263;Saint-Daunès;218;3;221
+46;268;Saint Géry-Vers;46;268;Saint-Géry;431;12;443
+46;262;Lendou-en-Quercy;46;274;Saint-Laurent-Lolmie;180;3;183
+46;252;Les Pechs du Vers;46;275;Saint-Martin-de-Vers;107;3;110
+46;033;Porte-du-Quercy;46;278;Saint-Matré;142;1;143
+46;263;Barguelonne-en-Quercy;46;285;Saint-Pantaléon;276;7;283
+46;103;Saint-Paul-Flaugnac;46;287;Saint-Paul-de-Loubressac;591;15;606
+46;138;Cœur de Causse;46;291;Saint-Sauveur-la-Vallée;53;0;53
+46;063;Castelnau Montratier-Sainte Alauzie;46;248;Sainte-Alauzie;107;1;108
+46;201;Montcuq-en-Quercy-Blanc;46;261;Sainte-Croix;76;1;77
+46;083;Cressensac-Sarrazac;46;298;Sarrazac;499;8;507
+46;033;Porte-du-Quercy;46;300;Saux;95;0;95
+46;311;Sousceyrac-en-Quercy;46;311;Sousceyrac;818;10;828
+46;138;Cœur de Causse;46;325;Vaillac;99;2;101
+46;201;Montcuq-en-Quercy-Blanc;46;326;Valprionde;126;0;126
+46;156;Bellefont-La Rauze;46;327;Valroufié;448;7;455
+46;268;Saint Géry-Vers;46;331;Vers;447;7;454
+47;302;Sos;47;116;Gueyze;137;3;140
+47;221;Réaup-Lisse;47;149;Lisse;204;8;212
+47;302;Sos;47;166;Meylan;51;0;51
+47;206;Pinel-Hauterive;47;268;Saint-Pierre-de-Caubel;188;1;189
+47;134;Lannes;47;322;Villeneuve-de-Mézin;74;0;74
+48;009;Peyre en Aubrac;48;009;Aumont-Aubrac;1035;19;1054
+48;034;La Canourgue;48;011;Auxillac;289;5;294
+48;027;Mont Lozère et Goulet;48;014;Bagnols-les-Bains;216;2;218
+48;027;Mont Lozère et Goulet;48;023;Belvezet;81;4;85
+48;027;Mont Lozère et Goulet;48;027;Bleymard;379;29;408
+48;034;La Canourgue;48;035;Capelle;99;6;105
+48;038;Bel-Air-Val-d'Ance;48;038;Chambon-le-Château;290;4;294
+48;027;Mont Lozère et Goulet;48;040;Chasseradès;139;7;146
+48;009;Peyre en Aubrac;48;047;Chaze-de-Peyre;295;6;301
+48;099;Bourgs sur Colagne;48;049;Chirac;1157;19;1176
+48;127;Monts-de-Randon;48;057;Estables;166;1;167
+48;009;Peyre en Aubrac;48;060;Fau-de-Peyre;188;2;190
+48;061;Florac Trois Rivières;48;061;Florac;1894;36;1930
+48;105;Naussac-Fontanes;48;062;Fontanes;160;8;168
+48;116;Pont de Montvert - Sud Mont Lozère;48;066;Fraissinet-de-Lozère;198;10;208
+48;009;Peyre en Aubrac;48;076;Javols;336;44;380
+48;126;Lachamp-Ribennes;48;078;Lachamp;175;6;181
+48;139;Saint Bonnet-Laval;48;084;Laval-Atger;154;1;155
+48;087;Prinsuéjols-Malbouzon;48;087;Malbouzon;123;4;127
+48;027;Mont Lozère et Goulet;48;093;Mas-d'Orcières;90;2;92
+48;094;Massegros Causses Gorges;48;094;Massegros;417;13;430
+48;099;Bourgs sur Colagne;48;099;Monastier-Pin-Moriès;958;30;988
+48;146;Gorges du Tarn Causses;48;101;Montbrun;82;3;85
+48;034;La Canourgue;48;102;Montjézieu;127;6;133
+48;105;Naussac-Fontanes;48;105;Naussac;202;10;212
+48;116;Pont de Montvert - Sud Mont Lozère;48;116;Pont-de-Montvert;317;11;328
+48;087;Prinsuéjols-Malbouzon;48;120;Prinsuéjols;149;6;155
+48;146;Gorges du Tarn Causses;48;122;Quézac;334;8;342
+48;094;Massegros Causses Gorges;48;125;Recoux;134;6;140
+48;126;Lachamp-Ribennes;48;126;Ribennes;177;6;183
+48;127;Monts-de-Randon;48;127;Rieutort-de-Randon;772;13;785
+48;127;Monts-de-Randon;48;133;Saint-Amans;151;2;153
+48;152;Ventalon en Cévennes;48;134;Saint-Andéol-de-Clerguemort;88;2;90
+48;139;Saint Bonnet-Laval;48;139;Saint-Bonnet-de-Montauroux;98;1;99
+48;152;Ventalon en Cévennes;48;152;Saint-Frézal-de-Ventalon;164;3;167
+48;094;Massegros Causses Gorges;48;154;Saint-Georges-de-Lévéjac;273;5;278
+48;166;Cans et Cévennes;48;162;Saint-Julien-d'Arpaon;92;1;93
+48;027;Mont Lozère et Goulet;48;164;Saint-Julien-du-Tournel;134;5;139
+48;166;Cans et Cévennes;48;166;Saint-Laurent-de-Trèves;194;10;204
+48;116;Pont de Montvert - Sud Mont Lozère;48;172;Saint-Maurice-de-Ventalon;58;3;61
+48;094;Massegros Causses Gorges;48;180;Saint-Rome-de-Dolan;68;3;71
+48;009;Peyre en Aubrac;48;183;Saint-Sauveur-de-Peyre;244;5;249
+48;038;Bel-Air-Val-d'Ance;48;184;Saint-Symphorien;244;3;247
+48;009;Peyre en Aubrac;48;142;Sainte-Colombe-de-Peyre;189;6;195
+48;146;Gorges du Tarn Causses;48;146;Sainte-Enimie;515;22;537
+48;061;Florac Trois Rivières;48;186;Salle-Prunet;178;7;185
+48;127;Monts-de-Randon;48;189;Servières;167;5;172
+48;094;Massegros Causses Gorges;48;195;Vignes;83;1;84
+48;039;Chanac;48;196;Villard;81;0;81
+48;127;Monts-de-Randon;48;197;Villedieu;37;0;37
+49;050;Brissac Loire Aubance;49;001;Alleuds;905;15;920
+49;003;Tuffalun;49;003;Ambillou-Château;937;19;956
+49;307;Loire-Authion;49;004;Andard;2630;53;2683
+49;176;Le Lion-d'Angers;49;005;Andigné;417;6;423
+49;023;Beaupréau-en-Mauges;49;006;Andrezé;1941;55;1996
+49;228;Noyant-Villages;49;013;Auverse;418;11;429
+49;331;Segré-en-Anjou Bleu;49;014;Aviré;516;10;526
+49;328;Saumur;49;016;Bagneux;4329;90;4419
+49;018;Baugé-en-Anjou;49;018;Baugé;3703;69;3772
+49;307;Loire-Authion;49;019;Bauné;1774;27;1801
+49;021;Beaufort-en-Anjou;49;021;Beaufort-en-Vallée;6682;95;6777
+49;023;Beaupréau-en-Mauges;49;023;Beaupréau;7449;358;7807
+49;244;Mauges-sur-Loire;49;024;Beausse;358;9;367
+49;163;Jarzé Villages;49;025;Beauvau;294;2;296
+49;029;Blaison-Saint-Sulpice;49;029;Blaison-Gohier;1073;23;1096
+49;018;Baugé-en-Anjou;49;031;Bocé;648;15;663
+49;307;Loire-Authion;49;032;Bohalle;1284;22;1306
+49;218;Montrevault-sur-Èvre;49;033;Boissière-sur-Èvre;441;7;448
+49;244;Mauges-sur-Loire;49;034;Botz-en-Mauges;813;16;829
+49;331;Segré-en-Anjou Bleu;49;037;Bourg-d'Iré;816;16;832
+49;244;Mauges-sur-Loire;49;039;Bourgneuf-en-Mauges;655;21;676
+49;069;Orée d'Anjou;49;040;Bouzillé;1497;29;1526
+49;307;Loire-Authion;49;042;Brain-sur-l'Authion;3350;364;3714
+49;367;Erdre-en-Anjou;49;043;Brain-sur-Longuenée;942;14;956
+49;228;Noyant-Villages;49;044;Breil;253;12;265
+49;060;Bellevigne-les-Châteaux;49;046;Brézé;1227;29;1256
+49;125;Doué-en-Anjou;49;047;Brigné;485;6;491
+49;138;Les Bois d'Anjou;49;049;Brion;1196;21;1217
+49;050;Brissac Loire Aubance;49;050;Brissac-Quincé;3106;110;3216
+49;080;Hauts-d'Anjou;49;051;Brissarthe;630;11;641
+49;228;Noyant-Villages;49;052;Broc;329;10;339
+49;373;Lys-Haut-Layon;49;059;Cerqueux-sous-Passavant;498;10;508
+49;060;Bellevigne-les-Châteaux;49;060;Chacé;1409;33;1442
+49;228;Noyant-Villages;49;062;Chalonnes-sous-le-Lude;115;2;117
+49;345;Bellevigne-en-Layon;49;066;Champ-sur-Layon;952;18;970
+49;080;Hauts-d'Anjou;49;065;Champigné;2193;89;2282
+49;067;Chenillé-Champteussé;49;067;Champteussé-sur-Baconne;214;7;221
+49;069;Orée d'Anjou;49;069;Champtoceaux;2526;32;2558
+49;092;Chemillé-en-Anjou;49;071;Chanzeaux;1134;18;1152
+49;023;Beaupréau-en-Mauges;49;072;Chapelle-du-Genêt;1201;27;1228
+49;248;Ombrée d'Anjou;49;073;Chapelle-Hullin;135;2;137
+49;092;Chemillé-en-Anjou;49;074;Chapelle-Rousselin;785;18;803
+49;244;Mauges-sur-Loire;49;075;Chapelle-Saint-Florent;1399;28;1427
+49;331;Segré-en-Anjou Bleu;49;077;Chapelle-sur-Oudon;608;25;633
+49;050;Brissac Loire Aubance;49;078;Charcé-Saint-Ellier-sur-Aubance;797;16;813
+49;018;Baugé-en-Anjou;49;079;Chartrené;62;0;62
+49;080;Hauts-d'Anjou;49;080;Châteauneuf-sur-Sarthe;3200;35;3235
+49;331;Segré-en-Anjou Bleu;49;081;Châtelais;691;14;705
+49;218;Montrevault-sur-Èvre;49;083;Chaudron-en-Mauges;1471;35;1506
+49;163;Jarzé Villages;49;084;Chaumont-d'Anjou;286;4;290
+49;218;Montrevault-sur-Èvre;49;085;Chaussaire;845;22;867
+49;086;Terranjou;49;086;Chavagnes;1297;26;1323
+49;228;Noyant-Villages;49;087;Chavaignes;83;3;86
+49;248;Ombrée d'Anjou;49;088;Chazé-Henry;780;19;799
+49;050;Brissac Loire Aubance;49;091;Chemellier;767;9;776
+49;092;Chemillé-en-Anjou;49;092;Chemillé;7201;241;7442
+49;220;Morannes sur Sarthe-Daumeray;49;093;Chemiré-sur-Sarthe;238;3;241
+49;261;Gennes-Val-de-Loire;49;094;Chênehutte-Trèves-Cunault;995;25;1020
+49;067;Chenillé-Champteussé;49;095;Chenillé-Changé;131;2;133
+49;080;Hauts-d'Anjou;49;096;Cherré;563;3;566
+49;018;Baugé-en-Anjou;49;097;Cheviré-le-Rouge;919;11;930
+49;228;Noyant-Villages;49;098;Chigné;308;3;311
+49;018;Baugé-en-Anjou;49;101;Clefs;978;18;996
+49;248;Ombrée d'Anjou;49;103;Combrée;2785;58;2843
+49;125;Doué-en-Anjou;49;104;Concourson-sur-Layon;564;11;575
+49;080;Hauts-d'Anjou;49;105;Contigné;748;10;758
+49;307;Loire-Authion;49;106;Corné;3069;56;3125
+49;183;Val d'Erdre-Auxence;49;108;Cornuaille;949;19;968
+49;092;Chemillé-en-Anjou;49;111;Cossé-d'Anjou;419;16;435
+49;050;Brissac Loire Aubance;49;115;Coutures;540;18;558
+49;018;Baugé-en-Anjou;49;116;Cuon;562;18;580
+49;307;Loire-Authion;49;117;Daguenière;1230;15;1245
+49;328;Saumur;49;118;Dampierre-sur-Loire;300;7;307
+49;220;Morannes sur Sarthe-Daumeray;49;119;Daumeray;1520;27;1547
+49;228;Noyant-Villages;49;122;Dénezé-sous-le-Lude;300;9;309
+49;125;Doué-en-Anjou;49;125;Doué-la-Fontaine;7686;191;7877
+49;069;Orée d'Anjou;49;126;Drain;2125;32;2157
+49;018;Baugé-en-Anjou;49;128;Échemiré;594;8;602
+49;345;Bellevigne-en-Layon;49;133;Faveraye-Mâchelles;648;11;659
+49;345;Bellevigne-en-Layon;49;134;Faye-d'Anjou;1396;30;1426
+49;331;Segré-en-Anjou Bleu;49;136;Ferrière-de-Flée;327;5;332
+49;218;Montrevault-sur-Èvre;49;137;Fief-Sauvin;1671;33;1704
+49;138;Les Bois d'Anjou;49;138;Fontaine-Guérin;967;30;997
+49;194;Mazé-Milon;49;139;Fontaine-Milon;642;12;654
+49;125;Doué-en-Anjou;49;141;Forges;312;8;320
+49;373;Lys-Haut-Layon;49;142;Fosse-de-Tigné;238;2;240
+49;018;Baugé-en-Anjou;49;143;Fougeré;803;24;827
+49;160;Ingrandes-Le Fresne sur Loire;49;382;Fresne-sur-Loire;894;23;917
+49;218;Montrevault-sur-Èvre;49;145;Fuilet;1907;26;1933
+49;021;Beaufort-en-Anjou;49;147;Gée;529;59;588
+49;367;Erdre-en-Anjou;49;148;Gené;495;9;504
+49;261;Gennes-Val-de-Loire;49;149;Gennes;2415;41;2456
+49;228;Noyant-Villages;49;150;Genneteil;304;3;307
+49;023;Beaupréau-en-Mauges;49;151;Gesté;2756;26;2782
+49;261;Gennes-Val-de-Loire;49;154;Grézillé;629;11;640
+49;248;Ombrée d'Anjou;49;156;Grugé-l'Hôpital;271;5;276
+49;018;Baugé-en-Anjou;49;157;Guédeniau;395;5;400
+49;331;Segré-en-Anjou Bleu;49;158;Hôtellerie-de-Flée;520;13;533
+49;174;Huillé-Lézigné;49;159;Huillé;556;9;565
+49;023;Beaupréau-en-Mauges;49;162;Jallais;3410;113;3523
+49;163;Jarzé Villages;49;163;Jarzé;1839;15;1854
+49;023;Beaupréau-en-Mauges;49;165;Jubaudière;1230;38;1268
+49;167;Les Garennes sur Loire;49;167;Juigné-sur-Loire;2707;52;2759
+49;180;Longué-Jumelles;49;168;Jumelles;1099;16;1115
+49;092;Chemillé-en-Anjou;49;169;Jumellière;1372;30;1402
+49;069;Orée d'Anjou;49;172;Landemont;1820;28;1848
+49;228;Noyant-Villages;49;173;Lasse;267;4;271
+49;174;Huillé-Lézigné;49;174;Lézigné;762;12;774
+49;228;Noyant-Villages;49;175;Linières-Bouton;100;2;102
+49;069;Orée d'Anjou;49;177;Liré;2505;62;2567
+49;301;Sèvremoine;49;179;Longeron;2124;104;2228
+49;003;Tuffalun;49;181;Louerre;469;12;481
+49;183;Val d'Erdre-Auxence;49;183;Louroux-Béconnais;3269;57;3326
+49;331;Segré-en-Anjou Bleu;49;184;Louvaines;427;18;445
+49;163;Jarzé Villages;49;185;Lué-en-Baugeois;327;7;334
+49;050;Brissac Loire Aubance;49;186;Luigné;285;3;288
+49;331;Segré-en-Anjou Bleu;49;187;Marans;585;9;594
+49;080;Hauts-d'Anjou;49;189;Marigné;690;23;713
+49;244;Mauges-sur-Loire;49;190;Marillais;1128;17;1145
+49;086;Terranjou;49;191;Martigné-Briand;1960;48;2008
+49;194;Mazé-Milon;49;194;Mazé;5173;91;5264
+49;200;Longuenée-en-Anjou;49;196;Meignanne;2261;103;2364
+49;125;Doué-en-Anjou;49;198;Meigné;277;8;285
+49;228;Noyant-Villages;49;197;Meigné-le-Vicomte;335;5;340
+49;092;Chemillé-en-Anjou;49;199;Melay;1595;93;1688
+49;200;Longuenée-en-Anjou;49;200;Membrolle-sur-Longuenée;2037;27;2064
+49;228;Noyant-Villages;49;202;Méon;220;2;222
+49;244;Mauges-sur-Loire;49;204;Mesnil-en-Vallée;1449;26;1475
+49;301;Sèvremoine;49;206;Montfaucon-Montigné;2262;37;2299
+49;125;Doué-en-Anjou;49;207;Montfort;107;3;110
+49;331;Segré-en-Anjou Bleu;49;208;Montguillon;252;4;256
+49;244;Mauges-sur-Loire;49;212;Montjean-sur-Loire;3065;74;3139
+49;018;Baugé-en-Anjou;49;213;Montpollin;257;3;260
+49;218;Montrevault-sur-Èvre;49;218;Montrevault;1240;19;1259
+49;092;Chemillé-en-Anjou;49;225;Neuvy-en-Mauges;851;14;865
+49;248;Ombrée d'Anjou;49;226;Noëllet;410;9;419
+49;086;Terranjou;49;227;Notre-Dame-d'Allençon;722;9;731
+49;228;Noyant-Villages;49;228;Noyant;1740;92;1832
+49;331;Segré-en-Anjou Bleu;49;229;Noyant-la-Gravoyère;1834;27;1861
+49;003;Tuffalun;49;230;Noyant-la-Plaine;355;6;361
+49;373;Lys-Haut-Layon;49;232;Nueil-sur-Layon;1315;20;1335
+49;331;Segré-en-Anjou Bleu;49;233;Nyoiseau;1213;250;1463
+49;228;Noyant-Villages;49;234;Parçay-les-Pins;817;13;830
+49;323;Verrières-en-Anjou;49;238;Pellouailles-les-Vignes;2523;38;2561
+49;023;Beaupréau-en-Mauges;49;239;Pin-en-Mauges;1383;17;1400
+49;200;Longuenée-en-Anjou;49;242;Plessis-Macé;1295;26;1321
+49;023;Beaupréau-en-Mauges;49;243;Poitevinière;1100;25;1125
+49;244;Mauges-sur-Loire;49;244;Pommeraye;4002;122;4124
+49;018;Baugé-en-Anjou;49;245;Pontigné;219;5;224
+49;248;Ombrée d'Anjou;49;248;Pouancé;3286;133;3419
+49;367;Erdre-en-Anjou;49;249;Pouëze;1995;28;2023
+49;248;Ombrée d'Anjou;49;250;Prévière;238;7;245
+49;200;Longuenée-en-Anjou;49;251;Pruillé;719;15;734
+49;218;Montrevault-sur-Èvre;49;252;Puiset-Doré;1182;21;1203
+49;080;Hauts-d'Anjou;49;254;Querré;322;9;331
+49;345;Bellevigne-en-Layon;49;256;Rablay-sur-Layon;783;16;799
+49;301;Sèvremoine;49;258;Renaudière;1053;27;1080
+49;261;Gennes-Val-de-Loire;49;261;Rosiers-sur-Loire;2379;47;2426
+49;301;Sèvremoine;49;263;Roussay;1248;23;1271
+49;301;Sèvremoine;49;264;Saint-André-de-la-Marche;2936;62;2998
+49;292;Val-du-Layon;49;265;Saint-Aubin-de-Luigné;1254;23;1277
+49;069;Orée d'Anjou;49;270;Saint-Christophe-la-Couperie;832;15;847
+49;301;Sèvremoine;49;273;Saint-Crespin-sur-Moine;1612;27;1639
+49;060;Bellevigne-les-Châteaux;49;274;Saint-Cyr-en-Bourg;862;18;880
+49;244;Mauges-sur-Loire;49;276;Saint-Florent-le-Vieil;2844;73;2917
+49;092;Chemillé-en-Anjou;49;281;Saint-Georges-des-Gardes;1563;44;1607
+49;261;Gennes-Val-de-Loire;49;279;Saint-Georges-des-Sept-Voies;673;9;682
+49;138;Les Bois d'Anjou;49;280;Saint-Georges-du-Bois;466;7;473
+49;125;Doué-en-Anjou;49;282;Saint-Georges-sur-Layon;759;18;777
+49;301;Sèvremoine;49;285;Saint-Germain-sur-Moine;2970;56;3026
+49;373;Lys-Haut-Layon;49;286;Saint-Hilaire-du-Bois;1364;45;1409
+49;328;Saumur;49;287;Saint-Hilaire-Saint-Florent;4015;172;4187
+49;298;Saint-Léger-de-Linières;49;289;Saint-Jean-de-Linières;1803;31;1834
+49;167;Les Garennes sur Loire;49;290;Saint-Jean-des-Mauvrets;1814;58;1872
+49;328;Saumur;49;293;Saint-Lambert-des-Levées;3392;87;3479
+49;292;Val-du-Layon;49;292;Saint-Lambert-du-Lattay;2153;25;2178
+49;244;Mauges-sur-Loire;49;295;Saint-Laurent-de-la-Plaine;1606;51;1657
+49;069;Orée d'Anjou;49;296;Saint-Laurent-des-Autels;2273;35;2308
+49;244;Mauges-sur-Loire;49;297;Saint-Laurent-du-Mottay;699;34;733
+49;298;Saint-Léger-de-Linières;49;298;Saint-Léger-des-Bois;1834;31;1865
+49;092;Chemillé-en-Anjou;49;300;Saint-Lézin;777;10;787
+49;301;Sèvremoine;49;301;Saint-Macaire-en-Mauges;7028;171;7199
+49;018;Baugé-en-Anjou;49;303;Saint-Martin-d'Arcé;728;27;755
+49;261;Gennes-Val-de-Loire;49;304;Saint-Martin-de-la-Place;1153;18;1171
+49;331;Segré-en-Anjou Bleu;49;305;Saint-Martin-du-Bois;994;17;1011
+49;307;Loire-Authion;49;307;Saint-Mathurin-sur-Loire;2475;45;2520
+49;248;Ombrée d'Anjou;49;309;Saint-Michel-et-Chanveaux;396;6;402
+49;023;Beaupréau-en-Mauges;49;312;Saint-Philbert-en-Mauges;382;5;387
+49;218;Montrevault-sur-Èvre;49;313;Saint-Pierre-Montlimart;3315;86;3401
+49;218;Montrevault-sur-Èvre;49;314;Saint-Quentin-en-Mauges;1024;19;1043
+49;018;Baugé-en-Anjou;49;315;Saint-Quentin-lès-Beaurepaire;382;9;391
+49;218;Montrevault-sur-Èvre;49;316;Saint-Rémy-en-Mauges;1371;23;1394
+49;050;Brissac Loire Aubance;49;317;Saint-Rémy-la-Varenne;953;24;977
+49;050;Brissac Loire Aubance;49;318;Saint-Saturnin-sur-Loire;1331;36;1367
+49;331;Segré-en-Anjou Bleu;49;319;Saint-Sauveur-de-Flée;310;7;317
+49;069;Orée d'Anjou;49;320;Saint-Sauveur-de-Landemont;991;23;1014
+49;029;Blaison-Saint-Sulpice;49;322;Saint-Sulpice;198;5;203
+49;323;Verrières-en-Anjou;49;323;Saint-Sylvain-d'Anjou;4842;256;5098
+49;092;Chemillé-en-Anjou;49;268;Sainte-Christine;756;10;766
+49;331;Segré-en-Anjou Bleu;49;277;Sainte-Gemmes-d'Andigné;1443;37;1480
+49;092;Chemillé-en-Anjou;49;325;Salle-de-Vihiers;1021;46;1067
+49;218;Montrevault-sur-Èvre;49;324;Salle-et-Chapelle-Aubry;1320;28;1348
+49;050;Brissac Loire Aubance;49;327;Saulgé-l'Hôpital;622;9;631
+49;331;Segré-en-Anjou Bleu;49;331;Segré;6938;380;7318
+49;377;Rives-du-Loir-en-Anjou;49;337;Soucelles;2581;40;2621
+49;080;Hauts-d'Anjou;49;335;Sœurdres;416;5;421
+49;373;Lys-Haut-Layon;49;342;Tancoigné;314;8;322
+49;345;Bellevigne-en-Layon;49;345;Thouarcé;1961;39;2000
+49;261;Gennes-Val-de-Loire;49;346;Thoureil;417;19;436
+49;373;Lys-Haut-Layon;49;348;Tigné;731;17;748
+49;301;Sèvremoine;49;349;Tillières;1813;18;1831
+49;301;Sèvremoine;49;350;Torfou;2284;40;2324
+49;092;Chemillé-en-Anjou;49;351;Tourlandry;1388;32;1420
+49;248;Ombrée d'Anjou;49;354;Tremblay;373;8;381
+49;373;Lys-Haut-Layon;49;356;Trémont;359;9;368
+49;092;Chemillé-en-Anjou;49;153;Valanjou;2123;26;2149
+49;069;Orée d'Anjou;49;360;Varenne;1785;22;1807
+49;050;Brissac Loire Aubance;49;363;Vauchrétien;1553;33;1586
+49;018;Baugé-en-Anjou;49;380;Vaulandry;301;7;308
+49;125;Doué-en-Anjou;49;365;Verchers-sur-Layon;910;11;921
+49;248;Ombrée d'Anjou;49;366;Vergonnes;288;4;292
+49;367;Erdre-en-Anjou;49;367;Vern-d'Anjou;2311;33;2344
+49;018;Baugé-en-Anjou;49;372;Vieil-Baugé;1251;39;1290
+49;373;Lys-Haut-Layon;49;373;Vihiers;2338;49;2387
+49;023;Beaupréau-en-Mauges;49;375;Villedieu-la-Blouère;2555;44;2599
+49;183;Val d'Erdre-Auxence;49;376;Villemoisan;679;8;687
+49;377;Rives-du-Loir-en-Anjou;49;377;Villevêque;3037;51;3088
+49;373;Lys-Haut-Layon;49;379;Voide;673;18;691
+50;041;Hague;50;001;Acqueville;632;22;654
+50;400;Picauville;50;005;Amfreville;287;4;291
+50;550;Saint-Sauveur-Villages;50;007;Ancteville;225;1;226
+50;565;Sartilly-Baie-Bocage;50;009;Angey;287;7;294
+50;099;Carentan-les-Marais;50;010;Angoville-au-Plain;101;2;103
+50;267;Lessay;50;012;Angoville-sur-Ay;237;6;243
+50;215;Gouville-sur-Mer;50;014;Anneville-sur-Mer;239;5;244
+50;487;Saint-James;50;018;Argouges;502;2;504
+50;041;Hague;50;020;Auderville;229;8;237
+50;236;La Haye;50;035;Baudreville;75;1;76
+50;260;Juvigny les Vallées;50;037;Bazoge;143;7;150
+50;041;Hague;50;041;Beaumont-Hague;1379;12;1391
+50;260;Juvigny les Vallées;50;043;Bellefontaine;141;5;146
+50;188;Folligny;50;047;Beslière;159;4;163
+50;523;Sainte-Mère-Église;50;051;Beuzeville-au-Plain;47;1;48
+50;256;Isigny-le-Buat;50;053;Biards;429;10;439
+50;359;Mortain-Bocage;50;056;Bion;371;8;379
+50;041;Hague;50;057;Biville;475;11;486
+50;215;Gouville-sur-Mer;50;061;Boisroger;254;3;257
+50;236;La Haye;50;063;Bolleville;364;6;370
+50;041;Hague;50;073;Branville-Hague;183;8;191
+50;601;Torigny-les-Villes;50;075;Brectouville;167;2;169
+50;099;Carentan-les-Marais;50;080;Brévands;301;9;310
+50;082;Bricquebec-en-Cotentin;50;082;Bricquebec;4014;104;4118
+50;099;Carentan-les-Marais;50;089;Brucheville;139;5;144
+50;090;Buais-Les-Monts;50;090;Buais;492;7;499
+50;095;Canisy;50;095;Canisy;1058;25;1083
+50;099;Carentan-les-Marais;50;099;Carentan;5853;88;5941
+50;487;Saint-James;50;100;Carnet;497;10;507
+50;523;Sainte-Mère-Église;50;103;Carquebut;297;7;304
+50;099;Carentan-les-Marais;50;107;Catz;111;6;117
+50;256;Isigny-le-Buat;50;113;Chalandrey;309;4;313
+50;565;Sartilly-Baie-Bocage;50;116;Champcey;235;5;240
+50;431;Remilly Les Marais;50;119;Champs-de-Losque;201;2;203
+50;239;Thèreval;50;123;Chapelle-en-Juger;658;14;672
+50;260;Juvigny les Vallées;50;125;Chasseguey;83;2;85
+50;523;Sainte-Mère-Église;50;127;Chef-du-Pont;670;4;674
+50;393;Percy-en-Normandie;50;128;Chefresne;303;5;308
+50;129;Cherbourg-en-Cotentin;50;129;Cherbourg-Octeville;35545;1154;36699
+50;260;Juvigny les Vallées;50;131;Chérencé-le-Roussel;280;9;289
+50;168;Ducey-Les Chéris;50;132;Chéris;255;9;264
+50;391;Grandparigny;50;133;Chèvreville;216;7;223
+50;363;Moyon Villages;50;134;Chevry;110;0;110
+50;273;Montsenelle;50;136;Coigny;166;4;170
+50;139;Condé-sur-Vire;50;139;Condé-sur-Vire;3323;144;3467
+50;419;Quettreville-sur-Sienne;50;140;Contrières;366;9;375
+50;142;Vicq-sur-Mer;50;142;Cosqueville;591;7;598
+50;400;Picauville;50;153;Cretteville;204;3;207
+50;487;Saint-James;50;154;Croix-Avranchin;440;13;453
+50;412;Port-Bail-sur-Mer;50;160;Denneville;571;11;582
+50;041;Hague;50;163;Digulleville;245;1;246
+50;168;Ducey-Les Chéris;50;168;Ducey;2537;52;2589
+50;523;Sainte-Mère-Église;50;170;Écoquenéauville;78;6;84
+50;041;Hague;50;171;Éculleville;29;0;29
+50;129;Cherbourg-en-Cotentin;50;173;Équeurdreville-Hainneville;16392;491;16883
+50;591;Le Teilleul;50;179;Ferrières;50;0;50
+50;592;Tessy-Bocage;50;180;Fervaches;348;8;356
+50;041;Hague;50;187;Flottemanville-Hague;967;25;992
+50;436;Romagny Fontenay;50;189;Fontenay;318;7;325
+50;523;Sainte-Mère-Église;50;191;Foucarville;124;0;124
+50;197;Gavray-sur-Sienne;50;197;Gavray;1429;17;1446
+50;629;Vesly;50;201;Gerville-la-Forêt;92;1;93
+50;601;Torigny-les-Villes;50;202;Giéville;675;12;687
+50;129;Cherbourg-en-Cotentin;50;203;Glacerie;6070;140;6210
+50;236;La Haye;50;204;Glatigny;143;4;147
+50;209;Gonneville-Le Theil;50;209;Gonneville;879;21;900
+50;142;Vicq-sur-Mer;50;211;Gouberville;121;1;122
+50;400;Picauville;50;212;Gourbesville;168;6;174
+50;546;Bourgvallées;50;213;Gourfaleur;459;12;471
+50;215;Gouville-sur-Mer;50;215;Gouville-sur-Mer;2034;63;2097
+50;041;Hague;50;220;Gréville-Hague;700;20;720
+50;419;Quettreville-sur-Sienne;50;223;Guéhébert;130;0;130
+50;601;Torigny-les-Villes;50;224;Guilberville;1219;15;1234
+50;236;La Haye;50;236;Haye-du-Puits;1468;68;1536
+50;239;Thèreval;50;239;Hébécrevon;1134;31;1165
+50;419;Quettreville-sur-Sienne;50;244;Hérenguerville;200;6;206
+50;041;Hague;50;242;Herqueville;149;3;152
+50;591;Le Teilleul;50;245;Heussé;213;4;217
+50;409;Pont-Hébert;50;248;Hommet-d'Arthenay;345;172;517
+50;099;Carentan-les-Marais;50;249;Houesville;286;8;294
+50;400;Picauville;50;250;Houtteville;72;0;72
+50;591;Le Teilleul;50;254;Husson;171;6;177
+50;419;Quettreville-sur-Sienne;50;255;Hyenville;349;10;359
+50;041;Hague;50;257;Jobourg;488;8;496
+50;260;Juvigny les Vallées;50;260;Juvigny-le-Tertre;600;12;612
+50;267;Lessay;50;267;Lessay;1994;49;2043
+50;273;Montsenelle;50;273;Lithaire;575;8;583
+50;292;Marigny-Le-Lozon;50;280;Lozon;300;4;304
+50;410;Pontorson;50;284;Macey;108;0;108
+50;256;Isigny-le-Buat;50;286;Mancellière;283;12;295
+50;546;Bourgvallées;50;287;Mancellière-sur-Vire;519;14;533
+50;292;Marigny-Le-Lozon;50;292;Marigny;2356;54;2410
+50;391;Grandparigny;50;293;Martigny;278;8;286
+50;197;Gavray-sur-Sienne;50;301;Mesnil-Amand;162;4;166
+50;256;Isigny-le-Buat;50;306;Mesnil-Bœufs;187;5;192
+50;188;Folligny;50;309;Mesnil-Drey;226;4;230
+50;546;Bourgvallées;50;313;Mesnil-Herman;140;1;141
+50;363;Moyon Villages;50;316;Mesnil-Opac;249;12;261
+50;260;Juvigny les Vallées;50;318;Mesnil-Rainfray;214;1;215
+50;139;Condé-sur-Vire;50;319;Mesnil-Raoult;367;14;381
+50;197;Gavray-sur-Sienne;50;320;Mesnil-Rogues;149;2;151
+50;256;Isigny-le-Buat;50;322;Mesnil-Thébault;286;13;299
+50;260;Juvigny les Vallées;50;323;Mesnil-Tôve;234;5;239
+50;431;Remilly Les Marais;50;325;Mesnil-Vigot;223;4;227
+50;550;Saint-Sauveur-Villages;50;308;Mesnilbus;344;2;346
+50;391;Grandparigny;50;329;Milly;329;9;338
+50;236;La Haye;50;330;Mobecq;239;7;246
+50;400;Picauville;50;333;Moitiers-en-Bauptois;318;5;323
+50;487;Saint-James;50;337;Montanel;338;2;340
+50;388;Orval sur Sienne;50;339;Montchaton;300;11;311
+50;236;La Haye;50;343;Montgardon;472;7;479
+50;256;Isigny-le-Buat;50;344;Montgothier;243;11;254
+50;256;Isigny-le-Buat;50;346;Montigny;241;7;248
+50;099;Carentan-les-Marais;50;348;Montmartin-en-Graignes;604;8;612
+50;215;Gouville-sur-Mer;50;354;Montsurvent;472;13;485
+50;565;Sartilly-Baie-Bocage;50;355;Montviron;340;4;344
+50;417;Quettehou;50;358;Morsalines;205;3;208
+50;359;Mortain-Bocage;50;359;Mortain;1531;222;1753
+50;363;Moyon Villages;50;363;Moyon;1094;23;1117
+50;256;Isigny-le-Buat;50;367;Naftel;180;6;186
+50;142;Vicq-sur-Mer;50;375;Néville-sur-Mer;194;3;197
+50;590;Le Tanu;50;377;Noirpalu;105;0;105
+50;492;Saint-Jean-d'Elle;50;380;Notre-Dame-d'Elle;178;3;181
+50;359;Mortain-Bocage;50;381;Notre-Dame-du-Touchet;628;26;654
+50;041;Hague;50;385;Omonville-la-Petite;144;9;153
+50;041;Hague;50;386;Omonville-la-Rogue;471;14;485
+50;388;Orval sur Sienne;50;388;Orval;855;27;882
+50;391;Grandparigny;50;391;Parigny;1836;68;1904
+50;393;Percy-en-Normandie;50;393;Percy;2285;100;2385
+50;082;Bricquebec-en-Cotentin;50;396;Perques;206;5;211
+50;400;Picauville;50;400;Picauville;1908;12;1920
+50;444;Saint-Amand-Villages;50;404;Placy-Montaigu;234;2;236
+50;592;Tessy-Bocage;50;649;Pont-Farcy;544;9;553
+50;409;Pont-Hébert;50;409;Pont-Hébert;1587;38;1625
+50;410;Pontorson;50;410;Pontorson;3837;73;3910
+50;412;Port-Bail-sur-Mer;50;412;Portbail;1501;42;1543
+50;492;Saint-Jean-d'Elle;50;414;Précorbin;515;7;522
+50;273;Montsenelle;50;415;Prétot-Sainte-Suzanne;299;3;302
+50;129;Cherbourg-en-Cotentin;50;416;Querqueville;5097;113;5210
+50;417;Quettehou;50;417;Quettehou;1584;27;1611
+50;082;Bricquebec-en-Cotentin;50;418;Quettetot;702;18;720
+50;419;Quettreville-sur-Sienne;50;419;Quettreville-sur-Sienne;1487;22;1509
+50;523;Sainte-Mère-Église;50;427;Ravenoville;254;5;259
+50;431;Remilly Les Marais;50;431;Remilly-sur-Lozon;662;6;668
+50;142;Vicq-sur-Mer;50;432;Réthoville;132;2;134
+50;565;Sartilly-Baie-Bocage;50;434;Rochelle-Normande;350;11;361
+50;436;Romagny Fontenay;50;436;Romagny;980;37;1017
+50;550;Saint-Sauveur-Villages;50;438;Ronde-Haye;346;10;356
+50;167;Dragey-Ronthon;50;439;Ronthon;231;7;238
+50;639;Villedieu-les-Poêles-Rouffigny;50;440;Rouffigny;315;4;319
+50;492;Saint-Jean-d'Elle;50;441;Rouxeville;381;10;391
+50;444;Saint-Amand-Villages;50;444;Saint-Amand;2268;55;2323
+50;550;Saint-Sauveur-Villages;50;449;Saint-Aubin-du-Perron;253;1;254
+50;099;Carentan-les-Marais;50;458;Saint-Côme-du-Mont;501;10;511
+50;095;Canisy;50;465;Saint-Ébremond-de-Bonfossé;727;32;759
+50;564;Terre-et-Marais;50;470;Saint-Georges-de-Bohon;412;6;418
+50;041;Hague;50;477;Saint-Germain-des-Vaux;323;4;327
+50;484;Saint-Hilaire-du-Harcouët;50;484;Saint-Hilaire-du-Harcouët;3781;298;4079
+50;099;Carentan-les-Marais;50;485;Saint-Hilaire-Petitville;1354;27;1381
+50;487;Saint-James;50;487;Saint-James;2750;67;2817
+50;492;Saint-Jean-d'Elle;50;492;Saint-Jean-des-Baisants;1266;33;1299
+50;359;Mortain-Bocage;50;494;Saint-Jean-du-Corail;238;6;244
+50;273;Montsenelle;50;497;Saint-Jores;370;5;375
+50;493;Saint-Jean-des-Champs;50;501;Saint-Léger;94;0;94
+50;412;Port-Bail-sur-Mer;50;503;Saint-Lô-d'Ourville;495;15;510
+50;484;Saint-Hilaire-du-Harcouët;50;515;Saint-Martin-de-Landelles;1142;26;1168
+50;025;Avranches;50;516;Saint-Martin-des-Champs;2362;90;2452
+50;082;Bricquebec-en-Cotentin;50;520;Saint-Martin-le-Hébert;167;2;169
+50;550;Saint-Sauveur-Villages;50;524;Saint-Michel-de-la-Pierre;218;6;224
+50;066;Jullouville;50;526;Saint-Michel-des-Loups;608;17;625
+50;099;Carentan-les-Marais;50;534;Saint-Pellerin;361;5;366
+50;236;La Haye;50;544;Saint-Rémy-des-Landes;214;2;216
+50;546;Bourgvallées;50;545;Saint-Romphaire;760;16;776
+50;546;Bourgvallées;50;546;Saint-Samson-de-Bonfossé;879;21;900
+50;550;Saint-Sauveur-Villages;50;550;Saint-Sauveur-Lendelin;1739;115;1854
+50;090;Buais-Les-Monts;50;557;Saint-Symphorien-des-Monts;125;3;128
+50;236;La Haye;50;558;Saint-Symphorien-le-Valois;816;21;837
+50;493;Saint-Jean-des-Champs;50;561;Saint-Ursin;183;2;185
+50;041;Hague;50;460;Sainte-Croix-Hague;779;14;793
+50;591;Le Teilleul;50;508;Sainte-Marie-du-Bois;59;5;64
+50;523;Sainte-Mère-Église;50;523;Sainte-Mère-Église;1604;27;1631
+50;564;Terre-et-Marais;50;564;Sainteny;887;22;909
+50;565;Sartilly-Baie-Bocage;50;565;Sartilly;1601;30;1631
+50;215;Gouville-sur-Mer;50;573;Servigny;199;3;202
+50;546;Bourgvallées;50;581;Soulles;483;4;487
+50;582;Sourdeval;50;582;Sourdeval;2716;58;2774
+50;197;Gavray-sur-Sienne;50;583;Sourdeval-les-Bois;223;2;225
+50;236;La Haye;50;586;Surville;198;2;200
+50;591;Le Teilleul;50;591;Teilleul;1188;12;1200
+50;592;Tessy-Bocage;50;592;Tessy-sur-Vire;1425;28;1453
+50;209;Gonneville-Le Theil;50;595;Theil;653;24;677
+50;041;Hague;50;600;Tonneville;604;26;630
+50;601;Torigny-les-Villes;50;601;Torigni-sur-Vire;2318;26;2344
+50;129;Cherbourg-en-Cotentin;50;602;Tourlaville;16040;479;16519
+50;419;Quettreville-sur-Sienne;50;605;Trelly;655;18;673
+50;139;Condé-sur-Vire;50;608;Troisgots;343;2;345
+50;041;Hague;50;611;Urville-Nacqueville;2067;106;2173
+50;082;Bricquebec-en-Cotentin;50;614;Valdécie;145;4;149
+50;041;Hague;50;620;Vasteville;1153;32;1185
+50;550;Saint-Sauveur-Villages;50;622;Vaudrimesnil;468;12;480
+50;041;Hague;50;623;Vauville;370;13;383
+50;582;Sourdeval;50;625;Vengeons;449;6;455
+50;487;Saint-James;50;627;Vergoncey;188;10;198
+50;410;Pontorson;50;630;Vessey;385;5;390
+50;099;Carentan-les-Marais;50;631;Veys;441;10;451
+50;256;Isigny-le-Buat;50;632;Vezins;265;7;272
+50;492;Saint-Jean-d'Elle;50;635;Vidouville;139;2;141
+50;099;Carentan-les-Marais;50;636;Vierville;32;4;36
+50;359;Mortain-Bocage;50;638;Villechien;172;5;177
+50;639;Villedieu-les-Poêles-Rouffigny;50;639;Villedieu-les-Poêles;3550;71;3621
+50;487;Saint-James;50;640;Villiers-le-Pré;187;5;192
+50;400;Picauville;50;642;Vindefontaine;313;8;321
+50;484;Saint-Hilaire-du-Harcouët;50;644;Virey;1009;33;1042
+50;082;Bricquebec-en-Cotentin;50;646;Vrétot;635;18;653
+51;158;Val-des-Marais;51;021;Aulnay-aux-Planches;88;1;89
+51;158;Val-des-Marais;51;024;Aulnizeux;28;2;30
+51;030;Aÿ-Champagne;51;030;Ay;3686;54;3740
+51;030;Aÿ-Champagne;51;064;Bisseuil;620;7;627
+51;075;Bourgogne-Fresne;51;075;Bourgogne;988;24;1012
+51;171;Cormicy;51;171;Cormicy;1443;26;1469
+51;075;Bourgogne-Fresne;51;261;Fresne-lès-Reims;421;9;430
+51;171;Cormicy;51;664;Gernicourt;42;0;42
+51;612;Blancs-Coteaux;51;271;Gionges;239;75;314
+51;564;Val de Livre;51;331;Louvois;335;4;339
+51;030;Aÿ-Champagne;51;347;Mareuil-sur-Ay;1145;27;1172
+51;158;Val-des-Marais;51;383;Morains;96;1;97
+51;248;Fère-Champenoise;51;405;Normée;61;0;61
+51;612;Blancs-Coteaux;51;411;Oger;510;10;520
+52;182;Éclaron-Braucourt-Sainte-Livière;51;494;Sainte-Livière;270;3;273
+51;564;Val de Livre;51;564;Tauxières-Mutry;285;12;297
+51;611;Vert-Toulon;51;575;Toulon-la-Montagne;25;0;25
+51;612;Blancs-Coteaux;51;612;Vertus;2337;85;2422
+51;612;Blancs-Coteaux;51;651;Voipreux;237;6;243
+52;088;Ceffonds;52;010;Anglus;57;5;62
+52;140;Colombey les Deux Églises;52;018;Argentolles;39;0;39
+52;273;Larivière-Arnoncourt;52;020;Arnoncourt-sur-Apance;18;1;19
+52;497;Troisfontaines-la-Ville;52;032;Avrainville;136;3;139
+52;449;Saints-Geosmes;52;036;Balesmes-sur-Marne;237;7;244
+52;400;Le Châtelet-sur-Meuse;52;041;Beaucharmoy;46;0;46
+52;140;Colombey les Deux Églises;52;049;Biernes;42;2;44
+52;140;Colombey les Deux Églises;52;052;Blaise;82;3;85
+52;008;Andelot-Blancheville;52;054;Blancheville;102;1;103
+52;064;Bourmont-entre-Meuse-et-Mouzon;52;064;Bourmont;332;13;345
+52;182;Éclaron-Braucourt-Sainte-Livière;52;068;Braucourt;177;3;180
+52;491;Thonnance-les-Moulins;52;071;Bressoncourt;3;2;5
+52;123;Chevillon;52;073;Breuil-sur-Marne;107;1;108
+52;197;Fayl-Billot;52;077;Broncourt;62;1;63
+52;121;Chaumont;52;078;Brottes;769;386;1155
+52;491;Thonnance-les-Moulins;52;080;Brouthières;8;0;8
+52;426;Rizaucourt-Buchey;52;081;Buchey;21;0;21
+52;140;Colombey les Deux Églises;52;100;Champcourt;55;0;55
+52;432;Rolampont;52;111;Charmoilles;89;4;93
+52;197;Fayl-Billot;52;112;Charmoy;84;2;86
+52;189;Le Val-d'Esnoms;52;117;Chatoillenot;119;8;127
+52;074;Breuvannes-en-Bassigny;52;139;Colombey-lès-Choiseul;98;4;102
+52;140;Colombey les Deux Églises;52;140;Colombey-les-Deux-Églises;352;16;368
+52;083;Champsevraine;52;143;Corgirnon;299;7;306
+52;269;Langres;52;144;Corlée;205;4;209
+52;189;Le Val-d'Esnoms;52;150;Courcelles-Val-d'Esnoms;119;0;119
+52;114;Châteauvillain;52;153;Créancey;187;3;190
+52;205;Foulain;52;154;Crenay;232;2;234
+52;126;Choilley-Dardenay;52;166;Dardenay;82;4;86
+52;353;Nogent;52;176;Donnemarie;61;3;64
+52;411;Rives Dervoises;52;180;Droyes;434;6;440
+52;332;Val-de-Meuse;52;186;Épinant;79;1;80
+52;187;Épizon;52;187;Épizon;138;2;140
+52;353;Nogent;52;191;Essey-les-Eaux;53;0;53
+52;114;Châteauvillain;52;192;Essey-les-Ponts;101;0;101
+52;497;Troisfontaines-la-Ville;52;202;Flornoy;82;3;85
+52;377;Parnoy-en-Bassigny;52;209;Fresnoy-en-Bassigny;124;3;127
+70;122;Champlitte;52;210;Frettes;114;4;118
+52;060;Bourbonne-les-Bains;52;215;Genrupt;60;0;60
+52;064;Bourmont-entre-Meuse-et-Mouzon;52;224;Gonaincourt;55;0;55
+52;064;Bourmont-entre-Meuse-et-Mouzon;52;225;Goncourt;300;22;322
+52;265;Bayard-sur-Marne;52;226;Gourzon;492;12;504
+52;288;Lezéville;52;236;Harméville;39;0;39
+52;140;Colombey les Deux Églises;52;238;Harricourt;47;0;47
+52;529;Villegusien-le-Lac;52;239;Heuilley-Cotton;296;7;303
+52;246;Humes-Jorquenay;52;252;Jorquenay;139;3;142
+52;251;Jonchery;52;259;Laharmand;128;4;132
+52;094;Vals-des-Tilles;52;261;Lamargelle-aux-Bois;19;0;19
+52;140;Colombey les Deux Églises;52;262;Lamothe-en-Blaisy;57;1;58
+52;173;Domremy-Landéville;52;263;Landéville;16;1;17
+52;288;Lezéville;52;268;Laneuville-au-Bois;38;0;38
+52;432;Rolampont;52;270;Lannes;181;0;181
+52;140;Colombey les Deux Églises;52;279;Lavilleneuve-aux-Fresnes;22;0;22
+52;332;Val-de-Meuse;52;281;Lécourt;57;1;58
+52;332;Val-de-Meuse;52;283;Lénizeul;92;0;92
+52;411;Rives Dervoises;52;293;Longeville-sur-la-Laines;415;11;426
+52;411;Rives Dervoises;52;296;Louze;303;12;315
+52;456;Saint-Urbain-Maconcourt;52;299;Maconcourt;43;1;44
+52;058;Bologne;52;309;Marault;250;5;255
+52;114;Châteauvillain;52;314;Marmesse;62;0;62
+52;332;Val-de-Meuse;52;317;Maulain;64;0;64
+52;074;Breuvannes-en-Bassigny;52;324;Meuvy;78;1;79
+52;388;Pierremont-sur-Amance;52;329;Montesson;36;0;36
+52;331;Porte du Der;52;331;Montier-en-Der;1966;57;2023
+52;242;Haute-Amance;52;333;Montlandon;170;0;170
+52;469;Semoutiers-Montsaon;52;339;Montsaon;120;5;125
+52;405;Le Montsaugeonnais;52;340;Montsaugeon;85;1;86
+52;094;Vals-des-Tilles;52;345;Musseau;47;0;47
+52;064;Bourmont-entre-Meuse-et-Mouzon;52;351;Nijon;105;0;105
+52;353;Nogent;52;361;Odival;193;4;197
+52;274;Latrecey-Ormoy-sur-Aube;52;368;Ormoy-sur-Aube;55;3;58
+52;187;Épizon;52;379;Pautaines-Augeville;21;2;23
+52;292;Longeau-Percey;52;381;Percey-le-Pautel;209;6;215
+52;158;Cusey;52;382;Percey-sous-Montormentier;123;0;123
+52;384;Perrogney-les-Fontaines;52;389;Pierrefontaines;28;0;28
+52;140;Colombey les Deux Églises;52;404;Pratz;15;0;15
+52;405;Le Montsaugeonnais;52;405;Prauthoy;408;10;418
+52;265;Bayard-sur-Marne;52;408;Prez-sur-Marne;219;5;224
+52;211;Froncles;52;409;Provenchères-sur-Marne;59;0;59
+52;332;Val-de-Meuse;52;410;Provenchères-sur-Meuse;238;5;243
+52;411;Rives Dervoises;52;411;Puellemontier;198;20;218
+52;050;Biesles;52;412;Puits-des-Mèzes;199;7;206
+52;332;Val-de-Meuse;52;417;Ravennefontaines;68;2;70
+52;332;Val-de-Meuse;52;418;Récourt;63;0;63
+52;331;Porte du Der;52;427;Robert-Magny;324;8;332
+52;058;Bologne;52;434;Roôcourt-la-Côte;211;3;214
+52;242;Haute-Amance;52;435;Rosoy-sur-Amance;193;3;196
+52;479;Sommevoire;52;441;Rozières;68;1;69
+52;031;Autreville-sur-la-Renne;52;451;Saint-Martin-sur-la-Renne;84;1;85
+52;449;Saints-Geosmes;52;449;Saints-Geosmes;886;25;911
+52;251;Jonchery;52;460;Sarcicourt;183;3;186
+52;177;Doulaincourt-Saucourt;52;462;Saucourt-sur-Rognon;143;0;143
+52;088;Ceffonds;52;466;Sauvage-Magny;51;1;52
+52;118;Chatonrupt-Sommermont;52;477;Sommermont;55;1;56
+52;123;Chevillon;52;478;Sommeville;277;4;281
+52;491;Thonnance-les-Moulins;52;481;Soulaincourt;27;0;27
+52;242;Haute-Amance;52;496;Troischamps;65;0;65
+52;432;Rolampont;52;498;Tronchoy;57;2;59
+52;031;Autreville-sur-la-Renne;52;501;Valdelancourt;92;4;96
+52;544;Voisey;52;508;Vaux-la-Douce;25;0;25
+52;405;Le Montsaugeonnais;52;509;Vaux-sous-Aubigny;734;11;745
+52;383;Perrancey-les-Vieux-Moulins;52;521;Vieux-Moulins;76;1;77
+52;060;Bourbonne-les-Bains;52;527;Villars-Saint-Marcellin;105;1;106
+52;529;Villegusien-le-Lac;52;529;Villegusien-le-Lac;700;11;711
+52;094;Vals-des-Tilles;52;530;Villemervry;27;0;27
+52;094;Vals-des-Tilles;52;531;Villemoron;46;1;47
+52;497;Troisfontaines-la-Ville;52;532;Villiers-aux-Bois;116;1;117
+52;178;Doulevant-le-Château;52;533;Villiers-aux-Chênes;60;3;63
+52;230;Gudmont-Villiers;52;537;Villiers-sur-Marne;99;2;101
+53;124;Prée-d'Anjou;53;004;Ampoigné;565;9;574
+53;029;Bierné-les-Villages;53;006;Argenton-Notre-Dame;215;4;219
+53;062;Château-Gontier-sur-Mayenne;53;014;Azé;3421;235;3656
+53;017;Val-du-Maine;53;017;Ballée;687;24;711
+53;029;Bierné-les-Villages;53;029;Bierné;678;18;696
+53;228;Blandouet-Saint Jean;53;032;Blandouet;195;2;197
+53;118;Le Housseau-Brétignolles;53;044;Brétignolles-le-Moulin;58;0;58
+53;255;Sainte-Suzanne-et-Chammes;53;050;Chammes;351;7;358
+53;121;Javron-les-Chapelles;53;060;Chapelles;152;3;155
+53;062;Château-Gontier-sur-Mayenne;53;062;Château-Gontier;11805;374;12179
+53;097;Évron;53;065;Châtres-la-Forêt;793;19;812
+53;161;Montsûrs;53;092;Deux-Évailles;198;5;203
+53;017;Val-du-Maine;53;095;Épineux-le-Seguin;255;3;258
+53;097;Évron;53;097;Évron;7048;192;7240
+53;104;Gennes-Longuefuye;53;104;Gennes-sur-Glaize;1004;16;1020
+53;124;Prée-d'Anjou;53;124;Laigné;842;34;876
+53;136;Roche-Neuville;53;136;Loigné-sur-Mayenne;931;30;961
+53;137;Loiron-Ruillé;53;137;Loiron;1722;32;1754
+53;104;Gennes-Longuefuye;53;138;Longuefuye;326;7;333
+53;161;Montsûrs;53;159;Montourtier;367;5;372
+53;161;Montsûrs;53;161;Montsûrs;1961;42;2003
+53;185;Pré-en-Pail-Saint-Samson;53;185;Pré-en-Pail;1888;75;1963
+53;137;Loiron-Ruillé;53;194;Ruillé-le-Gravelais;993;30;1023
+53;161;Montsûrs;53;205;Saint-Céneré;473;8;481
+53;097;Évron;53;207;Saint-Christophe-du-Luat;766;15;781
+53;062;Château-Gontier-sur-Mayenne;53;215;Saint-Fort;1687;54;1741
+53;228;Blandouet-Saint Jean;53;228;Saint-Jean-sur-Erve;395;13;408
+53;029;Bierné-les-Villages;53;231;Saint-Laurent-des-Mortiers;179;5;184
+53;029;Bierné-les-Villages;53;241;Saint-Michel-de-Feins;177;5;182
+53;161;Montsûrs;53;244;Saint-Ouën-des-Vallons;182;1;183
+53;185;Pré-en-Pail-Saint-Samson;53;252;Saint-Samson;423;8;431
+53;136;Roche-Neuville;53;254;Saint-Sulpice;244;7;251
+53;255;Sainte-Suzanne-et-Chammes;53;255;Sainte-Suzanne;931;24;955
+54;099;Val de Briey;54;099;Briey;5674;197;5871
+54;099;Val de Briey;54;341;Mance;613;14;627
+54;099;Val de Briey;54;342;Mancieulles;1861;29;1890
+54;557;Bois-de-Haye;54;506;Sexey-les-Bois;380;6;386
+54;557;Bois-de-Haye;54;557;Velaine-en-Haye;1900;93;1993
+55;040;Beausite;55;006;Amblaincourt;15;0;15
+55;184;Euville;55;016;Aulnois-sous-Vertuzey;315;10;325
+55;388;Noyers-Auzécourt;55;019;Auzécourt;91;3;94
+55;117;Clermont-en-Argonne;55;020;Auzéville-en-Argonne;189;5;194
+55;150;Demange-Baudignécourt;55;030;Baudignécourt;63;0;63
+55;551;Vigneulles-lès-Hattonchâtel;55;052;Billy-sous-les-Côtes;119;3;122
+55;385;Nixéville-Blercourt;55;056;Blercourt;144;1;145
+55;389;Nubécourt;55;086;Bulainville;44;2;46
+55;093;Buxières-sous-les-Côtes;55;092;Buxerulles;84;1;85
+55;358;Chanteraine;55;112;Chennevières;29;0;29
+55;258;Geville;55;126;Corniéville;177;6;183
+55;518;Cousances-lès-Triconville;55;131;Cousances-au-Bois;61;0;61
+55;551;Vigneulles-lès-Hattonchâtel;55;136;Creuë;218;3;221
+55;274;Lamorville;55;151;Deuxnouds-aux-Bois;46;1;47
+55;040;Beausite;55;152;Deuxnouds-devant-Beauzée;52;2;54
+55;179;Erneville-aux-Bois;55;161;Domremy-aux-Bois;59;2;61
+55;537;Douaumont-Vaux;55;164;Douaumont;4;0;4
+55;442;Raival;55;176;Érize-la-Grande;88;0;88
+55;389;Nubécourt;55;190;Fleury-sur-Aire;88;1;89
+55;123;Les Hauts-de-Chée;55;203;Génicourt-sous-Condé;40;4;44
+55;026;Badonvilliers-Gérauvilliers;55;205;Gérauvilliers;62;1;63
+55;258;Geville;55;213;Gironville-sous-les-Côtes;190;6;196
+55;267;Lachaussée;55;223;Hadonville-lès-Lachaussée;35;0;35
+55;571;Vilosnes-Haraumont;55;230;Haraumont;51;2;53
+55;123;Les Hauts-de-Chée;55;231;Hargeville-sur-Chée;129;2;131
+55;551;Vigneulles-lès-Hattonchâtel;55;233;Hattonchâtel;100;2;102
+55;551;Vigneulles-lès-Hattonchâtel;55;234;Hattonville;188;3;191
+55;500;Spincourt;55;235;Haucourt-la-Rigole;66;0;66
+55;267;Lachaussée;55;238;Haumont-lès-Lachaussée;77;1;78
+55;002;Abaucourt-Hautecourt;55;240;Hautecourt-lès-Broville;32;2;34
+55;500;Spincourt;55;249;Houdelaucourt-sur-Othain;58;0;58
+55;117;Clermont-en-Argonne;55;259;Jubécourt;72;0;72
+55;386;Nonsard-Lamarche;55;273;Lamarche-en-Woëvre;23;2;25
+55;274;Lamorville;55;283;Lavignéville;58;1;59
+55;276;Landrecourt-Lempire;55;287;Lempire-aux-Bois;52;1;53
+55;012;Apremont-la-Forêt;55;294;Liouville;59;1;60
+55;123;Les Hauts-de-Chée;55;305;Louppy-sur-Chée;127;2;129
+55;179;Erneville-aux-Bois;55;308;Loxéville;44;0;44
+55;215;Gondrecourt-le-Château;55;309;Luméville-en-Ornois;51;0;51
+55;114;Chonville-Malaumont;55;314;Malaumont;35;0;35
+55;123;Les Hauts-de-Chée;55;318;Marats;110;2;112
+55;012;Apremont-la-Forêt;55;319;Marbotte;60;2;62
+55;254;Les Trois-Domaines;55;342;Mondrecourt;24;0;24
+55;358;Chanteraine;55;390;Oëy;60;3;63
+55;500;Spincourt;55;392;Ollières;13;0;13
+55;191;Foameix-Ornel;55;393;Ornel;14;2;16
+55;117;Clermont-en-Argonne;55;402;Parois;77;3;80
+55;497;Les Souhesmes-Rampont;55;413;Rampont;96;1;97
+55;500;Spincourt;55;418;Réchicourt;62;2;64
+55;254;Les Trois-Domaines;55;432;Rignaucourt;25;0;25
+55;369;Naives-Rosières;55;440;Rosières-devant-Bar;250;4;254
+55;148;Delouze-Rosières;55;441;Rosières-en-Blois;34;1;35
+55;012;Apremont-la-Forêt;55;451;Saint-Agnant-sous-les-Côtes;93;0;93
+55;551;Vigneulles-lès-Hattonchâtel;55;455;Saint-Benoît-en-Woëvre;41;1;42
+55;530;Valbois;55;478;Savonnières-en-Woëvre;13;0;13
+55;517;Seuil-d'Argonne;55;480;Senard;63;1;64
+55;530;Valbois;55;483;Senonville;45;0;45
+55;040;Beausite;55;486;Seraucourt;12;0;12
+55;423;Rembercourt-Sommaisne;55;491;Sommaisne;24;0;24
+55;274;Lamorville;55;499;Spada;93;2;95
+55;215;Gondrecourt-le-Château;55;513;Tourailles-sous-Bois;30;0;30
+55;537;Douaumont-Vaux;55;537;Vaux-devant-Damloup;76;0;76
+55;472;Saulvaux;55;538;Vaux-la-Grande;21;1;22
+55;472;Saulvaux;55;539;Vaux-la-Petite;20;1;21
+55;186;Fains-Véel;55;542;Véel;356;13;369
+55;184;Euville;55;548;Vertuzey;229;5;234
+55;551;Vigneulles-lès-Hattonchâtel;55;550;Viéville-sous-les-Côtes;213;6;219
+55;184;Euville;55;558;Ville-Issey;304;5;309
+55;093;Buxières-sous-les-Côtes;55;585;Woinville;79;1;80
+56;173;Pluméliau-Bieuzy;56;016;Bieuzy;776;12;788
+56;197;Val d'Oust;56;037;Chapelle-Caro;1428;50;1478
+56;061;Gacilly;56;038;Chapelle-Gaceline;765;18;783
+56;102;Forges de Lanouée;56;059;Forges;440;6;446
+56;061;Gacilly;56;061;Gacilly;2320;41;2361
+56;061;Gacilly;56;064;Glénac;894;21;915
+56;102;Forges de Lanouée;56;102;Lanouée;1754;44;1798
+56;165;Ploërmel;56;138;Monterrein;396;4;400
+56;144;Évellys;56;142;Moustoir-Remungol;704;18;722
+56;144;Évellys;56;144;Naizin;1803;28;1831
+56;251;Theix-Noyalo;56;150;Noyalo;894;19;913
+56;033;Carentoir;56;183;Quelneuc;516;9;525
+56;197;Val d'Oust;56;187;Quily;355;5;360
+56;144;Évellys;56;192;Remungol;970;17;987
+56;197;Val d'Oust;56;197;Roc-Saint-André;948;19;967
+57;021;Ancy-Dornot;57;021;Ancy-sur-Moselle;1370;27;1397
+57;086;Belles-Forêts;57;023;Angviller-lès-Bisping;89;1;90
+57;209;Faulquemont;57;135;Chémery;109;3;112
+57;148;Colligny-Maizery;57;148;Colligny;394;7;401
+57;132;Château-Salins;57;157;Coutures;208;4;212
+57;021;Ancy-Dornot;57;184;Dornot;169;3;172
+57;252;Gomelange;57;279;Guirlange;31;0;31
+57;097;Boulay-Moselle;57;285;Halling-lès-Boulay;130;1;131
+57;155;Courcelles-Chaussy;57;378;Landonvillers;400;6;406
+57;150;Condé-Northen;57;420;Loutremange;21;0;21
+57;148;Colligny-Maizery;57;432;Maizery;181;4;185
+57;439;Manderen-Ritzing;57;439;Manderen;417;10;427
+57;482;Ogy-Montoy-Flanville;57;482;Montoy-Flanville;1274;18;1292
+57;482;Ogy-Montoy-Flanville;57;523;Ogy;468;12;480
+57;578;Rezonville-Vionville;57;578;Rezonville;312;5;317
+57;439;Manderen-Ritzing;57;585;Ritzing;179;3;182
+57;542;Piblange;57;608;Saint-Bernard;62;1;63
+57;578;Rezonville-Vionville;57;722;Vionville;188;1;189
+58;204;Vaux d'Amognes;58;022;Balleray;201;4;205
+58;026;Beaulieu;58;026;Beaulieu;25;1;26
+58;086;Cosne-Cours-sur-Loire;58;091;Cours;1730;26;1756
+58;026;Beaulieu;58;100;Dompierre-sur-Héry;76;4;80
+58;026;Beaulieu;58;167;Michaugues;49;4;53
+58;204;Vaux d'Amognes;58;204;Ourouër;341;4;345
+59;588;Téteghem-Coudekerque-Village;59;154;Coudekerque-Village;1385;36;1421
+59;183;Dunkerque;59;248;Fort-Mardyck;3426;19;3445
+59;260;Ghyvelde;59;260;Ghyvelde;3176;49;3225
+59;350;Lille;59;298;Hellemmes-Lille;18437;136;18573
+59;350;Lille;59;355;Lomme;28006;206;28212
+59;183;Dunkerque;59;380;Mardyck;317;7;324
+59;260;Ghyvelde;59;404;Moëres;988;11;999
+59;183;Dunkerque;59;540;Saint-Pol-sur-Mer;20479;131;20610
+59;631;Walincourt-Selvigny;59;561;Selvigny;376;5;381
+59;588;Téteghem-Coudekerque-Village;59;588;Téteghem;6926;185;7111
+60;088;Bornel;60;018;Anserville;469;12;481
+60;029;Auneuil;60;029;Auneuil;2679;56;2735
+60;256;Montchevreuil;60;038;Bachivillers;546;9;555
+60;054;Hauts-Talican;60;054;Beaumont-les-Nonains;343;7;350
+60;209;Corne-en-Vexin;60;080;Boissy-le-Bois;187;5;192
+60;245;Formerie;60;096;Boutavent;116;1;117
+60;196;La Drenne;60;196;Déluge;564;5;569
+60;209;Corne-en-Vexin;60;209;Énencourt-le-Sec;185;3;188
+60;245;Formerie;60;245;Formerie;2004;27;2031
+60;088;Bornel;60;246;Fosseuse;729;9;738
+60;256;Montchevreuil;60;256;Fresneaux-Montchevreuil;755;17;772
+60;209;Corne-en-Vexin;60;300;Hardivillers-en-Vexin;163;2;165
+60;570;Saint-Crépin-Ibouvillers;60;417;Montherlant;158;0;158
+60;196;La Drenne;60;453;Neuville-d'Aumont;322;9;331
+60;054;Hauts-Talican;60;455;Neuville-Garnier;256;4;260
+60;682;Villers-Saint-Frambourg-Ognon;60;475;Ognon;159;2;161
+60;196;La Drenne;60;532;Ressons-l'Abbaye;123;2;125
+60;570;Saint-Crépin-Ibouvillers;60;570;Saint-Crépin-Ibouvillers;1390;24;1414
+60;644;Trie-Château;60;644;Trie-Château;1610;18;1628
+60;029;Auneuil;60;649;Troussures;185;4;189
+60;682;Villers-Saint-Frambourg-Ognon;60;682;Villers-Saint-Frambourg;553;36;589
+60;644;Trie-Château;60;690;Villers-sur-Trie;324;13;337
+60;054;Hauts-Talican;60;694;Villotran;273;10;283
+61;167;La Ferté-en-Ouche;61;003;Anceins;207;3;210
+61;168;Ferté Macé;61;004;Antoigny;126;2;128
+61;007;Athis-Val de Rouvre;61;007;Athis-de-l'Orne;2525;60;2585
+61;474;Gouffern en Auge;61;009;Aubry-en-Exmes;323;10;333
+61;491;Tourouvre au Perche;61;016;Autheuil;132;2;134
+61;474;Gouffern en Auge;61;019;Avernes-sous-Exmes;83;1;84
+61;483;Bagnoles de l'Orne Normandie;61;483;Bagnoles-de-l'Orne;2388;43;2431
+61;211;Juvigny Val d'Andaine;61;025;Baroche-sous-Lucé;386;9;395
+61;153;Écouché-les-Vallées;61;027;Batilly;135;6;141
+61;486;Tinchebray-Bocage;61;031;Beauchêne;249;3;252
+61;211;Juvigny Val d'Andaine;61;033;Beaulandais;165;3;168
+61;491;Tourouvre au Perche;61;045;Bivilliers;63;1;64
+61;167;La Ferté-en-Ouche;61;047;Bocquencé;150;3;153
+61;474;Gouffern en Auge;61;057;Bourg-Saint-Léonard;397;8;405
+61;007;Athis-Val de Rouvre;61;058;Bréel;124;0;124
+61;491;Tourouvre au Perche;61;059;Bresolettes;24;1;25
+61;491;Tourouvre au Perche;61;065;Bubertré;134;7;141
+61;007;Athis-Val de Rouvre;61;073;Carneille;587;10;597
+61;081;Chailloué;61;081;Chailloué;616;15;631
+61;474;Gouffern en Auge;61;083;Chambois;387;7;394
+61;491;Tourouvre au Perche;61;090;Champs;80;3;83
+61;096;Rives d'Andaine;61;096;Chapelle-d'Andaine;1460;39;1499
+61;339;Putanges-le-Lac;61;106;Chênedouit;172;1;173
+61;292;Montsecret-Clairefougère;61;109;Clairefougère;124;0;124
+61;474;Gouffern en Auge;61;110;Cochère;150;3;153
+61;309;Perche en Nocé;61;112;Colonard-Corubert;245;6;251
+61;116;Sablons sur Huisne;61;116;Condé-sur-Huisne;1316;19;1335
+61;116;Sablons sur Huisne;61;115;Condeau;379;9;388
+61;116;Sablons sur Huisne;61;125;Coulonges-les-Sablons;416;13;429
+61;153;Écouché-les-Vallées;61;127;Courbe;62;4;66
+61;474;Gouffern en Auge;61;131;Courménil;121;2;123
+61;096;Rives d'Andaine;61;135;Couterne;1089;29;1118
+61;167;La Ferté-en-Ouche;61;136;Couvains;203;4;207
+61;309;Perche en Nocé;61;144;Dancé;349;11;360
+61;145;Domfront en Poiraie;61;145;Domfront;3473;105;3578
+61;153;Écouché-les-Vallées;61;153;Écouché;1268;26;1294
+61;196;Belforêt-en-Perche;61;154;Eperrais;115;4;119
+61;324;Passais Villages;61;155;Épinay-le-Comte;167;1;168
+61;474;Gouffern en Auge;61;157;Exmes;273;6;279
+61;474;Gouffern en Auge;61;161;Fel;275;3;278
+61;167;La Ferté-en-Ouche;61;167;Ferté-Frênel;623;10;633
+61;228;Orée-d'Écouves;61;172;Fontenai-les-Louvets;273;6;279
+61;153;Écouché-les-Vallées;61;173;Fontenai-sur-Orne;316;6;322
+61;339;Putanges-le-Lac;61;174;Forêt-Auvray;171;4;175
+61;341;Écouves;61;175;Forges;215;8;223
+61;486;Tinchebray-Bocage;61;177;Frênes;821;24;845
+61;339;Putanges-le-Lac;61;179;Fresnaye-au-Sauvage;230;4;234
+61;167;La Ferté-en-Ouche;61;184;Gauville;573;18;591
+61;484;Val-au-Perche;61;185;Gémages;118;0;118
+61;096;Rives d'Andaine;61;186;Geneslay;278;2;280
+61;167;La Ferté-en-Ouche;61;191;Glos-la-Ferrière;507;8;515
+61;194;Monts-sur-Orne;61;194;Goulet;388;6;394
+61;196;Belforêt-en-Perche;61;196;Gué-de-la-Chaîne;741;19;760
+61;096;Rives d'Andaine;61;200;Haleine;223;38;261
+61;145;Domfront en Poiraie;61;201;Haute-Chapelle;549;15;564
+61;484;Val-au-Perche;61;204;Hermitière;208;10;218
+61;167;La Ferté-en-Ouche;61;205;Heugon;208;3;211
+61;211;Juvigny Val d'Andaine;61;211;Juvigny-sous-Andaine;984;28;1012
+61;230;Longny les Villages;61;220;Lande-sur-Eure;163;3;166
+61;486;Tinchebray-Bocage;61;223;Larchamp;303;3;306
+61;491;Tourouvre au Perche;61;226;Lignerolles;162;7;169
+61;228;Orée-d'Écouves;61;228;Livaie;206;5;211
+61;230;Longny les Villages;61;230;Longny-au-Perche;1393;20;1413
+61;228;Orée-d'Écouves;61;231;Longuenoë;120;2;122
+61;211;Juvigny Val d'Andaine;61;235;Loré;175;4;179
+61;153;Écouché-les-Vallées;61;236;Loucé;109;1;110
+61;211;Juvigny Val d'Andaine;61;239;Lucé;76;3;79
+61;484;Val-au-Perche;61;246;Mâle;691;18;709
+61;230;Longny les Villages;61;247;Malétable;112;2;114
+61;375;Boischampré;61;249;Marcei;208;13;221
+61;230;Longny les Villages;61;250;Marchainville;247;2;249
+61;081;Chailloué;61;253;Marmouillé;126;7;133
+61;339;Putanges-le-Lac;61;270;Ménil-Jean;118;2;120
+61;230;Longny les Villages;61;280;Monceaux-au-Perche;64;2;66
+61;167;La Ferté-en-Ouche;61;282;Monnai;265;3;268
+61;194;Monts-sur-Orne;61;285;Montgaroult;373;7;380
+61;292;Montsecret-Clairefougère;61;292;Montsecret;533;9;542
+61;294;Mortrée;61;294;Mortrée;1026;24;1050
+61;230;Longny les Villages;61;296;Moulicent;286;3;289
+61;429;Charencey;61;299;Moussonvilliers;219;7;226
+61;230;Longny les Villages;61;305;Neuilly-sur-Eure;567;11;578
+61;081;Chailloué;61;306;Neuville-près-Sées;144;3;147
+61;309;Perche en Nocé;61;309;Nocé;731;17;748
+61;429;Charencey;61;311;Normandel;92;2;94
+61;007;Athis-Val de Rouvre;61;313;Notre-Dame-du-Rocher;53;0;53
+61;474;Gouffern en Auge;61;315;Omméel;114;3;117
+61;196;Belforêt-en-Perche;61;318;Origny-le-Butin;96;4;100
+61;460;Sap-en-Auge;61;320;Orville;105;0;105
+61;324;Passais Villages;61;324;Passais;780;7;787
+61;196;Belforêt-en-Perche;61;325;Perrière;232;11;243
+61;491;Tourouvre au Perche;61;335;Poterie-au-Perche;136;1;137
+61;309;Perche en Nocé;61;337;Préaux-du-Perche;487;25;512
+61;491;Tourouvre au Perche;61;338;Prépotin;121;2;123
+61;339;Putanges-le-Lac;61;339;Putanges-Pont-Écrepin;997;16;1013
+61;339;Putanges-le-Lac;61;340;Rabodanges;179;2;181
+61;341;Écouves;61;341;Radon;1037;37;1074
+61;491;Tourouvre au Perche;61;343;Randonnai;733;7;740
+61;007;Athis-Val de Rouvre;61;353;Ronfeugerai;336;8;344
+61;339;Putanges-le-Lac;61;354;Rotours;116;1;117
+61;145;Domfront en Poiraie;61;355;Rouellé;189;4;193
+61;484;Val-au-Perche;61;356;Rouge;663;8;671
+61;484;Val-au-Perche;61;359;Saint-Agnan-sur-Erre;172;5;177
+61;339;Putanges-le-Lac;61;364;Saint-Aubert-sur-Orne;99;2;101
+61;309;Perche en Nocé;61;368;Saint-Aubin-des-Grois;58;0;58
+61;375;Boischampré;61;375;Saint-Christophe-le-Jajolet;241;1;242
+61;486;Tinchebray-Bocage;61;377;Saint-Cornier-des-Landes;602;15;617
+61;211;Juvigny Val d'Andaine;61;380;Saint-Denis-de-Villenette;144;1;145
+61;228;Orée-d'Écouves;61;383;Saint-Didier-sous-Écouves;158;3;161
+61;294;Mortrée;61;403;Saint-Hilaire-la-Gérard;134;3;137
+61;309;Perche en Nocé;61;409;Saint-Jean-de-la-Forêt;159;4;163
+61;486;Tinchebray-Bocage;61;410;Saint-Jean-des-Bois;182;0;182
+61;375;Boischampré;61;417;Saint-Loyer-des-Champs;370;14;384
+61;463;Les Monts d'Andaine;61;428;Saint-Maurice-du-Désert;753;18;771
+61;429;Charencey;61;429;Saint-Maurice-lès-Charencey;480;16;496
+61;483;Bagnoles de l'Orne Normandie;61;431;Saint-Michel-des-Andaines;325;8;333
+61;167;La Ferté-en-Ouche;61;434;Saint-Nicolas-des-Laitiers;82;0;82
+61;196;Belforêt-en-Perche;61;437;Saint-Ouen-de-la-Cour;59;2;61
+61;153;Écouché-les-Vallées;61;441;Saint-Ouen-sur-Maire;91;0;91
+61;474;Gouffern en Auge;61;449;Saint-Pierre-la-Rivière;155;5;160
+61;324;Passais Villages;61;455;Saint-Siméon;229;6;235
+61;230;Longny les Villages;61;458;Saint-Victor-de-Réno;170;7;177
+61;339;Putanges-le-Lac;61;378;Sainte-Croix-sur-Orne;78;0;78
+61;460;Sap-en-Auge;61;460;Sap;852;10;862
+61;463;Les Monts d'Andaine;61;463;Sauvagère;1000;16;1016
+61;007;Athis-Val de Rouvre;61;465;Ségrie-Fontaine;403;6;409
+61;194;Monts-sur-Orne;61;468;Sentilly;129;1;130
+61;211;Juvigny Val d'Andaine;61;469;Sept-Forges;250;7;257
+61;153;Écouché-les-Vallées;61;470;Serans;199;5;204
+61;196;Belforêt-en-Perche;61;471;Sérigny;378;13;391
+61;474;Gouffern en Auge;61;474;Silly-en-Gouffern;398;12;410
+61;474;Gouffern en Auge;61;477;Survie;163;1;164
+61;007;Athis-Val de Rouvre;61;478;Taillebois;149;0;149
+61;484;Val-au-Perche;61;484;Theil;1674;34;1708
+61;486;Tinchebray-Bocage;61;486;Tinchebray;2590;37;2627
+61;007;Athis-Val de Rouvre;61;489;Tourailles;59;1;60
+61;491;Tourouvre au Perche;61;491;Tourouvre;1530;19;1549
+61;474;Gouffern en Auge;61;496;Urou-et-Crennes;747;18;765
+61;474;Gouffern en Auge;61;504;Villebadin;126;1;127
+61;167;La Ferté-en-Ouche;61;506;Villers-en-Ouche;336;11;347
+61;341;Écouves;61;509;Vingt-Hanaps;443;10;453
+61;375;Boischampré;61;511;Vrigny;375;7;382
+61;486;Tinchebray-Bocage;61;513;Yvrandes;155;6;161
+62;473;Isbergues;62;110;Berguette;1797;17;1814
+62;691;Saint-Augustin;62;226;Clarques;309;5;314
+62;295;Enquin-lez-Guinegatte;62;294;Enguinegatte;445;9;454
+62;295;Enquin-lez-Guinegatte;62;295;Enquin-les-Mines;1171;18;1189
+62;471;Bellinghem;62;431;Herbelles;537;17;554
+62;471;Bellinghem;62;471;Inghem;531;5;536
+62;178;Bruay-la-Buissière;62;482;Labuissière;3647;46;3693
+62;473;Isbergues;62;575;Molinghem;2870;28;2898
+62;691;Saint-Augustin;62;691;Rebecques;494;8;502
+62;757;Saint-Martin-lez-Tatinghem;62;757;Saint-Martin-au-Laërt;4077;74;4151
+62;757;Saint-Martin-lez-Tatinghem;62;807;Tatinghem;1837;60;1897
+63;160;Aulhat-Flat;63;018;Aulhat-Saint-Privat;476;11;487
+63;244;Chambaron sur Morge;63;068;Cellule;1243;16;1259
+63;448;Le Vernet-Chaméane;63;078;Chaméane;162;4;166
+63;226;Mur-sur-Allier;63;133;Dallet;1501;24;1525
+63;160;Aulhat-Flat;63;160;Flat;438;20;458
+63;226;Mur-sur-Allier;63;226;Mezel;1918;51;1969
+63;244;Chambaron sur Morge;63;244;Moutade;533;10;543
+63;255;Nonette-Orsonnette;63;255;Nonette;362;14;376
+63;255;Nonette-Orsonnette;63;266;Orsonnette;226;2;228
+63;038;Besse-et-Saint-Anastaise;63;316;Saint-Anastaise;61;0;61
+63;448;Le Vernet-Chaméane;63;448;Vernet-la-Varenne;646;60;706
+64;225;Ance Féas;64;020;Ance;227;8;235
+64;396;Mont;64;030;Arance;130;3;133
+64;064;Asasp-Arros;64;055;Arros-d'Oloron;81;0;81
+64;010;Aïcirits-Camou-Suhast;64;163;Camou-Mixe-Suhast;205;2;207
+64;148;Bruges-Capbis-Mifaget;64;164;Capbis;64;5;69
+64;168;Carresse-Cassaber;64;169;Cassaber;133;3;136
+64;225;Ance Féas;64;225;Féas;386;8;394
+64;396;Mont;64;248;Gouze;425;4;429
+64;049;Aroue-Ithorots-Olhaïby;64;278;Ithorots-Olhaïby;44;2;46
+64;396;Mont;64;333;Lendresse;79;1;80
+64;148;Bruges-Capbis-Mifaget;64;384;Mifaget;122;4;126
+64;440;Ozenx-Montestrucq;64;402;Montestrucq;199;6;205
+64;430;Orthez;64;497;Sainte-Suzanne;998;24;1022
+64;113;Bergouey-Viellenave;64;553;Viellenave-sur-Bidouze;33;0;33
+65;141;Cazaux-Fréchet-Anéran-Camors;65;008;Anéran-Camors;28;1;29
+65;282;Loudenvielle;65;027;Armenteule;62;0;62
+65;092;Beyrède-Jumet-Camous;65;092;Beyrède-Jumet;196;2;198
+65;092;Beyrède-Jumet-Camous;65;122;Camous;25;0;25
+65;192;Gavarnie-Gèdre;65;188;Gavarnie;114;2;116
+65;192;Gavarnie-Gèdre;65;192;Gèdre;229;7;236
+65;099;Bordères-Louron;65;227;Ilhan;9;1;10
+65;054;Avezac-Prat-Lahitte;65;246;Lahitte;29;0;29
+65;282;Loudenvielle;65;282;Loudenvielle;237;6;243
+65;003;Adervielle-Pouchergues;65;365;Pouchergues;50;1;51
+67;004;Sommerau;67;004;Allenwiller;541;13;554
+67;544;Wissembourg;67;007;Altenstadt;1180;86;1266
+67;418;Rountzenheim-Auenheim;67;014;Auenheim;888;12;900
+67;452;Schnersheim;67;015;Avenheim;467;3;470
+67;004;Sommerau;67;041;Birkenwald;319;2;321
+67;104;Drachenbronn-Birlenbach;67;042;Birlenbach;322;4;326
+67;435;Sarrewerden;67;376;Bischtroff-sur-Sarre;333;9;342
+67;074;Cleebourg;67;064;Bremmelbach;156;1;157
+67;176;Gundershoffen;67;114;Eberbach-Wœrth;176;2;178
+67;153;Geiswiller-Zœbersdorf;67;153;Geiswiller;222;3;225
+67;034;Berstett;67;157;Gimbrett;486;10;496
+67;539;Wingersheim les Quatre Bans;67;158;Gingsheim;353;7;360
+67;176;Gundershoffen;67;170;Griesbach;470;9;479
+67;061;Bouxwiller;67;171;Griesbach-le-Bastberg;257;5;262
+67;206;Hoffen;67;193;Hermerswiller;275;6;281
+67;539;Wingersheim les Quatre Bans;67;207;Hohatzenheim;238;7;245
+67;474;Soultz-sous-Forêts;67;211;Hohwiller;383;4;387
+67;061;Bouxwiller;67;219;Imbsheim;551;10;561
+67;442;Scharrachbergheim-Irmstett;67;224;Irmstett;317;3;320
+67;452;Schnersheim;67;243;Kleinfrankenheim;441;8;449
+67;339;Betschdorf;67;251;Kuhlendorf;101;1;102
+67;206;Hoffen;67;262;Leiterswiller;385;6;391
+67;263;Lembach;67;284;Mattstall;147;3;150
+67;160;Gœrsdorf;67;294;Mitschdorf;199;3;202
+67;539;Wingersheim les Quatre Bans;67;297;Mittelhausen;595;7;602
+67;388;Reichshoffen;67;316;Nehwiller-près-Wœrth;391;5;396
+67;351;Seebach;67;332;Niederseebach;157;3;160
+67;372;Val-de-Moder;67;372;Pfaffenhoffen;2680;31;2711
+67;495;Truchtersheim;67;374;Pfettisheim;891;9;900
+67;339;Betschdorf;67;390;Reimerswiller;206;2;208
+67;034;Berstett;67;393;Reitwiller;591;9;600
+67;061;Bouxwiller;67;399;Riedheim;181;1;182
+67;372;Val-de-Moder;67;402;Ringeldorf;135;1;136
+67;418;Rountzenheim-Auenheim;67;418;Rountzenheim;1042;23;1065
+67;034;Berstett;67;419;Rumersheim;437;7;444
+67;004;Sommerau;67;431;Salenthal;217;4;221
+67;202;Hochfelden;67;439;Schaffhouse-sur-Zorn;407;2;409
+67;339;Betschdorf;67;457;Schwabwiller;523;6;529
+67;004;Sommerau;67;469;Singrist;457;9;466
+67;495;Truchtersheim;67;495;Truchtersheim;3257;87;3344
+67;372;Val-de-Moder;67;496;Uberach;1211;12;1223
+67;372;Val-de-Moder;67;512;Walck;1042;16;1058
+67;530;Wickersheim-Wilshausen;67;533;Wilshausen;111;3;114
+67;539;Wingersheim les Quatre Bans;67;539;Wingersheim;1125;21;1146
+67;532;Willgottheim;67;549;Wœllenheim;185;3;188
+67;435;Sarrewerden;67;561;Zollingen;92;2;94
+67;347;Obermodern-Zutzendorf;67;562;Zutzendorf;647;15;662
+67;153;Geiswiller-Zœbersdorf;67;560;Zœbersdorf;181;0;181
+68;006;Bernwiller;68;006;Ammertzwiller;479;11;490
+68;012;Aspach-Michelbach;68;012;Aspach-le-Haut;1453;35;1488
+68;006;Bernwiller;68;031;Bernwiller;710;17;727
+68;056;Brunstatt-Didenheim;68;056;Brunstatt;6405;169;6574
+68;056;Brunstatt-Didenheim;68;070;Didenheim;1702;43;1745
+68;240;Illtal;68;108;Grentzingen;571;12;583
+68;240;Illtal;68;133;Henflingen;206;0;206
+68;143;Porte du Ried;68;143;Holtzwihr;1420;49;1469
+68;162;Kaysersberg Vignoble;68;162;Kaysersberg;2450;53;2503
+68;162;Kaysersberg Vignoble;68;164;Kientzheim;734;12;746
+68;201;Masevaux-Niederbruck;68;201;Masevaux;3341;72;3413
+68;012;Aspach-Michelbach;68;206;Michelbach;324;9;333
+68;219;Le Haut Soultzbach;68;219;Mortzwiller;353;13;366
+68;201;Masevaux-Niederbruck;68;233;Niederbruck;418;9;427
+68;240;Illtal;68;240;Oberdorf;593;7;600
+68;143;Porte du Ried;68;272;Riedwihr;382;9;391
+68;162;Kaysersberg Vignoble;68;310;Sigolsheim;1260;28;1288
+68;219;Le Haut Soultzbach;68;314;Soppe-le-Haut;544;11;555
+68;320;Spechbach;68;319;Spechbach-le-Bas;697;27;724
+68;320;Spechbach;68;320;Spechbach-le-Haut;655;19;674
+69;135;Deux-Grosnes;69;015;Avenas;125;7;132
+69;019;Belleville-en-Beaujolais;69;019;Belleville;8198;182;8380
+69;024;Val d'Oingt;69;024;Bois-d'Oingt;2554;60;2614
+69;248;Thizy-les-Bourgs;69;025;Bourg-de-Thizy;2465;44;2509
+69;248;Thizy-les-Bourgs;69;041;Chapelle-de-Mardore;222;4;226
+69;179;Beauvallon;69;048;Chassagny;1311;34;1345
+69;066;Cours;69;066;Cours-la-Ville;3617;70;3687
+69;157;Vindry-sur-Turdine;69;073;Dareizé;550;7;557
+69;159;Porte des Pierres Dorées;69;101;Jarnioux;702;13;715
+69;159;Porte des Pierres Dorées;69;114;Liergues;2147;55;2202
+69;248;Thizy-les-Bourgs;69;128;Mardore;495;5;500
+69;248;Thizy-les-Bourgs;69;129;Marnand;595;11;606
+69;135;Deux-Grosnes;69;135;Monsols;913;17;930
+69;208;Saint-Germain-Nuelles;69;144;Nuelles;691;20;711
+69;024;Val d'Oingt;69;146;Oingt;667;20;687
+69;157;Vindry-sur-Turdine;69;147;Olmes;829;12;841
+69;135;Deux-Grosnes;69;150;Ouroux;334;21;355
+69;066;Cours;69;158;Pont-Trambouze;424;7;431
+69;157;Vindry-sur-Turdine;69;157;Pontcharra-sur-Turdine;2764;41;2805
+69;159;Porte des Pierres Dorées;69;159;Pouilly-le-Monial;992;23;1015
+69;179;Beauvallon;69;179;Saint-Andéol-le-Château;1885;23;1908
+69;135;Deux-Grosnes;69;185;Saint-Christophe;227;1;228
+69;228;Chabanière;69;195;Saint-Didier-sous-Riverie;1277;22;1299
+69;208;Saint-Germain-Nuelles;69;208;Saint-Germain-sur-l'Arbresle;1573;40;1613
+69;135;Deux-Grosnes;69;210;Saint-Jacques-des-Arrêts;119;3;122
+69;019;Belleville-en-Beaujolais;69;211;Saint-Jean-d'Ardières;4859;91;4950
+69;179;Beauvallon;69;213;Saint-Jean-de-Touslas;865;17;882
+69;024;Val d'Oingt;69;222;Saint-Laurent-d'Oingt;867;23;890
+69;255;Vaugneray;69;221;Saint-Laurent-de-Vaux;273;12;285
+69;157;Vindry-sur-Turdine;69;223;Saint-Loup;1091;27;1118
+69;135;Deux-Grosnes;69;224;Saint-Mamert;73;3;76
+69;228;Chabanière;69;228;Saint-Maurice-sur-Dargoire;2358;50;2408
+69;228;Chabanière;69;237;Saint-Sorlin;577;21;598
+69;066;Cours;69;247;Thel;338;3;341
+69;248;Thizy-les-Bourgs;69;248;Thizy;2250;62;2312
+69;135;Deux-Grosnes;69;251;Trades;118;1;119
+69;255;Vaugneray;69;255;Vaugneray;5623;96;5719
+70;059;Beaumotte-Aubertans;70;033;Aubertans;120;4;124
+70;101;Broye-Aubigney-Montseugny;70;034;Aubigney;89;0;89
+70;373;La Roche-Morey;70;068;Betoncourt-les-Ménétriers;49;1;50
+70;285;Héricourt;70;108;Bussurel;748;5;753
+70;122;Champlitte;70;123;Champlitte-la-Ville;68;2;70
+70;492;Soing-Cubry-Charentenay;70;131;Charentenay;107;1;108
+70;283;Haut-du-Them-Château-Lambert;70;139;Château-Lambert;16;0;16
+70;477;Saulnot;70;173;Corcelles;69;1;70
+70;492;Soing-Cubry-Charentenay;70;191;Cubry-lès-Soing;90;2;92
+70;528;Velesmes-Échevanne;70;209;Échevanne;97;0;97
+70;031;Athesans-Étroitefontaine;70;223;Étroitefontaine;26;2;28
+70;447;Rioz;70;241;Fontenis;96;4;100
+70;245;Fougerolles-Saint-Valbert;70;245;Fougerolles;3565;121;3686
+70;247;Fouvent-Saint-Andoche;70;246;Fouvent-le-Bas;93;1;94
+70;418;La Romaine;70;281;Greucourt;77;0;77
+70;122;Champlitte;70;300;Leffond;123;1;124
+70;122;Champlitte;70;333;Margilley;107;1;108
+70;489;Servance-Miellin;70;345;Miellin;65;1;66
+70;487;Senargent-Mignafans;70;346;Mignafans;62;0;62
+70;122;Champlitte;70;354;Montarlot-lès-Champlitte;88;3;91
+70;101;Broye-Aubigney-Montseugny;70;370;Montseugny;101;1;102
+70;122;Champlitte;70;382;Neuvelle-lès-Champlitte;111;1;112
+70;292;Jussey;70;391;Noroy-lès-Jussey;52;0;52
+70;418;La Romaine;70;418;Pont-de-Planches;245;4;249
+70;058;Beaujeu-Saint-Vallier-Pierrejux-et-Quitteur;70;434;Quitteur;105;3;108
+70;247;Fouvent-Saint-Andoche;70;458;Saint-Andoche;46;1;47
+70;373;La Roche-Morey;70;465;Saint-Julien;131;1;132
+70;245;Fougerolles-Saint-Valbert;70;475;Saint-Valbert;239;2;241
+70;489;Servance-Miellin;70;489;Servance;738;5;743
+70;285;Héricourt;70;497;Tavey;498;7;505
+70;418;La Romaine;70;551;Vezet;193;0;193
+70;045;Avrigney-Virey;70;570;Virey;57;0;57
+71;134;Navour-sur-Grosne;71;055;Brandon;316;10;326
+71;134;Navour-sur-Grosne;71;134;Clermain;231;6;237
+71;582;Vineuse sur Fregande;71;180;Donzy-le-National;223;8;231
+71;270;Mâcon;71;260;Loché;261;3;264
+71;279;Le Rousset-Marizy;71;279;Marizy;410;12;422
+71;582;Vineuse sur Fregande;71;288;Massy;67;1;68
+71;134;Navour-sur-Grosne;71;304;Montagny-sur-Grosne;113;5;118
+71;279;Le Rousset-Marizy;71;375;Rousset;224;7;231
+71;270;Mâcon;71;432;Saint-Jean-le-Priche;416;6;422
+71;270;Mâcon;71;511;Sennecé-lès-Mâcon;1316;28;1344
+71;582;Vineuse sur Fregande;71;582;Vineuse;282;8;290
+71;582;Vineuse sur Fregande;71;587;Vitry-lès-Cluny;82;1;83
+72;023;Ballon-Saint Mars;72;023;Ballon;1379;17;1396
+72;025;Bazouges Cré sur Loir;72;025;Bazouges-sur-le-Loir;1232;37;1269
+72;262;Loir en Vallée;72;063;Chapelle-Gaugain;287;5;292
+72;137;Villeneuve-en-Perseigne;72;069;Chassé;176;3;179
+72;071;Montval-sur-Loir;72;071;Château-du-Loir;4567;205;4772
+72;080;Cherré-Au;72;080;Cherré;1770;60;1830
+72;080;Cherré-Au;72;081;Cherreau;938;19;957
+72;308;Saint-Paterne - Le Chevain;72;082;Chevain;572;8;580
+72;138;Fresnay-sur-Sarthe;72;097;Coulombiers;473;8;481
+72;025;Bazouges Cré sur Loir;72;108;Cré-sur-Loir;789;19;808
+72;189;Marolles-les-Braults;72;116;Dissé-sous-Ballon;143;2;145
+72;176;Lude;72;117;Dissé-sous-le-Lude;539;14;553
+72;128;Val-d'Étangson;72;128;Évaillé;354;5;359
+72;138;Fresnay-sur-Sarthe;72;138;Fresnay-sur-Sarthe;1903;25;1928
+72;137;Villeneuve-en-Perseigne;72;137;Fresnaye-sur-Chédouet;920;16;936
+72;262;Loir en Vallée;72;159;Lavenay;343;8;351
+72;137;Villeneuve-en-Perseigne;72;162;Lignières-la-Carelle;374;7;381
+72;176;Lude;72;176;Lude;3628;57;3685
+72;189;Marolles-les-Braults;72;189;Marolles-les-Braults;2014;25;2039
+72;071;Montval-sur-Loir;72;203;Montabon;721;26;747
+72;137;Villeneuve-en-Perseigne;72;207;Montigny;27;1;28
+72;262;Loir en Vallée;72;240;Poncé-sur-le-Loir;323;5;328
+72;137;Villeneuve-en-Perseigne;72;258;Roullée;237;2;239
+72;262;Loir en Vallée;72;262;Ruillé-sur-Loir;1218;156;1374
+72;138;Fresnay-sur-Sarthe;72;284;Saint-Germain-sur-Sarthe;539;13;552
+72;363;Tuffé Val de la Chéronne;72;288;Saint-Hilaire-le-Lierru;131;2;133
+72;023;Ballon-Saint Mars;72;301;Saint-Mars-sous-Ballon;871;13;884
+72;308;Saint-Paterne - Le Chevain;72;308;Saint-Paterne;1541;220;1761
+72;137;Villeneuve-en-Perseigne;72;318;Saint-Rigomer-des-Bois;452;9;461
+72;128;Val-d'Étangson;72;304;Sainte-Osmane;177;0;177
+72;363;Tuffé Val de la Chéronne;72;363;Tuffé;1526;14;1540
+72;071;Montval-sur-Loir;72;384;Vouvray-sur-Loir;781;15;796
+73;212;Val-d'Arc;73;002;Aiguebelle;1190;13;1203
+73;003;Grand-Aigueblanche;73;003;Aigueblanche;3213;96;3309
+73;006;Aime-la-Plagne;73;006;Aime;3641;91;3732
+73;010;Entrelacs;73;010;Albens;3895;73;3968
+73;261;Saint-Michel-de-Maurienne;73;035;Beaune;52;1;53
+73;150;La Plagne Tarentaise;73;038;Bellentre;891;25;916
+73;003;Grand-Aigueblanche;73;045;Bois;394;12;406
+73;187;Léchère;73;046;Bonneval;105;0;105
+73;290;Val-Cenis;73;056;Bramans;444;8;452
+73;187;Léchère;73;060;Celliers;41;1;42
+73;010;Entrelacs;73;062;Cessens;460;11;471
+73;135;Tour-en-Maurienne;73;080;Châtel;189;5;194
+73;150;La Plagne Tarentaise;73;093;Côte-d'Aime;914;41;955
+73;187;Léchère;73;102;Doucy;385;17;402
+73;010;Entrelacs;73;108;Épersy;399;16;415
+73;215;Valgelon-La Rochette;73;111;Étable;403;10;413
+73;187;Léchère;73;112;Feissons-sur-Isère;582;13;595
+73;284;Salins-Fontaine;73;115;Fontaine-le-Puits;123;6;129
+73;151;Porte-de-Savoie;73;118;Francin;1035;26;1061
+73;006;Aime-la-Plagne;73;126;Granier;355;9;364
+73;236;Saint-Genix-les-Villages;73;127;Gresin;351;7;358
+73;135;Tour-en-Maurienne;73;135;Hermillon;592;16;608
+73;290;Val-Cenis;73;143;Lanslebourg-Mont-Cenis;617;13;630
+73;290;Val-Cenis;73;144;Lanslevillard;479;6;485
+73;150;La Plagne Tarentaise;73;150;Mâcot-la-Plagne;1702;56;1758
+73;151;Porte-de-Savoie;73;151;Marches;2682;60;2742
+73;010;Entrelacs;73;158;Mognard;409;13;422
+73;235;Saint François Longchamp;73;163;Montaimont;137;3;140
+73;235;Saint François Longchamp;73;167;Montgellafrey;87;0;87
+73;006;Aime-la-Plagne;73;169;Montgirod;490;10;500
+73;013;Albiez-Montrond;73;174;Montrond;37;0;37
+73;187;Léchère;73;185;Naves;112;1;113
+73;187;Léchère;73;187;Notre-Dame-de-Briançon;484;8;492
+73;227;Courchevel;73;198;Perrière;498;13;511
+73;187;Léchère;73;199;Petit-Cœur;586;8;594
+73;135;Tour-en-Maurienne;73;203;Pontamafrey-Montpascal;296;5;301
+73;187;Léchère;73;209;Pussy;339;8;347
+73;212;Val-d'Arc;73;212;Randens;822;16;838
+73;215;Valgelon-La Rochette;73;215;Rochette;3747;90;3837
+73;227;Courchevel;73;227;Saint-Bon-Tarentaise;1864;60;1924
+73;235;Saint François Longchamp;73;235;Saint-François-Longchamp;321;3;324
+73;236;Saint-Genix-les-Villages;73;236;Saint-Genix-sur-Guiers;2361;53;2414
+73;010;Entrelacs;73;238;Saint-Germain-la-Chambotte;505;13;518
+73;010;Entrelacs;73;239;Saint-Girod;622;15;637
+73;257;Belleville;73;244;Saint-Jean-de-Belleville;539;14;553
+73;257;Belleville;73;257;Saint-Martin-de-Belleville;2640;90;2730
+73;236;Saint-Genix-les-Villages;73;260;Saint-Maurice-de-Rotherens;212;6;218
+73;263;Saint-Offenge;73;263;Saint-Offenge-Dessous;787;17;804
+73;263;Saint-Offenge;73;264;Saint-Offenge-Dessus;333;4;337
+73;003;Grand-Aigueblanche;73;266;Saint-Oyen;211;3;214
+73;284;Salins-Fontaine;73;284;Salins-les-Thermes;886;13;899
+73;290;Val-Cenis;73;287;Sollières-Sardières;170;4;174
+73;290;Val-Cenis;73;290;Termignon;351;7;358
+73;261;Saint-Michel-de-Maurienne;73;295;Thyl;35;0;35
+73;150;La Plagne Tarentaise;73;305;Valezan;198;4;202
+73;257;Belleville;73;321;Villarlurin;324;13;337
+74;010;Annecy;74;010;Annecy;54145;1381;55526
+74;010;Annecy;74;011;Annecy-le-Vieux;21390;699;22089
+74;282;Fillière;74;022;Aviernoz;878;29;907
+74;167;Val de Chaise;74;084;Cons-Sainte-Colombe;390;10;400
+74;010;Annecy;74;093;Cran-Gevrier;18330;421;18751
+74;220;Reignier-Ésery;74;113;Ésery;605;8;613
+74;185;Monnetier-Mornex;74;115;Esserts-Salève;560;11;571
+74;282;Fillière;74;120;Évires;1456;35;1491
+74;123;Faverges-Seythenex;74;123;Faverges;6943;214;7157
+74;167;Val de Chaise;74;167;Marlens;983;14;997
+74;010;Annecy;74;182;Meythet;8327;138;8465
+74;275;Talloires-Montmin;74;187;Montmin;330;3;333
+74;282;Fillière;74;204;Ollières;1042;18;1060
+74;010;Annecy;74;217;Pringy;4412;141;4553
+74;282;Fillière;74;245;Saint-Martin-Bellevue;2732;77;2809
+74;010;Annecy;74;268;Seynod;21595;502;22097
+74;123;Faverges-Seythenex;74;270;Seythenex;665;22;687
+74;275;Talloires-Montmin;74;275;Talloires;1641;65;1706
+74;282;Fillière;74;282;Thorens-Glières;3223;74;3297
+76;020;Anneville-Ambourville;76;003;Ambourville;189;3;192
+76;618;Petit-Caux;76;027;Assigny;382;5;387
+76;476;Port-Jérôme-sur-Seine;76;031;Auberville-la-Campagne;642;12;654
+76;034;Val-de-Scie;76;034;Auffay;1852;15;1867
+76;618;Petit-Caux;76;037;Auquemesnil;260;3;263
+76;041;Hauts-de-Caux;76;041;Autretot;649;17;666
+76;258;Terres-de-Caux;76;044;Auzouville-Auberbosc;301;6;307
+76;618;Petit-Caux;76;073;Belleville-sur-Mer;1026;24;1050
+76;258;Terres-de-Caux;76;078;Bennetot;182;2;184
+76;258;Terres-de-Caux;76;080;Bermonville;490;15;505
+76;618;Petit-Caux;76;081;Berneval-le-Grand;1415;28;1443
+76;289;Saint Martin de l'If;76;089;Betteville;561;8;569
+76;618;Petit-Caux;76;098;Biville-sur-Mer;844;17;861
+76;146;Buchy;76;127;Bosc-Roger-sur-Buchy;755;13;768
+76;618;Petit-Caux;76;137;Bracquemont;854;32;886
+76;618;Petit-Caux;76;145;Brunville;248;2;250
+76;146;Buchy;76;146;Buchy;1496;85;1581
+76;164;Rives-en-Seine;76;164;Caudebec-en-Caux;2302;35;2337
+76;034;Val-de-Scie;76;191;Cressy;295;3;298
+76;618;Petit-Caux;76;215;Derchigny;587;12;599
+76;146;Buchy;76;248;Estouteville-Écalles;574;2;576
+76;258;Terres-de-Caux;76;258;Fauville-en-Caux;2305;73;2378
+76;289;Saint Martin de l'If;76;267;Folletière;85;3;88
+76;276;Forges-les-Eaux;76;276;Forges-les-Eaux;3318;184;3502
+76;276;Forges-les-Eaux;76;277;Fossé;495;14;509
+76;289;Saint Martin de l'If;76;289;Fréville;951;10;961
+76;618;Petit-Caux;76;301;Glicourt;269;2;271
+76;618;Petit-Caux;76;310;Gouchaupre;195;2;197
+76;618;Petit-Caux;76;326;Greny;123;2;125
+76;618;Petit-Caux;76;337;Guilmécourt;415;6;421
+76;618;Petit-Caux;76;376;Intraville;313;6;319
+76;401;Arelaune-en-Seine;76;401;Mailleraye-sur-Seine;1940;32;1972
+76;289;Saint Martin de l'If;76;444;Mont-de-l'If;116;3;119
+76;217;Dieppe;76;466;Neuville-lès-Dieppe;9616;124;9740
+76;476;Port-Jérôme-sur-Seine;76;476;Notre-Dame-de-Gravenchon;8744;152;8896
+76;618;Petit-Caux;76;496;Penly;495;5;500
+76;258;Terres-de-Caux;76;525;Ricarville;307;4;311
+76;351;Le Havre;76;539;Rouelles;3066;21;3087
+76;618;Petit-Caux;76;618;Saint-Martin-en-Campagne;1231;42;1273
+76;401;Arelaune-en-Seine;76;625;Saint-Nicolas-de-Bliquetuit;609;13;622
+76;258;Terres-de-Caux;76;639;Saint-Pierre-Lavis;304;7;311
+76;618;Petit-Caux;76;643;Saint-Quentin-au-Bosc;108;0;108
+76;164;Rives-en-Seine;76;659;Saint-Wandrille-Rançon;1210;20;1230
+76;258;Terres-de-Caux;76;607;Sainte-Marguerite-sur-Fauville;278;4;282
+76;034;Val-de-Scie;76;674;Sévis;398;4;402
+76;618;Petit-Caux;76;696;Tocqueville-sur-Eu;216;4;220
+76;476;Port-Jérôme-sur-Seine;76;701;Touffreville-la-Cable;416;9;425
+76;618;Petit-Caux;76;704;Tourville-la-Chapelle;609;10;619
+76;476;Port-Jérôme-sur-Seine;76;713;Triquerville;355;10;365
+76;041;Hauts-de-Caux;76;729;Veauville-lès-Baons;714;19;733
+76;164;Rives-en-Seine;76;742;Villequier;691;11;702
+77;433;Beautheil-Saints;77;028;Beautheil;663;16;679
+77;316;Moret-Loing-et-Orvanne;77;166;Écuelles;2349;97;2446
+77;316;Moret-Loing-et-Orvanne;77;170;Épisy;607;3;610
+77;262;Louan-Villegruis-Fontaine;77;189;Fontaine-sous-Montaiguillon;92;5;97
+77;175;Évry-Grégy-sur-Yerre;77;213;Grégy-sur-Yerre;471;1;472
+77;316;Moret-Loing-et-Orvanne;77;299;Montarlot;270;4;274
+77;316;Moret-Loing-et-Orvanne;77;316;Moret-sur-Loing;4188;107;4295
+77;093;La Chapelle-Moutils;77;324;Moutils;133;1;134
+77;264;Lumigny-Nesles-Ormeaux;77;334;Nesles;554;9;563
+77;264;Lumigny-Nesles-Ormeaux;77;346;Ormeaux;393;4;397
+77;010;Aubepierre-Ozouer-le-Repos;77;351;Ozouer-le-Repos;377;3;380
+77;261;Lorrez-le-Bocage-Préaux;77;375;Préaux;115;1;116
+77;504;Villemaréchal;77;399;Saint-Ange-le-Viel;232;3;235
+77;433;Beautheil-Saints;77;433;Saints;1329;18;1347
+77;316;Moret-Loing-et-Orvanne;77;491;Veneux-les-Sablons;4696;118;4814
+77;421;Saint-Mars-Vieux-Maisons;77;497;Vieux-Maisons;99;2;101
+77;031;Bernay-Vilbert;77;499;Vilbert;323;2;325
+77;020;Bannost-Villegagnon;77;502;Villegagnon;198;3;201
+77;504;Villemaréchal;77;504;Villemaréchal;873;14;887
+78;158;Chesnay-Rocquencourt;78;158;Chesnay;27683;588;28271
+78;551;Saint-Germain-en-Laye;78;251;Fourqueux;3944;196;4140
+78;320;Notre-Dame-de-la-Mer;78;320;Jeufosse;408;11;419
+78;320;Notre-Dame-de-la-Mer;78;503;Port-Villez;262;3;265
+78;158;Chesnay-Rocquencourt;78;524;Rocquencourt;3623;53;3676
+78;551;Saint-Germain-en-Laye;78;551;Saint-Germain-en-Laye;40806;1653;42459
+79;185;Aigondigné;79;004;Aigonnay;634;21;655
+79;005;Airvault;79;005;Airvault;2202;31;2233
+79;136;Alloinay;79;006;Alleuds;286;5;291
+79;014;Loretz-d'Argenton;79;014;Argenton-l'Église;1397;18;1415
+79;013;Argentonnay;79;013;Argenton-les-Vallées;1578;56;1634
+79;014;Loretz-d'Argenton;79;026;Bagneux;218;3;221
+79;083;Chef-Boutonne;79;027;Bataille;75;0;75
+79;049;Bressuire;79;028;Beaulieu-sous-Bressuire;896;25;921
+79;030;Beaussais-Vitré;79;030;Beaussais;440;8;448
+79;078;Plaine-d'Argenson;79;033;Belleville;130;2;132
+79;077;Beugnon-Thireuil;79;035;Beugnon;283;2;285
+79;078;Plaine-d'Argenson;79;039;Boisserolles;47;1;48
+79;005;Airvault;79;041;Borcq-sur-Airvault;270;6;276
+79;014;Loretz-d'Argenton;79;043;Bouillé-Loretz;1022;15;1037
+79;063;Val en Vignes;79;044;Bouillé-Saint-Paul;384;70;454
+79;179;Moncoutant-sur-Sèvre;79;051;Breuil-Bernard;535;14;549
+79;049;Bressuire;79;052;Breuil-Chaussée;1005;38;1043
+79;013;Argentonnay;79;053;Breuil-sous-Argenton;479;8;487
+79;196;Plaine-et-Vallées;79;054;Brie;167;2;169
+79;061;Celles-sur-Belle;79;061;Celles-sur-Belle;2495;30;2525
+79;063;Val en Vignes;79;063;Cersay;775;15;790
+79;064;Fontivillié;79;064;Chail;495;17;512
+79;049;Bressuire;79;065;Chambroutet;511;14;525
+79;105;Châteliers;79;068;Chantecorps;318;6;324
+79;013;Argentonnay;79;072;Chapelle-Gaudin;264;6;270
+79;079;Mauléon;79;073;Chapelle-Largeau;1037;17;1054
+79;179;Moncoutant-sur-Sèvre;79;075;Chapelle-Saint-Étienne;327;6;333
+79;077;Beugnon-Thireuil;79;077;Chapelle-Thireuil;447;8;455
+79;083;Chef-Boutonne;79;083;Chef-Boutonne;2056;112;2168
+79;049;Bressuire;79;093;Clazay;707;15;722
+79;217;Prailles-La Couarde;79;098;Couarde;272;3;275
+79;013;Argentonnay;79;099;Coudre;233;8;241
+79;105;Châteliers;79;105;Coutières;157;3;160
+79;083;Chef-Boutonne;79;107;Crézières;40;0;40
+79;280;Saint Maurice Étusson;79;113;Étusson;334;5;339
+79;016;Assais-les-Jumeaux;79;143;Jumeaux;282;4;286
+79;079;Mauléon;79;155;Loublande;919;23;942
+79;063;Val en Vignes;79;168;Massais;613;11;624
+79;329;Thouars;79;171;Mauzé-Thouarsais;2120;38;2158
+79;174;Melle;79;173;Mazières-sur-Béronne;386;16;402
+79;174;Melle;79;174;Melle;3525;236;3761
+79;329;Thouars;79;178;Missé;820;21;841
+79;179;Moncoutant-sur-Sèvre;79;179;Moncoutant;3161;134;3295
+79;061;Celles-sur-Belle;79;181;Montigné;286;2;288
+79;123;La Forêt-sur-Sèvre;79;182;Montigny;610;10;620
+79;185;Aigondigné;79;185;Mougon;2073;71;2144
+79;079;Mauléon;79;186;Moulins;692;14;706
+79;013;Argentonnay;79;187;Moutiers-sous-Argenton;576;9;585
+79;179;Moncoutant-sur-Sèvre;79;188;Moutiers-sous-Chantemerle;592;12;604
+79;049;Bressuire;79;192;Noirlieu;364;7;371
+79;049;Bressuire;79;193;Noirterre;1002;25;1027
+79;196;Plaine-et-Vallées;79;196;Oiron;902;18;920
+79;174;Melle;79;199;Paizay-le-Tort;474;14;488
+79;217;Prailles-La Couarde;79;217;Prailles;678;19;697
+79;334;Val-du-Mignon;79;219;Priaires;117;0;117
+79;179;Moncoutant-sur-Sèvre;79;222;Pugny;230;6;236
+49;099;Cholet;79;224;Puy-Saint-Bonnet;2058;59;2117
+79;123;La Forêt-sur-Sèvre;79;232;Ronde;433;13;446
+79;079;Mauléon;79;233;Rorthais;765;13;778
+79;079;Mauléon;79;237;Saint-Aubin-de-Baubigné;1416;32;1448
+79;078;Plaine-d'Argenson;79;247;Saint-Étienne-la-Cigogne;159;2;161
+79;196;Plaine-et-Vallées;79;260;Saint-Jouin-de-Marnes;572;9;581
+79;179;Moncoutant-sur-Sèvre;79;261;Saint-Jouin-de-Milly;201;4;205
+79;174;Melle;79;264;Saint-Léger-de-la-Martinière;947;45;992
+79;123;La Forêt-sur-Sèvre;79;272;Saint-Marsault;521;11;532
+79;122;Fontenille-Saint-Martin-d'Entraigues;79;275;Saint-Martin-d'Entraigues;199;0;199
+79;174;Melle;79;279;Saint-Martin-lès-Melle;868;18;886
+79;280;Saint Maurice Étusson;79;280;Saint-Maurice-la-Fougereuse;543;9;552
+79;061;Celles-sur-Belle;79;282;Saint-Médard;106;1;107
+79;285;Saint-Pardoux-Soutiers;79;285;Saint-Pardoux;1604;37;1641
+79;063;Val en Vignes;79;288;Saint-Pierre-à-Champ;282;5;287
+79;049;Bressuire;79;296;Saint-Sauveur;1587;48;1635
+79;185;Aigondigné;79;240;Sainte-Blandine;744;17;761
+79;329;Thouars;79;292;Sainte-Radegonde;1818;36;1854
+79;064;Fontivillié;79;314;Sompt;359;7;366
+79;005;Airvault;79;317;Soulièvres;519;4;523
+79;285;Saint-Pardoux-Soutiers;79;318;Soutiers;265;5;270
+79;196;Plaine-et-Vallées;79;321;Taizé-Maulais;758;24;782
+79;079;Mauléon;79;323;Temple;483;6;489
+79;049;Bressuire;79;324;Terves;2617;246;2863
+79;005;Airvault;79;325;Tessonnière;300;6;306
+79;185;Aigondigné;79;327;Thorigné;1252;35;1287
+79;334;Val-du-Mignon;79;328;Thorigny-sur-le-Mignon;95;1;96
+79;083;Chef-Boutonne;79;330;Tillou;337;7;344
+79;013;Argentonnay;79;333;Ulcot;59;2;61
+79;334;Val-du-Mignon;79;334;Usseau;869;21;890
+79;061;Celles-sur-Belle;79;344;Verrines-sous-Celles;1019;24;1043
+79;030;Beaussais-Vitré;79;353;Vitré;536;47;583
+80;436;Hescamps;80;007;Agnières;148;3;151
+80;443;Hornoy-le-Bourg;80;111;Boisrault;113;1;114
+80;505;Carnoy-Mametz;80;175;Carnoy;104;0;104
+80;625;Trois-Rivières;80;209;Contoire;443;4;447
+80;554;Molliens-Dreuil;80;257;Dreuil-lès-Molliens;147;1;148
+80;557;Estrées-Mons;80;289;Estrées-en-Chaussée;77;3;80
+80;295;Étinehem-Méricourt;80;295;Étinehem;375;3;378
+80;436;Hescamps;80;363;Frettemolle;107;4;111
+80;443;Hornoy-le-Bourg;80;382;Gouy-l'Hôpital;43;1;44
+80;703;Saint-Germain-sur-Bresle;80;394;Guémicourt;20;1;21
+80;456;Lafresguimont-Saint-Martin;80;398;Guibermesnil;63;1;64
+80;625;Trois-Rivières;80;419;Hargicourt;405;2;407
+80;406;Hallencourt;80;441;Hocquincourt;112;2;114
+80;621;Hypercourt;80;447;Hyencourt-le-Grand;78;1;79
+80;456;Lafresguimont-Saint-Martin;80;454;Laboissière-Saint-Martin;51;1;52
+80;630;Poix-de-Picardie;80;457;Lahaye-Saint-Romain;275;2;277
+80;443;Hornoy-le-Bourg;80;483;Lincheux-Hallivillers;156;5;161
+80;245;Domléger-Longvillers;80;492;Longvillers;167;1;168
+80;485;Ô-de-Selle;80;485;Lœuilly;817;7;824
+80;505;Carnoy-Mametz;80;505;Mametz;183;4;187
+80;509;Marchélepot-Misery;80;509;Marchélepot;466;6;472
+80;222;Crécy-en-Ponthieu;80;510;Marcheville;116;3;119
+80;295;Étinehem-Méricourt;80;532;Méricourt-sur-Somme;221;4;225
+80;509;Marchélepot-Misery;80;551;Misery;133;0;133
+80;456;Lafresguimont-Saint-Martin;80;564;Montmarquet;218;3;221
+80;582;Namps-Maisnil;80;581;Namps-au-Mont;188;1;189
+80;485;Ô-de-Selle;80;594;Neuville-lès-Lœuilly;129;2;131
+80;621;Hypercourt;80;608;Omiécourt;271;1;272
+80;623;Piennes-Onvillers;80;610;Onvillers;113;1;114
+80;443;Hornoy-le-Bourg;80;612;Orival;211;3;214
+80;621;Hypercourt;80;621;Pertain;383;9;392
+80;625;Trois-Rivières;80;625;Pierrepont-sur-Avre;671;6;677
+80;582;Namps-Maisnil;80;689;Rumaisnil;112;1;113
+80;229;Crouy-Saint-Pierre;80;712;Saint-Pierre-à-Gouy;63;1;64
+80;443;Hornoy-le-Bourg;80;731;Selincourt;96;1;97
+80;436;Hescamps;80;739;Souplicourt;84;0;84
+80;582;Namps-Maisnil;80;745;Taisnil;315;3;318
+80;485;Ô-de-Selle;80;761;Tilloy-lès-Conty;245;0;245
+80;443;Hornoy-le-Bourg;80;768;Tronchoy;224;4;228
+80;211;Conty;80;816;Wailly;163;0;163
+80;406;Hallencourt;80;817;Wanel;141;1;142
+81;262;Saint-Marcel-Campes;81;057;Campes;101;0;101
+81;062;Fontrieu;81;062;Castelnau-de-Brassac;733;17;750
+81;062;Fontrieu;81;091;Ferrières;157;1;158
+81;218;Puygouzon;81;113;Labastide-Dénat;419;7;426
+81;062;Fontrieu;81;153;Margnès;50;0;50
+81;233;Terre-de-Bancalié;81;226;Ronel;333;4;337
+81;233;Terre-de-Bancalié;81;233;Roumégoux;262;4;266
+81;233;Terre-de-Bancalié;81;241;Saint-Antonin-de-Lacalm;279;2;281
+81;233;Terre-de-Bancalié;81;260;Saint-Lieux-Lafenasse;458;9;467
+81;233;Terre-de-Bancalié;81;296;Terre-Clapier;261;6;267
+81;233;Terre-de-Bancalié;81;301;Travet;121;2;123
+85;008;Aubigny-Les Clouzeaux;85;008;Aubigny;3881;57;3938
+85;009;Auchay-sur-Vendée;85;009;Auzay;672;15;687
+85;019;Bellevigny;85;019;Belleville-sur-Vie;3995;92;4087
+85;146;Montaigu-Vendée;85;027;Boufféré;3430;87;3517
+85;084;Essarts en Bocage;85;030;Boulogne;972;12;984
+85;213;Rives de l'Yon;85;043;Chaillé-sous-les-Ormeaux;1347;24;1371
+85;009;Auchay-sur-Vendée;85;044;Chaix;471;8;479
+85;302;Chanverrie;85;048;Chambretaud;1567;36;1603
+85;152;Achards;85;052;Chapelle-Achard;2081;20;2101
+85;090;Sèvremont;85;063;Châtelliers-Châteaumur;783;8;791
+85;036;La Bretonnière-la-Claye;85;068;Claye;102;1;103
+85;008;Aubigny-Les Clouzeaux;85;069;Clouzeaux;2831;44;2875
+85;135;Mareuil-sur-Lay-Dissais;85;079;Dissais;406;13;419
+85;080;Doix lès Fontaines;85;080;Doix;967;18;985
+85;084;Essarts en Bocage;85;084;Essarts;5586;102;5688
+85;090;Sèvremont;85;090;Flocellière;2634;46;2680
+85;080;Doix lès Fontaines;85;091;Fontaines;756;15;771
+85;146;Montaigu-Vendée;85;107;Guyonnière;2753;156;2909
+85;020;Benet;85;122;Lesson;616;14;630
+85;146;Montaigu-Vendée;85;146;Montaigu;5160;123;5283
+85;197;Montréverd;85;150;Mormaison;1212;10;1222
+85;152;Achards;85;152;Mothe-Achard;3108;88;3196
+85;154;Mouilleron-Saint-Germain;85;154;Mouilleron-en-Pareds;1388;82;1470
+85;162;Rives-d'Autise;85;162;Nieul-sur-l'Autise;1291;34;1325
+85;084;Essarts en Bocage;85;165;Oie;1215;29;1244
+85;162;Rives-d'Autise;85;168;Oulmes;813;17;830
+85;177;Velluire-sur-Vendée;85;177;Poiré-sur-Velluire;665;13;678
+85;090;Sèvremont;85;180;Pommeraie-sur-Sèvre;985;26;1011
+85;197;Montréverd;85;197;Saint-André-Treize-Voies;1422;27;1449
+85;213;Rives de l'Yon;85;213;Saint-Florent-des-Bois;2833;146;2979
+85;146;Montaigu-Vendée;85;217;Saint-Georges-de-Montaigu;4309;142;4451
+85;154;Mouilleron-Saint-Germain;85;219;Saint-Germain-l'Aiguiller;437;12;449
+85;146;Montaigu-Vendée;85;224;Saint-Hilaire-de-Loulay;4577;117;4694
+85;040;La Caillère-Saint-Hilaire;85;230;Saint-Hilaire-du-Bois;292;6;298
+85;090;Sèvremont;85;257;Saint-Michel-Mont-Mercure;2053;155;2208
+85;051;Chantonnay;85;263;Saint-Philbert-du-Pont-Charrault;1031;10;1041
+85;277;Saint-Vincent-sur-Graon;85;270;Saint-Sornin;101;3;104
+85;197;Montréverd;85;272;Saint-Sulpice-le-Verdon;1098;20;1118
+85;034;Bournezeau;85;275;Saint-Vincent-Puymaufrais;539;9;548
+85;020;Benet;85;203;Sainte-Christine;353;5;358
+85;084;Essarts en Bocage;85;212;Sainte-Florence;1280;21;1301
+85;019;Bellevigny;85;279;Saligny;2084;31;2115
+85;177;Velluire-sur-Vendée;85;299;Velluire;717;9;726
+85;302;Chanverrie;85;302;Verrie;3922;95;4017
+86;019;Beaumont Saint-Cyr;86;019;Beaumont;1860;28;1888
+86;123;Boivre-la-Vallée;86;021;Benassay;856;9;865
+86;281;Saint-Martin-la-Pallu;86;030;Blaslay;529;5;534
+86;082;Valence-en-Poitou;86;043;Ceaux-en-Couhé;524;12;536
+86;053;Champigny en Rochereau;86;053;Champigny-le-Sec;1105;23;1128
+86;123;Boivre-la-Vallée;86;056;Chapelle-Montreuil;718;14;732
+86;281;Saint-Martin-la-Pallu;86;060;Charrais;1092;28;1120
+86;082;Valence-en-Poitou;86;067;Châtillon;230;4;234
+86;281;Saint-Martin-la-Pallu;86;071;Cheneché;379;3;382
+86;082;Valence-en-Poitou;86;082;Couhé;1881;37;1918
+86;225;Saint-Jean-de-Sauves;86;101;Frontenay-sur-Dive;179;3;182
+86;115;Jaunay-Marigny;86;115;Jaunay-Clan;6278;234;6512
+86;123;Boivre-la-Vallée;86;123;Lavausseau;743;17;760
+86;115;Jaunay-Marigny;86;146;Marigny-Brizay;1309;21;1330
+86;161;Moncontour;86;155;Messais;99;3;102
+86;123;Boivre-la-Vallée;86;166;Montreuil-Bonnin;755;12;767
+86;108;La Grimaudière;86;179;Notre-Dame-d'Or;90;2;92
+86;161;Moncontour;86;185;Ouzilly-Vignolles;194;2;196
+86;082;Valence-en-Poitou;86;188;Payré;1035;49;1084
+86;070;Chauvigny;86;199;Pouzioux;244;3;247
+86;053;Champigny en Rochereau;86;208;Rochereau;838;12;850
+86;137;Loudun;86;212;Rossay;267;6;273
+86;161;Moncontour;86;216;Saint-Chartres;101;2;103
+86;019;Beaumont Saint-Cyr;86;219;Saint-Cyr;1137;15;1152
+86;245;Senillé-Saint-Sauveur;86;245;Saint-Sauveur;1045;23;1068
+86;245;Senillé-Saint-Sauveur;86;259;Senillé;791;21;812
+86;066;Châtellerault;86;267;Targé;908;16;924
+86;281;Saint-Martin-la-Pallu;86;277;Varennes;349;5;354
+86;082;Valence-en-Poitou;86;278;Vaux;791;14;805
+86;281;Saint-Martin-la-Pallu;86;281;Vendeuvre-du-Poitou;3214;46;3260
+86;108;La Grimaudière;86;283;Verger-sur-Dive;97;6;103
+87;097;Val d'Issoire;87;026;Bussière-Boffy;283;3;286
+87;028;Val-d'Oire-et-Gartempe;87;028;Bussière-Poitevine;836;11;847
+87;028;Val-d'Oire-et-Gartempe;87;055;Darnac;377;3;380
+87;097;Val d'Issoire;87;097;Mézières-sur-Issoire;755;9;764
+87;092;Marval;87;098;Milhaguet;107;3;110
+87;128;Saint-Pardoux-le-Lac;87;128;Roussac;453;4;457
+87;028;Val-d'Oire-et-Gartempe;87;136;Saint-Barbant;309;8;317
+87;027;Bussière-Galant;87;171;Saint-Nicolas-Courbefy;146;4;150
+87;128;Saint-Pardoux-le-Lac;87;173;Saint-Pardoux;623;8;631
+87;180;Saint-Sornin-Leulac;87;175;Saint-Priest-le-Betoux;62;0;62
+87;128;Saint-Pardoux-le-Lac;87;184;Saint-Symphorien-sur-Couze;249;1;250
+87;028;Val-d'Oire-et-Gartempe;87;196;Thiat;133;0;133
+88;218;Granges-Aumontzey;88;018;Aumontzey;481;7;488
+88;029;Vôge-les-Bains;88;029;Bains-les-Bains;1176;113;1289
+88;322;La Neuveville-devant-Lépanges;88;067;Boulay;218;5;223
+88;361;Provenchères-et-Colroy;88;112;Colroy-la-Grande;513;97;610
+88;465;Capavenir Vosges;88;204;Girmont;1000;17;1017
+88;218;Granges-Aumontzey;88;218;Granges-sur-Vologne;2149;50;2199
+88;029;Vôge-les-Bains;88;234;Harsault;314;6;320
+88;029;Vôge-les-Bains;88;235;Hautmougey;128;8;136
+88;465;Capavenir Vosges;88;337;Oncourt;195;7;202
+88;361;Provenchères-et-Colroy;88;361;Provenchères-sur-Fave;841;17;858
+88;322;La Neuveville-devant-Lépanges;88;420;Saint-Jean-du-Marché;90;1;91
+88;465;Capavenir Vosges;88;465;Thaon-les-Vosges;7553;203;7756
+89;130;Deux Rivières;89;001;Accolay;447;5;452
+89;003;Montholon;89;003;Aillant-sur-Tholon;1408;21;1429
+89;055;Brienon-sur-Armançon;89;047;Bligny-en-Othe;95;5;100
+89;439;Vergigny;89;052;Bouilly;240;10;250
+89;086;Charny Orée de Puisaye;89;070;Chambeugle;49;2;51
+89;003;Montholon;89;078;Champvallon;643;14;657
+89;086;Charny Orée de Puisaye;89;086;Charny;1470;16;1486
+89;283;Ouanne;89;090;Chastenay;112;3;115
+89;086;Charny Orée de Puisaye;89;097;Chêne-Arnoult;108;1;109
+89;086;Charny Orée de Puisaye;89;103;Chevillon;321;14;335
+89;411;Les Vallées de la Vanne;89;107;Chigy;354;5;359
+89;197;Guillon-Terre-Plaine;89;109;Cisery;55;0;55
+89;407;Tanlay;89;114;Commissey;200;9;209
+89;130;Deux Rivières;89;130;Cravant;816;24;840
+89;086;Charny Orée de Puisaye;89;138;Dicy;310;7;317
+89;014;Arces-Dilo;89;140;Dilo;64;3;67
+89;233;Lucy-sur-Cure;89;157;Essert;66;1;67
+89;414;Thorigny-sur-Oreuse;89;166;Fleurigny;368;11;379
+89;405;Les Hauts de Forterre;89;174;Fontenailles;66;0;66
+89;086;Charny Orée de Puisaye;89;178;Fontenouilles;219;3;222
+89;086;Charny Orée de Puisaye;89;192;Grandchamp;348;9;357
+89;196;Valravillon;89;196;Guerchy;753;22;775
+89;197;Guillon-Terre-Plaine;89;197;Guillon;424;1;425
+89;196;Valravillon;89;213;Laduz;292;12;304
+89;073;Champignelles;89;231;Louesme;60;0;60
+89;086;Charny Orée de Puisaye;89;241;Malicorne;151;2;153
+89;086;Charny Orée de Puisaye;89;243;Marchais-Beton;124;2;126
+89;405;Les Hauts de Forterre;89;260;Molesmes;171;3;174
+89;196;Valravillon;89;275;Neuilly;442;12;454
+89;420;Treigny-Perreuse-Sainte-Colombe;89;293;Perreuse;59;0;59
+89;086;Charny Orée de Puisaye;89;294;Perreux;337;3;340
+89;086;Charny Orée de Puisaye;89;317;Prunoy;285;2;287
+89;439;Vergigny;89;322;Rebourseaux;278;4;282
+89;441;Vermenton;89;330;Sacy;169;1;170
+89;334;Le Val d'Ocre;89;334;Saint-Aubin-Château-Neuf;508;6;514
+89;086;Charny Orée de Puisaye;89;343;Saint-Denis-sur-Ouanne;145;1;146
+89;334;Le Val d'Ocre;89;356;Saint-Martin-sur-Ocre;52;1;53
+89;414;Thorigny-sur-Oreuse;89;357;Saint-Martin-sur-Oreuse;392;9;401
+89;086;Charny Orée de Puisaye;89;358;Saint-Martin-sur-Ouanne;385;2;387
+89;388;Sépeaux-Saint Romain;89;366;Saint-Romain-le-Preux;171;6;177
+89;407;Tanlay;89;372;Saint-Vinnemer;244;4;248
+89;420;Treigny-Perreuse-Sainte-Colombe;89;340;Sainte-Colombe-sur-Loing;201;1;202
+89;197;Guillon-Terre-Plaine;89;381;Sceaux;129;6;135
+89;388;Sépeaux-Saint Romain;89;388;Sépeaux;368;8;376
+89;344;Saint-Fargeau;89;389;Septfonds;142;0;142
+89;263;Monéteau;89;401;Sougères-sur-Sinotte;412;10;422
+89;405;Les Hauts de Forterre;89;405;Taingy;259;3;262
+89;411;Les Vallées de la Vanne;89;411;Theil-sur-Vanne;468;11;479
+89;420;Treigny-Perreuse-Sainte-Colombe;89;420;Treigny;722;20;742
+89;197;Guillon-Terre-Plaine;89;421;Trévilly;65;0;65
+89;411;Les Vallées de la Vanne;89;429;Vareilles;236;5;241
+89;024;Auxerre;89;435;Vaux;357;1;358
+89;197;Guillon-Terre-Plaine;89;448;Vignes;80;1;81
+89;086;Charny Orée de Puisaye;89;454;Villefranche;602;8;610
+89;196;Valravillon;89;457;Villemer;271;7;278
+89;003;Montholon;89;473;Villiers-sur-Tholon;465;16;481
+89;472;Villiers-Saint-Benoît;89;476;Villotte;85;0;85
+89;003;Montholon;89;484;Volgré;350;9;359
+90;068;Meroux-Moval;90;068;Meroux;862;22;884
+90;068;Meroux-Moval;90;073;Moval;448;8;456
+91;228;Évry-Courcouronnes;91;182;Courcouronnes;13490;127;13617
+91;390;Mérévillois;91;222;Estouches;253;4;257
+91;228;Évry-Courcouronnes;91;228;Évry;53641;333;53974
+91;390;Mérévillois;91;390;Méréville;3059;39;3098

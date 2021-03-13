@@ -1,0 +1,64 @@
+<html>
+<head>
+<meta charset='utf-8'>
+<style>
+  #mld .relation { font-variant: small-caps; font-weight: bold }
+  #mld .primary { text-decoration: underline }
+  #mld .foreign { font-style: oblique }
+  #mld .normal { }
+</style>
+</head>
+<body>
+<div id='mld'>
+<div>
+  <span class='relation'>EDUCATION</span> (
+    <span class='primary'>id_ecole</span>,
+    <span class='normal'>type</span>,
+    <span class='normal'>patronyme</span>,
+    <span class='normal'>code_academie</span>,
+    <span class='normal'>id_insee</span>
+  )
+</div>
+<div>
+  <span class='relation'>DEPARTEMENT</span> (
+    <span class='primary'>id_dpt</span>,
+    <span class='normal'>nom</span>,
+    <span class='foreign'>id_region</span>,
+    <span class='foreign'>id_insee</span>
+  )
+</div>
+<div>
+  <span class='relation'>COMMUNES</span> (
+    <span class='primary'>id_insee</span>,
+    <span class='normal'>nom</span>,
+    <span class='normal'>id_uu</span>,
+    <span class='normal'>id_dpt</span>,
+    <span class='normal'>id_region</span>,
+    <span class='foreign'>id_insee.1</span>,
+    <span class='foreign'>id_uu.1</span>,
+    <span class='foreign'>id_ecole</span>
+  )
+</div>
+<div>
+  <span class='relation'>REGION</span> (
+    <span class='primary'>id_region</span>,
+    <span class='normal'>nom</span>
+  )
+</div>
+<div>
+  <span class='relation'>UNITES_URBAINES</span> (
+    <span class='primary'>id_uu</span>,
+    <span class='normal'>nom</span>,
+    <span class='normal'>tranche_uu</span>,
+    <span class='normal'>tranche_detaillee</span>
+  )
+</div>
+<div>
+  <span class='relation'>POPULATION</span> (
+    <span class='primary'>id_insee</span>,
+    <span class='normal'>population_totale</span>
+  )
+</div>
+</div>
+</body>
+</html>
