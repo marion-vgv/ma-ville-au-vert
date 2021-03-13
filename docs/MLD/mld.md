@@ -12,16 +12,16 @@
 - tranche_uu INTEGER
 - tranche_detailled INTEGER
 
-## POPULATION 
+## POPULATIONS 
 - id SERIAL Primary Key NOT NULL
 - population_total INTEGER NOT NULL
 - *id_town* INTEGER Foreign Key NOT NULL
 
-## EDUCATION
+## EDUCATION_PLACES
 - id INTEGER Primary Key NOT NULL
 - id_uai VAR CHAR 100 NOT NULL
 - *id_type* VAR CHAR 100 NOT NULL
-- name_entity VAR CHAR 100 NOT NULL
+- name_place VAR CHAR 100 NOT NULL
 - secteur VAR CHAR 100 NOT NULL
 - code_academy INTEGER NOT NULL
 - *id_town* INTEGER Foreign Key NOT NULL
@@ -30,11 +30,11 @@
 - id INTEGER Primary Key NOT NULL
 - type VAR CHAR 100 NOT NULL
 
-## DEPARTMENT
+## DEPARTMENTS
 - id INTEGER Primary Key NOT NULL
 - name_dpt VAR CHAR 100 NOT NULL
 - *id_region* INTEGER Foreign Key NOT NULL
 
-## REGION
+## REGIONS
 - id INTEGER Primary Key NOT NULL
 - name_region VAR CHAR 100 NOT NULL
