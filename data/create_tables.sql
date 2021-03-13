@@ -28,7 +28,7 @@ CREATE TABLE IF NOT EXISTS "education_type" (
 CREATE TABLE IF NOT EXISTS "departments" (
     "id" INTEGER PRIMARY KEY NOT NULL,
     "name_dpt" VARCHAR NOT NULL,
-    "id_region" INTEGER Foreign Key NOT NULL "regions" ("id")
+    "id_region" INTEGER NOT NULL REFERENCES "regions" ("id")
 );
 
 
@@ -37,7 +37,7 @@ CREATE TABLE IF NOT EXISTS "towns" (
     "name_town" VARCHAR NOT NULL,
     "id_uu" INTEGER NOT NULL REFERENCES "urban_units" ("id"),
     "id_dpt" INTEGER NOT NULL REFERENCES "departments" ("id"),
-    "id_region" INTEGER Foreign Key NOT NULL "regions" ("id")
+    "id_region" INTEGER NOT NULL REFERENCES "regions" ("id")
 );
 
 CREATE TABLE IF NOT EXISTS "populations" (
