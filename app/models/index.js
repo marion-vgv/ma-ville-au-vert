@@ -47,7 +47,7 @@ Town.belongsTo(Department,{
 });
 
 Region.hasMany(Town, {
-    foreignKey: 'id_region';
+    foreignKey: 'id_region',
     as: 'towns'
 });
 
@@ -66,12 +66,12 @@ Population.belongsTo(Town, {
     as: 'town'
 });
 
-Education_place.hasOne(Town, {
+Education_place.belongsTo(Town, {
     foreignKey: 'id_town',
     as: 'town'
 });
 
-Town.belongsTo(Town,{
+Town.hasMany(Education_place,{
     foreignKey: 'id_town',
     as: 'schools'
 });

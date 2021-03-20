@@ -4,7 +4,8 @@ const {Sequelize} = require('sequelize');
 const sequelize = new Sequelize(process.env.PG_URL, {
     define: {
         //permet le nom de champs en snake_case
-        underscored: true
+        underscored: true,
+        timestamps: false
     }
 });
 
