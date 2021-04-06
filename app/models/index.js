@@ -17,12 +17,12 @@ Department.belongsTo(Region, {
 });
 
 Education_type.hasMany(Education_place, {
-    foreignKey: 'education_type',
+    foreignKey: 'id_type',
     as: 'level'
 });
 
 Education_place.belongsTo(Education_type, {
-    foreignKey: 'education_type',
+    foreignKey: 'id',
     as: 'places'
 });
 
@@ -73,7 +73,7 @@ Education_place.belongsTo(Town, {
 
 Town.hasMany(Education_place,{
     foreignKey: 'id_town',
-    as: 'schools'
+    as: 'school'
 });
 
 module.exports = {
