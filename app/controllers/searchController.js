@@ -177,6 +177,10 @@ const searchController = {
                     },
                     include : [
                         {
+                            model: Region,
+                            as : 'region',
+                        },
+                        {
                             model: Department,
                             as : 'department',
                         },
@@ -201,6 +205,10 @@ const searchController = {
     
                     },
                     include : [
+                        {
+                            model: Region,
+                            as : 'region',
+                        },
                         {
                             model: Department,
                             as : 'department',
