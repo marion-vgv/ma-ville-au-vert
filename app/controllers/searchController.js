@@ -1,48 +1,96 @@
 const { request, response } = require('express');
-const { Town, Urban_unit, Department, Population, Education_type, Education_place } = require('../models');
+const { Town, Urban_unit, Department, Population, Education_type, Education_place, Region } = require('../models');
 const { Op } = require("sequelize");
 
 const searchController = {
-    home : (request, response)=>{
-        response.render('home');
-    },
+    home : async (request, response)=>{
+        // Donnees a recuperer pour generer le formulaire et les valeurs associees : 
+        // - Regions (noms + ID)
+        // - Departement (nom + ID)
 
-    getAllTowns : async (request, response)=>{
+        try{
+            const regions = await Region.findAll();
+            const departments = await Department.findAll();
+            const data = {regions,departments}
 
-        try {
-            const towns = await Town.findAll({
-                include : 'urban_unit'
-            });
+            response.json(data);
 
-            response.json(towns);
-        }  catch (error){
+        }
+        catch (error){
             console.log(error)
             response.status(500).send('Une erreur est survenue');
         }
-
     },
 
-    getSearch : async (request, response)=>{
 
+
+
+    getSearch : async (request, response)=>{
         /* DONNES RECUPEREES DU FORM */
+
+        console.log(request.body);
+
         // ETENDUE GEOGRAPHIQUE DE LA RECHERCHE
-        const france = false;
-        const region = 0;
-        const department = 36;
+        let france = false;
+        let region = 0;
+        let department = 0;
+
+        // Selon la sélection de l'user, on change la valeur de la variable concernée
+        switch (request.body.location) {
+            case 'france':
+                france=true;
+                break;
+
+            case 'region':
+                region=parseInt(request.body.locationRegion);
+                break; 
+
+            case 'department':
+                department=parseInt(request.body.locationDepartment);
+                break;  
+        };
 
         // TYPE DE VILLE RECHERCHEE
-        const townType = 'urbaine';
-        const minPeopleUU = 2;
-        const maxPeopleUU = 4;
+        const townType = request.body.type;
+        const uuType = parseInt(request.body.uu);
 
         // TAILLE DE VILLE RECHERCHEE
-        const minPeopleTown = 100;      
-        const maxPeopleTown = 5000;
+        const minPeopleTown = parseInt(request.body.townMin);      
+        const maxPeopleTown = parseInt(request.body.townMax);
 
         // CRITERES DE RECHERCHE LIES A L'EDUCATION
-        const schoolNeeded = true;
-        const schoolType = [151];
+        let schoolNeeded;
 
+
+            if (request.body.school=='true') {
+                schoolNeeded=true;
+            } else {
+                schoolNeeded=false;
+            };
+
+        let schoolType = [];
+        let schoolOptions = request.body.schoolOptions;
+        
+        if (schoolOptions !== undefined){
+        if (schoolOptions.includes('mater')==true){
+            schoolType.push(101,102,103,111)
+        };
+
+        if (schoolOptions.includes('prim')==true){
+            schoolType.push(151,152,153,160, 161, 162, 169, 170)
+        };
+
+        if (schoolOptions.includes('coll')==true){
+            schoolType.push(340, 350, 352)
+        };
+
+        if (schoolOptions.includes('lycee')==true){
+            schoolType.push(300, 301, 302, 306, 310, 312, 315,320,334,335,336,349)
+        };
+
+        if (schoolOptions.includes('segpa')){
+            schoolType.push(390)
+        };}
 
         try{
 
@@ -102,10 +150,7 @@ const searchController = {
                 uuWhere = {
                     model: Urban_unit,
                     as : 'urban_unit',
-                    where: {tranche_uu : {[Op.and]: {
-                        [Op.lte]:maxPeopleUU,
-                        [Op.gte]:minPeopleUU
-                    }}}, 
+                    where: {tranche_uu : uuType}, 
                 }
 
             } else {

@@ -1,20 +1,22 @@
 require('dotenv').config();
 
 const express = require('express');
+const app = express();
 const multer = require('multer');
-const bodyParser = multer();
-
+const upload = multer()
+app.use(upload.none());
 const router = require ('./app/router');
 
-const app = express();
+const cors = require('cors');
 
-app.set('view engine', 'ejs');
-app.set('views', './app/views');
+app.use(cors({
+    origin: ['localhost', 'null']
+}));
 
 const port = process.env.PORT || 3000;
 
 app.use(express.urlencoded({extended : true}));
-app.use(bodyParser.none());
+
 app.use(router);
 app.listen(port, ()=> {
     console.log(`Launched, visit http://localhost:${port}`);
