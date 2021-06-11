@@ -1,12 +1,15 @@
-const sequelize = require('../database');
-const { DataTypes, Model } = require('sequelize');
+const sequelize = require("../database");
+const { DataTypes, Model } = require("sequelize");
 
 class Town extends Model {}
-    Town.init({
-        name_town: DataTypes.STRING,    
-}, {
+Town.init(
+  {
+    name_town: DataTypes.STRING,
+  },
+  {
     sequelize,
-    tableName: 'towns'
-});
+    tableName: "towns",
+  }
+);
 
 module.exports = Town;

@@ -1,23 +1,25 @@
-require('dotenv').config();
+require("dotenv").config();
 
-const express = require('express');
+const express = require("express");
 const app = express();
-const multer = require('multer');
-const upload = multer()
+const multer = require("multer");
+const upload = multer();
 app.use(upload.none());
-const router = require ('./app/router');
+const router = require("./app/router");
 
-const cors = require('cors');
+const cors = require("cors");
 
-app.use(cors({
-    origin: ['localhost', 'null']
-}));
+app.use(
+  cors({
+    origin: ["localhost", "null"],
+  })
+);
 
 const port = process.env.PORT || 3000;
 
-app.use(express.urlencoded({extended : true}));
+app.use(express.urlencoded({ extended: true }));
 
 app.use(router);
-app.listen(port, ()=> {
-    console.log(`Launched, visit http://localhost:${port}`);
-})
+app.listen(port, () => {
+  console.log(`Launched, visit http://localhost:${port}`);
+});

@@ -10,3 +10,6 @@
 - Detail ville 
 - Footer
 - Header
+
+# Lancer
+`npm run auto`
