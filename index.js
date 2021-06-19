@@ -12,6 +12,8 @@ const cors = require("cors");
 app.use(
   cors({
     origin: [process.env.CORS_ORIGIN, "null"],
+    maxAge: 600,
+    
   })
 );
 
