@@ -11,7 +11,7 @@ const cors = require("cors");
 
 app.use(
   cors({
-    origin: ["localhost", "null"],
+    origin: ["http://localhost:1234", "null"],
   })
 );
 
