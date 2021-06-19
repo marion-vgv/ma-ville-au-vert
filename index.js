@@ -23,5 +23,5 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(router);
 app.listen(port, () => {
-  console.log(`Launched, visit http://localhost:${port}`);
+  console.log(`Launched, visit ${process.env.CORS_ORIGIN}:${port}`);
 });
