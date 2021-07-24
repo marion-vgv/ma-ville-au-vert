@@ -22,6 +22,7 @@ const searchController = {
       const data = { regions, departments };
 
       response.json(data);
+
     } catch (error) {
       console.log(error);
       response.status(500).send("Une erreur est survenue");
@@ -249,7 +250,6 @@ const searchController = {
       }
 
       const searchResult = await Town.findAll(searchCriterias);
-
       response.json(searchResult);
     } catch (error) {
       console.log(error);
