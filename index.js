@@ -9,11 +9,12 @@ const router = require("./app/router");
 
 const cors = require("cors");
 
+
 app.use(
   cors({
-    origin: [process.env.CORS_ORIGIN, "null"],
-    maxAge: 600,
-    
+    origin: process.env.CORS_ORIGIN,
+    methods: ["GET", "POST"],
+    maxAge: 600,  
   })
 );
 
@@ -23,5 +24,5 @@ app.use(express.urlencoded({ extended: true }));
 
 app.use(router);
 app.listen(port, () => {
-  console.log(`Launched, visit http://localhost:${port}`);
+  console.log(`Launched, visit localhost:${port}`);
 });
