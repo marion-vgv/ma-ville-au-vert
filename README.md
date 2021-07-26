@@ -15,5 +15,5 @@ Une fois créés, il faut les faire communiquer et installer la DB :
 
 - Dans DB, récupérer 'PSQL command' et copier
 - Dans WebService(back)/Shell (pour créer les tables dans la DB) : 
-  - coller + ajouter -f /data/nom_du_ficher.sql
+  - coller + ajouter -f data/nom_du_ficher.sql
   
