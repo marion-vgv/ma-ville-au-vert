@@ -1,6 +1,7 @@
 BEGIN;
 
-DROP TABLE IF EXISTS "towns",
+DROP TABLE IF EXISTS 
+"towns",
 "urban_units",
 "populations",
 "education_places",
