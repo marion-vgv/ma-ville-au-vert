@@ -1,3 +1,6 @@
+# Initialiser le projet
+`npx gitignore node`
+
 # Lancer
 `npm run auto`
 
